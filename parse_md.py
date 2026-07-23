@@ -81,7 +81,9 @@ def parse_md(filepath):
                 continue
 
             # 跳过表头和无意义行
-            if model_name in ["模型", "事件", "模型", "---"]:
+            if model_name in ["模型", "事件", "模型", "---", "预计时间", "排名"]:
+                continue
+            if company in ["模型", "公司", "参数规模", "关键信息"]:
                 continue
             if not model_name:
                 continue

@@ -1,29 +1,5 @@
 [
   {
-    "name": "预计时间",
-    "org": "模型",
-    "logoUrl": "",
-    "date": "2026-07-22",
-    "repo": "",
-    "tags": [],
-    "description": {
-      "zh-CN": "公司",
-      "en": "公司"
-    }
-  },
-  {
-    "name": "排名",
-    "org": "模型",
-    "logoUrl": "",
-    "date": "2026-07-22",
-    "repo": "",
-    "tags": [],
-    "description": {
-      "zh-CN": "参数规模",
-      "en": "参数规模"
-    }
-  },
-  {
     "name": "Gemini 3.6 Flash",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
