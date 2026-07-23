@@ -3,7 +3,7 @@
     "name": "Anthropic 调整",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -15,7 +15,7 @@
     "name": "Claude Fable 5",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -27,7 +27,7 @@
     "name": "Claude Fable 5 全量开放",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -39,19 +39,19 @@
     "name": "Claude Sonnet 5",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "中端推理模型（API 来源）",
-      "en": "中端推理模型（API 来源）"
+      "zh-CN": "中端推理模型",
+      "en": "中端推理模型"
     }
   },
   {
     "name": "DeepSeek-V4 正式版",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -63,7 +63,7 @@
     "name": "GLM-5.2",
     "org": "智谱AI",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -75,7 +75,7 @@
     "name": "GPT-5.6 Luna（轻量版）",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -87,19 +87,19 @@
     "name": "GPT-5.6 Sol（旗舰版）",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "7/9 获商务部批准，Sol 实际亮相 7/10。新增Ultra多智能体模式，可同时调度多个AI协同完成复杂任务。1M上下文。代码/科研/Agent能力超过Claude Fable 5（API 来源）",
-      "en": "7/9 获商务部批准，Sol 实际亮相 7/10。新增Ultra多智能体模式，可同时调度多个AI协同完成复杂任务。1M上下文。代码/科研/Agent能力超过Claude Fable 5（API 来源）"
+      "zh-CN": "7/9 获商务部批准，Sol 实际亮相 7/10。新增Ultra多智能体模式，可同时调度多个AI协同完成复杂任务。1M上下文。代码/科研/Agent能力超过Claude Fable 5",
+      "en": "7/9 获商务部批准，Sol 实际亮相 7/10。新增Ultra多智能体模式，可同时调度多个AI协同完成复杂任务。1M上下文。代码/科研/Agent能力超过Claude Fable 5"
     }
   },
   {
     "name": "GPT-5.6 Terra（中端版）",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -111,7 +111,7 @@
     "name": "GPT-6 早期预览版",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -123,43 +123,43 @@
     "name": "GPT-Live",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "配套全双工实时语音模型同步上线（API 来源）",
-      "en": "配套全双工实时语音模型同步上线（API 来源）"
+      "zh-CN": "配套全双工实时语音模型同步上线",
+      "en": "配套全双工实时语音模型同步上线"
     }
   },
   {
     "name": "Gemini 3.5 Flash Cyber",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "网络安全专用模型，配合CodeMender代码安全Agent（API 来源）",
-      "en": "网络安全专用模型，配合CodeMender代码安全Agent（API 来源）"
+      "zh-CN": "网络安全专用模型，配合CodeMender代码安全Agent",
+      "en": "网络安全专用模型，配合CodeMender代码安全Agent"
     }
   },
   {
     "name": "Gemini 3.5 Flash-Lite",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "最快最便宜的3.5系列，350 tokens/s，$0.3/$2.5 per MTok，适合Agent工作流（API 来源）",
-      "en": "最快最便宜的3.5系列，350 tokens/s，$0.3/$2.5 per MTok，适合Agent工作流（API 来源）"
+      "zh-CN": "最快最便宜的3.5系列，350 tokens/s，$0.3/$2.5 per MTok，适合Agent工作流",
+      "en": "最快最便宜的3.5系列，350 tokens/s，$0.3/$2.5 per MTok，适合Agent工作流"
     }
   },
   {
     "name": "Gemini 3.5 Pro",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -171,31 +171,31 @@
     "name": "Gemini 3.6 Flash",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "工作流模型，编码/知识/多模态加强，输出Token减少17%，DeepSWE任务提升高达65%（API 来源）",
-      "en": "工作流模型，编码/知识/多模态加强，输出Token减少17%，DeepSWE任务提升高达65%（API 来源）"
+      "zh-CN": "工作流模型，编码/知识/多模态加强，输出Token减少17%，DeepSWE任务提升高达65%",
+      "en": "工作流模型，编码/知识/多模态加强，输出Token减少17%，DeepSWE任务提升高达65%"
     }
   },
   {
     "name": "Grok 4.5",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "500K上下文，推理成本极低（Token消耗仅为Claude Opus 4.8的1/4）。代码能力对标Claude Opus。马斯克宣布计划每月发布一个大模型（API 来源）",
-      "en": "500K上下文，推理成本极低（Token消耗仅为Claude Opus 4.8的1/4）。代码能力对标Claude Opus。马斯克宣布计划每月发布一个大模型（API 来源）"
+      "zh-CN": "500K上下文，推理成本极低（Token消耗仅为Claude Opus 4.8的1/4）。代码能力对标Claude Opus。马斯克宣布计划每月发布一个大模型",
+      "en": "500K上下文，推理成本极低（Token消耗仅为Claude Opus 4.8的1/4）。代码能力对标Claude Opus。马斯克宣布计划每月发布一个大模型"
     }
   },
   {
     "name": "Grok 4.6",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -207,33 +207,33 @@
     "name": "Inkling",
     "org": "Thinking Machines",
     "logoUrl": "",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "~1T参数多模态开源模型，原生支持图像/音频/文本输入，1M上下文。训练数据45T tokens。支持SGLang/vLLM/llama.cpp（API 来源）",
-      "en": "~1T参数多模态开源模型，原生支持图像/音频/文本输入，1M上下文。训练数据45T tokens。支持SGLang/vLLM/llama.cpp（API 来源）"
+      "zh-CN": "~1T参数多模态开源模型，原生支持图像/音频/文本输入，1M上下文。训练数据45T tokens。支持SGLang/vLLM/llama.cpp",
+      "en": "~1T参数多模态开源模型，原生支持图像/音频/文本输入，1M上下文。训练数据45T tokens。支持SGLang/vLLM/llama.cpp"
     }
   },
   {
     "name": "Kimi K3",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [
       "Featured"
     ],
     "description": {
-      "zh-CN": "2.8T参数，全球首个迈入3T级别的开源模型。896专家MoE（激活16个），1 前端代码榜。完整权重7/27前开源（API 来源）",
-      "en": "2.8T参数，全球首个迈入3T级别的开源模型。896专家MoE（激活16个），1 前端代码榜。完整权重7/27前开源（API 来源）"
+      "zh-CN": "2.8T参数，全球首个迈入3T级别的开源模型。896专家MoE（激活16个），1 前端代码榜。完整权重7/27前开源",
+      "en": "2.8T参数，全球首个迈入3T级别的开源模型。896专家MoE（激活16个），1 前端代码榜。完整权重7/27前开源"
     }
   },
   {
     "name": "Kimi K3 开源权重",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -245,19 +245,19 @@
     "name": "LongCat-2.0",
     "org": "美团",
     "logoUrl": "",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "1.6T参数（万亿级），业界首个在五万卡国产算力集群上完成全流程训练与推理。1M上下文，聚焦Agentic Coding。7/12正式开源，同步开放国产卡推理代码（API 来源）",
-      "en": "1.6T参数（万亿级），业界首个在五万卡国产算力集群上完成全流程训练与推理。1M上下文，聚焦Agentic Coding。7/12正式开源，同步开放国产卡推理代码（API 来源）"
+      "zh-CN": "1.6T参数（万亿级），业界首个在五万卡国产算力集群上完成全流程训练与推理。1M上下文，聚焦Agentic Coding。7/12正式开源，同步开放国产卡推理代码",
+      "en": "1.6T参数（万亿级），业界首个在五万卡国产算力集群上完成全流程训练与推理。1M上下文，聚焦Agentic Coding。7/12正式开源，同步开放国产卡推理代码"
     }
   },
   {
     "name": "LongCat-2.0 正式开源",
     "org": "美团",
     "logoUrl": "",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -269,7 +269,7 @@
     "name": "M3 Pro",
     "org": "MiniMax",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -281,7 +281,7 @@
     "name": "Macaron-V1",
     "org": "Mind Lab",
     "logoUrl": "",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -293,55 +293,55 @@
     "name": "Muse Image / Muse Video",
     "org": "Meta",
     "logoUrl": "https://github.com/facebook.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "图像与视频生成模型，Meta Superintelligence Labs首批媒体生成模型（API 来源）",
-      "en": "图像与视频生成模型，Meta Superintelligence Labs首批媒体生成模型（API 来源）"
+      "zh-CN": "图像与视频生成模型，Meta Superintelligence Labs首批媒体生成模型",
+      "en": "图像与视频生成模型，Meta Superintelligence Labs首批媒体生成模型"
     }
   },
   {
     "name": "OmniFlash",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "多模态轻量模型，原名 Gemini Omni Flash（API 来源）",
-      "en": "多模态轻量模型，原名 Gemini Omni Flash（API 来源）"
+      "zh-CN": "多模态轻量模型，原名 Gemini Omni Flash",
+      "en": "多模态轻量模型，原名 Gemini Omni Flash"
     }
   },
   {
     "name": "Qwen-Audio-3.0-Realtime",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "实时语音模型，支持工具调用和处理打断。分两档：Plus（推理强）、Flash（速度快）。通过阿里云百炼WebSocket API提供服务（API 来源）",
-      "en": "实时语音模型，支持工具调用和处理打断。分两档：Plus（推理强）、Flash（速度快）。通过阿里云百炼WebSocket API提供服务（API 来源）"
+      "zh-CN": "实时语音模型，支持工具调用和处理打断。分两档：Plus（推理强）、Flash（速度快）。通过阿里云百炼WebSocket API提供服务",
+      "en": "实时语音模型，支持工具调用和处理打断。分两档：Plus（推理强）、Flash（速度快）。通过阿里云百炼WebSocket API提供服务"
     }
   },
   {
     "name": "Qwen3.8 预览版",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "参数规模达 2.4万亿，即将开源（API 来源）",
-      "en": "参数规模达 2.4万亿，即将开源（API 来源）"
+      "zh-CN": "参数规模达 2.4万亿，即将开源",
+      "en": "参数规模达 2.4万亿，即将开源"
     }
   },
   {
     "name": "SWE-1.7",
     "org": "Cognition",
     "logoUrl": "",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -353,45 +353,45 @@
     "name": "混元 Hy3",
     "org": "腾讯",
     "logoUrl": "https://github.com/tencent.png",
-    "date": "2026-07-01",
+    "date": "2026-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "295B MoE架构，每次推理仅激活21B参数（+3.8B MTP层），256K上下文。Apache-2.0开源，幻觉率降至5.4%。 API 最早 7/13 出现记录，7/6 发布日期待确认（API 来源）",
-      "en": "295B MoE架构，每次推理仅激活21B参数（+3.8B MTP层），256K上下文。Apache-2.0开源，幻觉率降至5.4%。 API 最早 7/13 出现记录，7/6 发布日期待确认（API 来源）"
+      "zh-CN": "295B MoE架构，每次推理仅激活21B参数（+3.8B MTP层），256K上下文。Apache-2.0开源，幻觉率降至5.4%。 API 最早 7/13 出现记录，7/6 发布日期待确认",
+      "en": "295B MoE架构，每次推理仅激活21B参数（+3.8B MTP层），256K上下文。Apache-2.0开源，幻觉率降至5.4%。 API 最早 7/13 出现记录，7/6 发布日期待确认"
     }
   },
   {
     "name": "Apodex 1.0 系列",
     "org": "Apodex",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "四款规模：36B / 5B / 2B / 0.9B，262K上下文（来源）",
-      "en": "四款规模：36B / 5B / 2B / 0.9B，262K上下文（来源）"
+      "zh-CN": "四款规模：36B / 5B / 2B / 0.9B，262K上下文",
+      "en": "四款规模：36B / 5B / 2B / 0.9B，262K上下文"
     }
   },
   {
     "name": "Claude Fable 5（预览版）",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [
       "Featured"
     ],
     "description": {
-      "zh-CN": "全新创意线旗舰，1M上下文。闭门合作伙伴预览，Anthropic尚未公布GA时间。7月全量放开（API 来源）",
-      "en": "全新创意线旗舰，1M上下文。闭门合作伙伴预览，Anthropic尚未公布GA时间。7月全量放开（API 来源）"
+      "zh-CN": "全新创意线旗舰，1M上下文。闭门合作伙伴预览，Anthropic尚未公布GA时间。7月全量放开",
+      "en": "全新创意线旗舰，1M上下文。闭门合作伙伴预览，Anthropic尚未公布GA时间。7月全量放开"
     }
   },
   {
     "name": "Claude Mythos 5",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -403,33 +403,33 @@
     "name": "Claude Mythos 5（GA）",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [
       "Featured"
     ],
     "description": {
-      "zh-CN": "网络安全对齐前沿模型，企业级正式版。具备漏洞感知推理能力，可直接接入采购工作流。1M上下文（API 来源）",
-      "en": "网络安全对齐前沿模型，企业级正式版。具备漏洞感知推理能力，可直接接入采购工作流。1M上下文（API 来源）"
+      "zh-CN": "网络安全对齐前沿模型，企业级正式版。具备漏洞感知推理能力，可直接接入采购工作流。1M上下文",
+      "en": "网络安全对齐前沿模型，企业级正式版。具备漏洞感知推理能力，可直接接入采购工作流。1M上下文"
     }
   },
   {
     "name": "Claude Sonnet 5",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "中端推理模型，GA正式版。 API 显示为 7/1 发布（API 来源）",
-      "en": "中端推理模型，GA正式版。 API 显示为 7/1 发布（API 来源）"
+      "zh-CN": "中端推理模型，GA正式版。 API 显示为 7/1 发布",
+      "en": "中端推理模型，GA正式版。 API 显示为 7/1 发布"
     }
   },
   {
     "name": "DeepSeek-V4-Flash-DSpark",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -441,7 +441,7 @@
     "name": "DeepSeek-V4-Pro-DSpark",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -453,7 +453,7 @@
     "name": "DiffusionGemma",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -465,19 +465,19 @@
     "name": "DiffusionGemma 26B A4B IT",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "26B参数（4B激活），256K上下文，开源扩散模型，文本生成速度提升4倍（API 来源）",
-      "en": "26B参数（4B激活），256K上下文，开源扩散模型，文本生成速度提升4倍（API 来源）"
+      "zh-CN": "26B参数（4B激活），256K上下文，开源扩散模型，文本生成速度提升4倍",
+      "en": "26B参数（4B激活），256K上下文，开源扩散模型，文本生成速度提升4倍"
     }
   },
   {
     "name": "Fugu Ultra",
     "org": "Sakana AI",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -489,7 +489,7 @@
     "name": "GLM-5.2",
     "org": "智谱AI",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -501,7 +501,7 @@
     "name": "GPT-5.6 Luna（预览版）",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -513,7 +513,7 @@
     "name": "GPT-5.6 Sol",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -525,21 +525,21 @@
     "name": "GPT-5.6 Sol（预览版）",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [
       "Featured"
     ],
     "description": {
-      "zh-CN": "旗舰版，1M上下文。有限合作伙伴预览，美国政府要求先经过审查流程。7/9正式全量发布（API 来源）",
-      "en": "旗舰版，1M上下文。有限合作伙伴预览，美国政府要求先经过审查流程。7/9正式全量发布（API 来源）"
+      "zh-CN": "旗舰版，1M上下文。有限合作伙伴预览，美国政府要求先经过审查流程。7/9正式全量发布",
+      "en": "旗舰版，1M上下文。有限合作伙伴预览，美国政府要求先经过审查流程。7/9正式全量发布"
     }
   },
   {
     "name": "GPT-5.6 Terra（预览版）",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -551,7 +551,7 @@
     "name": "Gemini 3.1 Flash Lite Image",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -563,19 +563,19 @@
     "name": "Gemma 4",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "12B参数，256K上下文，开源。统一的无编码器多模态模型（API 来源）",
-      "en": "12B参数，256K上下文，开源。统一的无编码器多模态模型（API 来源）"
+      "zh-CN": "12B参数，256K上下文，开源。统一的无编码器多模态模型",
+      "en": "12B参数，256K上下文，开源。统一的无编码器多模态模型"
     }
   },
   {
     "name": "Gemma 4",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -587,19 +587,19 @@
     "name": "Grok Imagine 1.5",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "视频生成预览版（API 来源）",
-      "en": "视频生成预览版（API 来源）"
+      "zh-CN": "视频生成预览版",
+      "en": "视频生成预览版"
     }
   },
   {
     "name": "Higgs Audio v3 TTS",
     "org": "Boson AI",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -611,43 +611,43 @@
     "name": "Holo 3.1",
     "org": "H Company",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "快速本地计算机使用智能体（API 来源）",
-      "en": "快速本地计算机使用智能体（API 来源）"
+      "zh-CN": "快速本地计算机使用智能体",
+      "en": "快速本地计算机使用智能体"
     }
   },
   {
     "name": "Holo 3.1 系列",
     "org": "H Company",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "四款规模：0.8B / 4B / 9B / 35B-A3B，262K上下文。 API 显示为 6/3 发布（API 来源）",
-      "en": "四款规模：0.8B / 4B / 9B / 35B-A3B，262K上下文。 API 显示为 6/3 发布（API 来源）"
+      "zh-CN": "四款规模：0.8B / 4B / 9B / 35B-A3B，262K上下文。 API 显示为 6/3 发布",
+      "en": "四款规模：0.8B / 4B / 9B / 35B-A3B，262K上下文。 API 显示为 6/3 发布"
     }
   },
   {
     "name": "Ideogram 4.0",
     "org": "Ideogram",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "9.3B参数，图像生成模型（API 来源）",
-      "en": "9.3B参数，图像生成模型（API 来源）"
+      "zh-CN": "9.3B参数，图像生成模型",
+      "en": "9.3B参数，图像生成模型"
     }
   },
   {
     "name": "Kimi K2.7-Code",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -659,7 +659,7 @@
     "name": "Kimi K2.7-Code 系列",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -671,7 +671,7 @@
     "name": "LFM-2.5",
     "org": "Liquid AI",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -683,7 +683,7 @@
     "name": "Ling-2.6-1T / Ring-2.6-1T",
     "org": "蚂蚁",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -695,7 +695,7 @@
     "name": "Ling/Ring 2.6",
     "org": "蚂蚁",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -707,33 +707,33 @@
     "name": "LongCat-2.0",
     "org": "美团",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [
       "Featured"
     ],
     "description": {
-      "zh-CN": "1.6T参数（万亿级），MoE架构，平均激活~48B（动态33B-56B），1M上下文。MIT协议开源。业界首个在五万卡国产算力集群（国产ASIC，零NVIDIA GPU）上完成全流程训练与推理的万亿参数模型。SWE-bench Pro 59.5，Terminal-Bench 2.1 70.8。此前以\"Owl Alpha\"匿名在OpenRouter运行两个月，月调用量超10万亿Token（API ",
-      "en": "1.6T参数（万亿级），MoE架构，平均激活~48B（动态33B-56B），1M上下文。MIT协议开源。业界首个在五万卡国产算力集群（国产ASIC，零NVIDIA GPU）上完成全流程训练与推理的万亿参数模型。SWE-bench Pro 59.5，Terminal-Bench 2.1 70.8。此前以\"Owl Alpha\"匿名在OpenRouter运行两个月，月调用量超10万亿Token（API "
+      "zh-CN": "1.6T参数（万亿级），MoE架构，平均激活~48B（动态33B-56B），1M上下文。MIT协议开源。业界首个在五万卡国产算力集群（国产ASIC，零NVIDIA GPU）上完成全流程训练与推理的万亿参数模型。SWE-bench Pro 59.5，Terminal-Bench 2.1 70.8。此前以\"Owl Alpha\"匿名在OpenRouter运行两个月，月调用量超10万亿Token",
+      "en": "1.6T参数（万亿级），MoE架构，平均激活~48B（动态33B-56B），1M上下文。MIT协议开源。业界首个在五万卡国产算力集群（国产ASIC，零NVIDIA GPU）上完成全流程训练与推理的万亿参数模型。SWE-bench Pro 59.5，Terminal-Bench 2.1 70.8。此前以\"Owl Alpha\"匿名在OpenRouter运行两个月，月调用量超10万亿Token"
     }
   },
   {
     "name": "MAI-Thinking-1",
     "org": "微软",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "微软首款高级推理AI模型，1T总参数/35B激活，256K上下文，推理增强（API 来源）",
-      "en": "微软首款高级推理AI模型，1T总参数/35B激活，256K上下文，推理增强（API 来源）"
+      "zh-CN": "微软首款高级推理AI模型，1T总参数/35B激活，256K上下文，推理增强",
+      "en": "微软首款高级推理AI模型，1T总参数/35B激活，256K上下文，推理增强"
     }
   },
   {
     "name": "MAI-Thinking-1",
     "org": "微软",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -745,79 +745,79 @@
     "name": "Mellum 2",
     "org": "JetBrains",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "12B参数（2.5B激活），131K上下文，面向IDE场景。 API 未找到，但 JetBrains 官方博客 6/1 确认发布（来源）",
-      "en": "12B参数（2.5B激活），131K上下文，面向IDE场景。 API 未找到，但 JetBrains 官方博客 6/1 确认发布（来源）"
+      "zh-CN": "12B参数（2.5B激活），131K上下文，面向IDE场景。 API 未找到，但 JetBrains 官方博客 6/1 确认发布",
+      "en": "12B参数（2.5B激活），131K上下文，面向IDE场景。 API 未找到，但 JetBrains 官方博客 6/1 确认发布"
     }
   },
   {
     "name": "MiniMax M3",
     "org": "MiniMax",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "旗舰模型，MoE稀疏架构+MSA稀疏注意力，激活仅23B参数，支持百万级超长上下文。编程评测已超越GPT-5.5，实现国产大模型从追赶到领跑的跨越（API 来源）",
-      "en": "旗舰模型，MoE稀疏架构+MSA稀疏注意力，激活仅23B参数，支持百万级超长上下文。编程评测已超越GPT-5.5，实现国产大模型从追赶到领跑的跨越（API 来源）"
+      "zh-CN": "旗舰模型，MoE稀疏架构+MSA稀疏注意力，激活仅23B参数，支持百万级超长上下文。编程评测已超越GPT-5.5，实现国产大模型从追赶到领跑的跨越",
+      "en": "旗舰模型，MoE稀疏架构+MSA稀疏注意力，激活仅23B参数，支持百万级超长上下文。编程评测已超越GPT-5.5，实现国产大模型从追赶到领跑的跨越"
     }
   },
   {
     "name": "Nemotron 3 Ultra",
     "org": "NVIDIA",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "550B参数，1M上下文，企业级模型。为长时间运行的智能体带来更快、更高效的推理能力（API 来源）",
-      "en": "550B参数，1M上下文，企业级模型。为长时间运行的智能体带来更快、更高效的推理能力（API 来源）"
+      "zh-CN": "550B参数，1M上下文，企业级模型。为长时间运行的智能体带来更快、更高效的推理能力",
+      "en": "550B参数，1M上下文，企业级模型。为长时间运行的智能体带来更快、更高效的推理能力"
     }
   },
   {
     "name": "Nex-N2 系列",
     "org": "Nex AGI",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "N2-Pro（397B总参/17B激活，262K上下文）、N2-mini（35B总参/3B激活）。 API 显示为 6/5 发布（API 来源）",
-      "en": "N2-Pro（397B总参/17B激活，262K上下文）、N2-mini（35B总参/3B激活）。 API 显示为 6/5 发布（API 来源）"
+      "zh-CN": "N2-Pro（397B总参/17B激活，262K上下文）、N2-mini（35B总参/3B激活）。 API 显示为 6/5 发布",
+      "en": "N2-Pro（397B总参/17B激活，262K上下文）、N2-mini（35B总参/3B激活）。 API 显示为 6/5 发布"
     }
   },
   {
     "name": "Nex-N2-Pro",
     "org": "Nex AGI",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "基于 Qwen3.5 的 397B MoE 推理模型，性能达 GPT-5.5 水平（API 来源）",
-      "en": "基于 Qwen3.5 的 397B MoE 推理模型，性能达 GPT-5.5 水平（API 来源）"
+      "zh-CN": "基于 Qwen3.5 的 397B MoE 推理模型，性能达 GPT-5.5 水平",
+      "en": "基于 Qwen3.5 的 397B MoE 推理模型，性能达 GPT-5.5 水平"
     }
   },
   {
     "name": "North Mini Code 1.0",
     "org": "Cohere",
     "logoUrl": "https://github.com/cohere-ai.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "30B MoE（3B激活），256K上下文，编程专用，Apache 2.0开源（来源）",
-      "en": "30B MoE（3B激活），256K上下文，编程专用，Apache 2.0开源（来源）"
+      "zh-CN": "30B MoE（3B激活），256K上下文，编程专用，Apache 2.0开源",
+      "en": "30B MoE（3B激活），256K上下文，编程专用，Apache 2.0开源"
     }
   },
   {
     "name": "Ornith 1.0",
     "org": "DeepReinforce",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -829,7 +829,7 @@
     "name": "Ornith 1.0 系列",
     "org": "DeepReinforce",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -841,7 +841,7 @@
     "name": "Qwen 3.7",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -853,19 +853,19 @@
     "name": "Qwen 3.7 系列",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "1M上下文，旗舰与MoE多版本覆盖，开源+闭源双轨。Arena全球盲测国产模型第一。API定价低于DeepSeek V4 Flash。支持长达35小时超长程复杂任务。 API 6/2 出现 \"Qwen3.7-Plus\"（API 来源），文档日期 6/3 可能为北京时间差",
-      "en": "1M上下文，旗舰与MoE多版本覆盖，开源+闭源双轨。Arena全球盲测国产模型第一。API定价低于DeepSeek V4 Flash。支持长达35小时超长程复杂任务。 API 6/2 出现 \"Qwen3.7-Plus\"（API 来源），文档日期 6/3 可能为北京时间差"
+      "zh-CN": "1M上下文，旗舰与MoE多版本覆盖，开源+闭源双轨。Arena全球盲测国产模型第一。API定价低于DeepSeek V4 Flash。支持长达35小时超长程复杂任务。 API 6/2 出现 \"Qwen3.7-Plus\"，文档日期 6/3 可能为北京时间差",
+      "en": "1M上下文，旗舰与MoE多版本覆盖，开源+闭源双轨。Arena全球盲测国产模型第一。API定价低于DeepSeek V4 Flash。支持长达35小时超长程复杂任务。 API 6/2 出现 \"Qwen3.7-Plus\"，文档日期 6/3 可能为北京时间差"
     }
   },
   {
     "name": "Qwen-AgentWorld-35B-A3B",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -877,19 +877,19 @@
     "name": "Seedream 5.0 Pro",
     "org": "字节跳动",
     "logoUrl": "https://github.com/bytedance.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "图像生成模型，支持2K/4K输出、多语言渲染、交互式编辑。 实际为 7/8 发布（来源），文档日期 6/28 有误",
-      "en": "图像生成模型，支持2K/4K输出、多语言渲染、交互式编辑。 实际为 7/8 发布（来源），文档日期 6/28 有误"
+      "zh-CN": "图像生成模型，支持2K/4K输出、多语言渲染、交互式编辑。 实际为 7/8 发布，文档日期 6/28 有误",
+      "en": "图像生成模型，支持2K/4K输出、多语言渲染、交互式编辑。 实际为 7/8 发布，文档日期 6/28 有误"
     }
   },
   {
     "name": "云知声 U2",
     "org": "云知声",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -901,7 +901,7 @@
     "name": "定价",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -913,7 +913,7 @@
     "name": "蚂蚁百灵 Ling & Ring 2.6",
     "org": "蚂蚁",
     "logoUrl": "",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -925,31 +925,31 @@
     "name": "豆包 Seed 2.1 Pro",
     "org": "字节跳动",
     "logoUrl": "https://github.com/bytedance.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "Coding/Agent/VLM三大方向能力跃升，正式跨越生产级质变点。多项评测优于Claude Opus 4.6。在芯片设计RTL测试中连续运行近18小时完成完整工程流程（来源）",
-      "en": "Coding/Agent/VLM三大方向能力跃升，正式跨越生产级质变点。多项评测优于Claude Opus 4.6。在芯片设计RTL测试中连续运行近18小时完成完整工程流程（来源）"
+      "zh-CN": "Coding/Agent/VLM三大方向能力跃升，正式跨越生产级质变点。多项评测优于Claude Opus 4.6。在芯片设计RTL测试中连续运行近18小时完成完整工程流程",
+      "en": "Coding/Agent/VLM三大方向能力跃升，正式跨越生产级质变点。多项评测优于Claude Opus 4.6。在芯片设计RTL测试中连续运行近18小时完成完整工程流程"
     }
   },
   {
     "name": "豆包 Seed 2.1 Turbo",
     "org": "字节跳动",
     "logoUrl": "https://github.com/bytedance.png",
-    "date": "2026-06-01",
+    "date": "2026-06",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "轻量快速版本（来源）",
-      "en": "轻量快速版本（来源）"
+      "zh-CN": "轻量快速版本",
+      "en": "轻量快速版本"
     }
   },
   {
     "name": "ChatGPT for Excel / Google Sheets",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -961,7 +961,7 @@
     "name": "Codex CLI v0.129.0",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -973,7 +973,7 @@
     "name": "Codex CLI v0.131.0",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -985,7 +985,7 @@
     "name": "Codex CLI v0.133.0",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -997,7 +997,7 @@
     "name": "Codex CLI v0.134.0",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1009,7 +1009,7 @@
     "name": "Command A+",
     "org": "Cohere",
     "logoUrl": "https://github.com/cohere-ai.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1021,7 +1021,7 @@
     "name": "Composer 2.5",
     "org": "Cursor",
     "logoUrl": "",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1033,7 +1033,7 @@
     "name": "Cursor 3.4",
     "org": "Cursor",
     "logoUrl": "",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1045,7 +1045,7 @@
     "name": "DeepSeek V4-Pro 永久降价",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1057,7 +1057,7 @@
     "name": "GPT-5.5 Instant",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1069,7 +1069,7 @@
     "name": "GPT-5.5-Cyber",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1081,7 +1081,7 @@
     "name": "Gemini 3.1 Flash Lite",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1093,7 +1093,7 @@
     "name": "Gemini 3.5 Flash",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [
       "Featured"
@@ -1107,7 +1107,7 @@
     "name": "Gemini 3.5 Pro（公告）",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1119,7 +1119,7 @@
     "name": "Grok 4.3",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1131,7 +1131,7 @@
     "name": "Grok Build CLI",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1143,7 +1143,7 @@
     "name": "Grok Build CLI（Beta）",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1155,7 +1155,7 @@
     "name": "Ollama 0.24",
     "org": "Ollama",
     "logoUrl": "",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1167,7 +1167,7 @@
     "name": "Qwen 3.7-Max-Preview",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [
       "Featured"
@@ -1181,7 +1181,7 @@
     "name": "Qwen3.5-Omni",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1193,7 +1193,7 @@
     "name": "Ring-2.6-1T",
     "org": "蚂蚁",
     "logoUrl": "",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1205,7 +1205,7 @@
     "name": "SkyClaw-v1.0",
     "org": "昆仑万维",
     "logoUrl": "",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1217,7 +1217,7 @@
     "name": "Step 3.7 Flash",
     "org": "阶跃星辰",
     "logoUrl": "",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1229,7 +1229,7 @@
     "name": "Step 3.7 Flash",
     "org": "阶跃星辰",
     "logoUrl": "",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1241,7 +1241,7 @@
     "name": "SubQ 1M-Preview",
     "org": "Subquadratic",
     "logoUrl": "",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1253,7 +1253,7 @@
     "name": "ZAYA1-8B",
     "org": "Zyphra",
     "logoUrl": "",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1265,7 +1265,7 @@
     "name": "天工AI SkyClaw-v1.0",
     "org": "昆仑万维",
     "logoUrl": "",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1277,7 +1277,7 @@
     "name": "文心 5.1",
     "org": "百度",
     "logoUrl": "https://github.com/baidu.png",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1289,7 +1289,7 @@
     "name": "蚂蚁百灵 Ring-2.6-1T 开源",
     "org": "蚂蚁",
     "logoUrl": "",
-    "date": "2026-05-01",
+    "date": "2026-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -1301,7 +1301,7 @@
     "name": "Claude Opus 4.7",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [
       "Featured"
@@ -1315,7 +1315,7 @@
     "name": "DeepSeek V3.2 系列",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1327,7 +1327,7 @@
     "name": "DeepSeek V4 系列",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [
       "Featured"
@@ -1341,7 +1341,7 @@
     "name": "GLM-5.1",
     "org": "智谱AI",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [
       "Featured"
@@ -1355,7 +1355,7 @@
     "name": "GPT-5.5",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [
       "Featured"
@@ -1369,7 +1369,7 @@
     "name": "GPT-5.5",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1381,7 +1381,7 @@
     "name": "GPT-5.5-Cyber",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1393,7 +1393,7 @@
     "name": "Gemini 3.1 Pro（无限上下文测试版）",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1405,7 +1405,7 @@
     "name": "Gemma 4 系列",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [
       "Featured"
@@ -1419,7 +1419,7 @@
     "name": "Grok 4.3 Beta",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1431,7 +1431,7 @@
     "name": "Kimi K2.6 正式版",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [
       "Featured"
@@ -1445,7 +1445,7 @@
     "name": "Kimi K2.6-code-preview（Beta）",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1457,7 +1457,7 @@
     "name": "LongCat-2.0-Preview",
     "org": "美团",
     "logoUrl": "",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1469,7 +1469,7 @@
     "name": "MiMo-V2-Flash",
     "org": "小米",
     "logoUrl": "",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1481,7 +1481,7 @@
     "name": "MiniMax 2.7",
     "org": "MiniMax",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1493,7 +1493,7 @@
     "name": "Muse Spark",
     "org": "Meta",
     "logoUrl": "https://github.com/facebook.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1505,7 +1505,7 @@
     "name": "OpenAI",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1517,7 +1517,7 @@
     "name": "Qwen 3.6 系列",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [
       "Featured"
@@ -1531,7 +1531,7 @@
     "name": "文心5.1 Preview",
     "org": "百度",
     "logoUrl": "https://github.com/baidu.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -1543,7 +1543,7 @@
     "name": "腾讯混元 Hy3 preview",
     "org": "腾讯",
     "logoUrl": "https://github.com/tencent.png",
-    "date": "2026-04-01",
+    "date": "2026-04",
     "repo": "",
     "tags": [
       "Featured"
@@ -1557,7 +1557,7 @@
     "name": "Claude 4.6 更新",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1569,7 +1569,7 @@
     "name": "DeepSeek V4",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1581,7 +1581,7 @@
     "name": "GPT-5.1 预览版",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1593,7 +1593,7 @@
     "name": "GPT-5.4",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [
       "Featured"
@@ -1607,7 +1607,7 @@
     "name": "Gemini 3.1 Pro",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1619,7 +1619,7 @@
     "name": "Gemini 3.1 Pro（GA）",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [
       "Featured"
@@ -1633,7 +1633,7 @@
     "name": "Llama 4.0 400B",
     "org": "Meta",
     "logoUrl": "https://github.com/facebook.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1645,21 +1645,21 @@
     "name": "Llama 4.0 系列",
     "org": "Meta",
     "logoUrl": "https://github.com/facebook.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [
       "Featured"
     ],
     "description": {
-      "zh-CN": "实际为 2025年4月5日 发布，非 2026年3月（来源）。Llama 4 Scout/Maverick/Behemoth三款，MoE架构，Scout 109B/17B激活，Maverick 400B/17B激活，原生多模态",
-      "en": "实际为 2025年4月5日 发布，非 2026年3月（来源）。Llama 4 Scout/Maverick/Behemoth三款，MoE架构，Scout 109B/17B激活，Maverick 400B/17B激活，原生多模态"
+      "zh-CN": "实际为 2025年4月5日 发布，非 2026年3月。Llama 4 Scout/Maverick/Behemoth三款，MoE架构，Scout 109B/17B激活，Maverick 400B/17B激活，原生多模态",
+      "en": "实际为 2025年4月5日 发布，非 2026年3月。Llama 4 Scout/Maverick/Behemoth三款，MoE架构，Scout 109B/17B激活，Maverick 400B/17B激活，原生多模态"
     }
   },
   {
     "name": "LongCat-Next",
     "org": "美团",
     "logoUrl": "",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [
       "Featured"
@@ -1673,7 +1673,7 @@
     "name": "MiMo-V2 Pro",
     "org": "小米",
     "logoUrl": "",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1685,7 +1685,7 @@
     "name": "MiMo-V2 系列",
     "org": "小米",
     "logoUrl": "",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1697,7 +1697,7 @@
     "name": "Nemotron 3 Super",
     "org": "NVIDIA",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1709,7 +1709,7 @@
     "name": "Qwen3 235B",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1721,7 +1721,7 @@
     "name": "Qwen3 系列",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1733,7 +1733,7 @@
     "name": "Qwen3.5-Max-Preview 登顶",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1745,7 +1745,7 @@
     "name": "Qwen3.5-Omni（上线）",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1757,7 +1757,7 @@
     "name": "Rakuten AI 3.0",
     "org": "乐天",
     "logoUrl": "",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1769,7 +1769,7 @@
     "name": "Rakuten AI 3.0",
     "org": "乐天",
     "logoUrl": "",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1781,7 +1781,7 @@
     "name": "华为盘古2.0",
     "org": "华为",
     "logoUrl": "",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1793,7 +1793,7 @@
     "name": "星火4.0",
     "org": "科大讯飞",
     "logoUrl": "",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1805,7 +1805,7 @@
     "name": "百度文心5.0 具身智能",
     "org": "百度",
     "logoUrl": "https://github.com/baidu.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1817,7 +1817,7 @@
     "name": "腾讯混元3.0（内测）",
     "org": "腾讯",
     "logoUrl": "https://github.com/tencent.png",
-    "date": "2026-03-01",
+    "date": "2026-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -1829,7 +1829,7 @@
     "name": "Claude Opus 4.6",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [
       "Featured"
@@ -1843,7 +1843,7 @@
     "name": "Claude Sonnet 4.6",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -1855,7 +1855,7 @@
     "name": "DeepSeek V3.2 更新",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -1867,7 +1867,7 @@
     "name": "DeepSeek V4（预计）",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -1879,7 +1879,7 @@
     "name": "GLM-5",
     "org": "智谱AI",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [
       "Featured"
@@ -1893,7 +1893,7 @@
     "name": "GPT-5.3 Codex",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [
       "Featured"
@@ -1907,7 +1907,7 @@
     "name": "Gemini 3.1 Pro",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [
       "Featured"
@@ -1921,7 +1921,7 @@
     "name": "Grok 4.2 RC",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -1933,7 +1933,7 @@
     "name": "Kimi Claw",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -1945,7 +1945,7 @@
     "name": "Ling-2.5-1T",
     "org": "蚂蚁",
     "logoUrl": "",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -1957,7 +1957,7 @@
     "name": "Ming-Flash-Omni 2.0",
     "org": "蚂蚁",
     "logoUrl": "",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -1969,7 +1969,7 @@
     "name": "MiniMax M2.5",
     "org": "MiniMax",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [
       "Featured"
@@ -1983,7 +1983,7 @@
     "name": "OpenClaw 生态扩张",
     "org": "百度",
     "logoUrl": "https://github.com/baidu.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -1995,7 +1995,7 @@
     "name": "Qwen-Image-2.0",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2007,7 +2007,7 @@
     "name": "Qwen3-Coder-Next",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2019,7 +2019,7 @@
     "name": "Qwen3.5-Plus",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2031,7 +2031,7 @@
     "name": "Qwen3.5-Plus 开源",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2043,7 +2043,7 @@
     "name": "Ring-2.5-1T",
     "org": "蚂蚁",
     "logoUrl": "",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [
       "Featured"
@@ -2057,7 +2057,7 @@
     "name": "RynnBrain",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2069,7 +2069,7 @@
     "name": "Seed 2.0 系列",
     "org": "字节跳动",
     "logoUrl": "https://github.com/bytedance.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2081,7 +2081,7 @@
     "name": "Seedance 2.0",
     "org": "字节跳动",
     "logoUrl": "https://github.com/bytedance.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2093,7 +2093,7 @@
     "name": "Seedream 5.0-Preview",
     "org": "字节跳动",
     "logoUrl": "https://github.com/bytedance.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2105,7 +2105,7 @@
     "name": "SkyReels V4",
     "org": "Skywork AI",
     "logoUrl": "",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2117,7 +2117,7 @@
     "name": "Step 3.5 Flash",
     "org": "阶跃星辰",
     "logoUrl": "",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2129,7 +2129,7 @@
     "name": "可灵AI 3.0 系列",
     "org": "快手",
     "logoUrl": "",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2141,7 +2141,7 @@
     "name": "星火X2",
     "org": "科大讯飞",
     "logoUrl": "",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2153,7 +2153,7 @@
     "name": "混元 HY-1.8B-2Bit",
     "org": "腾讯",
     "logoUrl": "https://github.com/tencent.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2165,7 +2165,7 @@
     "name": "豆包2.0 API 上线",
     "org": "字节跳动",
     "logoUrl": "https://github.com/bytedance.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2177,7 +2177,7 @@
     "name": "豆包2.0 Pro",
     "org": "字节跳动",
     "logoUrl": "https://github.com/bytedance.png",
-    "date": "2026-02-01",
+    "date": "2026-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -2189,7 +2189,7 @@
     "name": "DeepSeek-OCR 2",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2026-01-01",
+    "date": "2026-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -2201,7 +2201,7 @@
     "name": "Kimi Agent SDK 开源",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2026-01-01",
+    "date": "2026-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -2213,7 +2213,7 @@
     "name": "Kimi Code 正式发布",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2026-01-01",
+    "date": "2026-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -2225,7 +2225,7 @@
     "name": "Kimi K2.5",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2026-01-01",
+    "date": "2026-01",
     "repo": "",
     "tags": [
       "Featured"
@@ -2239,7 +2239,7 @@
     "name": "LongCat-Flash-Thinking-2601",
     "org": "美团",
     "logoUrl": "",
-    "date": "2026-01-01",
+    "date": "2026-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -2251,7 +2251,7 @@
     "name": "MiniMax Music 2.5",
     "org": "MiniMax",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2026-01-01",
+    "date": "2026-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -2263,7 +2263,7 @@
     "name": "Qwen3-Max-Thinking",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2026-01-01",
+    "date": "2026-01",
     "repo": "",
     "tags": [
       "Featured"
@@ -2277,7 +2277,7 @@
     "name": "文心5.0",
     "org": "百度",
     "logoUrl": "https://github.com/baidu.png",
-    "date": "2026-01-01",
+    "date": "2026-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -2289,7 +2289,7 @@
     "name": "文心5.0 正式版上线",
     "org": "百度",
     "logoUrl": "https://github.com/baidu.png",
-    "date": "2026-01-01",
+    "date": "2026-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -2301,7 +2301,7 @@
     "name": "智谱AI 港交所上市",
     "org": "智谱AI",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2026-01-01",
+    "date": "2026-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -2313,7 +2313,7 @@
     "name": "Claude Code 年化收入10亿美元",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -2325,7 +2325,7 @@
     "name": "GLM-4.7",
     "org": "智谱AI",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -2337,7 +2337,7 @@
     "name": "GPT-5.2",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [
       "Featured"
@@ -2351,7 +2351,7 @@
     "name": "Gemini Deep Research Agent 更新",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -2363,7 +2363,7 @@
     "name": "LLaDA2.0 系列",
     "org": "蚂蚁",
     "logoUrl": "",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -2375,19 +2375,19 @@
     "name": "Mistral Large 3",
     "org": "Mistral",
     "logoUrl": "https://github.com/mistralai.png",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "采用DeepSeek-V3启发的MoE架构，675B总参/41B激活，多语言多模态（来源）",
-      "en": "采用DeepSeek-V3启发的MoE架构，675B总参/41B激活，多语言多模态（来源）"
+      "zh-CN": "采用DeepSeek-V3启发的MoE架构，675B总参/41B激活，多语言多模态",
+      "en": "采用DeepSeek-V3启发的MoE架构，675B总参/41B激活，多语言多模态"
     }
   },
   {
     "name": "Nemotron 3 系列",
     "org": "NVIDIA",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -2399,7 +2399,7 @@
     "name": "Olmo 3",
     "org": "AI2",
     "logoUrl": "",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -2411,7 +2411,7 @@
     "name": "Qwen-Image-2512",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -2423,7 +2423,7 @@
     "name": "gpt-image-1.5",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -2435,7 +2435,7 @@
     "name": "智谱 & MiniMax 递表港交所",
     "org": "智谱AI",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -2447,7 +2447,7 @@
     "name": "月之暗面C轮融资5亿美元",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2025-12-01",
+    "date": "2025-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -2459,7 +2459,7 @@
     "name": "Anthropic《通过MCP执行代码》",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2025-11-01",
+    "date": "2025-11",
     "repo": "",
     "tags": [],
     "description": {
@@ -2471,19 +2471,19 @@
     "name": "GPT-5.1",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-11-01",
+    "date": "2025-11",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "提升ChatGPT智能水平与对话趣味性，逐步推送替代旧版GPT-5（来源）",
-      "en": "提升ChatGPT智能水平与对话趣味性，逐步推送替代旧版GPT-5（来源）"
+      "zh-CN": "提升ChatGPT智能水平与对话趣味性，逐步推送替代旧版GPT-5",
+      "en": "提升ChatGPT智能水平与对话趣味性，逐步推送替代旧版GPT-5"
     }
   },
   {
     "name": "Gemini 3 系列",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2025-11-01",
+    "date": "2025-11",
     "repo": "",
     "tags": [
       "Featured"
@@ -2497,7 +2497,7 @@
     "name": "Grok 4.1",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2025-11-01",
+    "date": "2025-11",
     "repo": "",
     "tags": [],
     "description": {
@@ -2509,7 +2509,7 @@
     "name": "Kimi K2 Thinking",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2025-11-01",
+    "date": "2025-11",
     "repo": "",
     "tags": [
       "Featured"
@@ -2523,7 +2523,7 @@
     "name": "MiniMax-M2.1",
     "org": "MiniMax",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2025-11-01",
+    "date": "2025-11",
     "repo": "",
     "tags": [],
     "description": {
@@ -2535,7 +2535,7 @@
     "name": "Nano Banana Pro",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2025-11-01",
+    "date": "2025-11",
     "repo": "",
     "tags": [],
     "description": {
@@ -2547,7 +2547,7 @@
     "name": "Qwen-Image-Edit-2511",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2025-11-01",
+    "date": "2025-11",
     "repo": "",
     "tags": [],
     "description": {
@@ -2559,7 +2559,7 @@
     "name": "ChatGPT Atlas",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-10-01",
+    "date": "2025-10",
     "repo": "",
     "tags": [],
     "description": {
@@ -2571,7 +2571,7 @@
     "name": "MiniMax-M2",
     "org": "MiniMax",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2025-10-01",
+    "date": "2025-10",
     "repo": "",
     "tags": [],
     "description": {
@@ -2583,7 +2583,7 @@
     "name": "gpt-image-1-mini",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-10-01",
+    "date": "2025-10",
     "repo": "",
     "tags": [],
     "description": {
@@ -2595,7 +2595,7 @@
     "name": "悟界Emu3.5",
     "org": "智源研究院",
     "logoUrl": "",
-    "date": "2025-10-01",
+    "date": "2025-10",
     "repo": "",
     "tags": [],
     "description": {
@@ -2607,7 +2607,7 @@
     "name": "网页版 Claude Code",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2025-10-01",
+    "date": "2025-10",
     "repo": "",
     "tags": [],
     "description": {
@@ -2619,7 +2619,7 @@
     "name": "\"Create and edit files with Claude\"",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2025-09-01",
+    "date": "2025-09",
     "repo": "",
     "tags": [],
     "description": {
@@ -2631,7 +2631,7 @@
     "name": "Claude Sonnet 4.5",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2025-09-01",
+    "date": "2025-09",
     "repo": "",
     "tags": [
       "Featured"
@@ -2645,7 +2645,7 @@
     "name": "DeepSeek V3.2",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2025-09-01",
+    "date": "2025-09",
     "repo": "",
     "tags": [],
     "description": {
@@ -2657,7 +2657,7 @@
     "name": "ERNIE-4.5-21B-A3B-Thinking 开源",
     "org": "百度",
     "logoUrl": "https://github.com/baidu.png",
-    "date": "2025-09-01",
+    "date": "2025-09",
     "repo": "",
     "tags": [],
     "description": {
@@ -2669,7 +2669,7 @@
     "name": "GLM-4.6",
     "org": "智谱AI",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2025-09-01",
+    "date": "2025-09",
     "repo": "",
     "tags": [],
     "description": {
@@ -2681,7 +2681,7 @@
     "name": "ICPC 金牌级编程",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-09-01",
+    "date": "2025-09",
     "repo": "",
     "tags": [],
     "description": {
@@ -2693,7 +2693,7 @@
     "name": "文心X1.1",
     "org": "百度",
     "logoUrl": "https://github.com/baidu.png",
-    "date": "2025-09-01",
+    "date": "2025-09",
     "repo": "",
     "tags": [
       "Featured"
@@ -2707,19 +2707,19 @@
     "name": "Claude Opus 4.1",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2025-08-01",
+    "date": "2025-08",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "Opus 4的小更新，小幅改进（来源）",
-      "en": "Opus 4的小更新，小幅改进（来源）"
+      "zh-CN": "Opus 4的小更新，小幅改进",
+      "en": "Opus 4的小更新，小幅改进"
     }
   },
   {
     "name": "GPT-5",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-08-01",
+    "date": "2025-08",
     "repo": "",
     "tags": [
       "Featured"
@@ -2733,7 +2733,7 @@
     "name": "GPT-5 Mini / GPT-5 Nano",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-08-01",
+    "date": "2025-08",
     "repo": "",
     "tags": [],
     "description": {
@@ -2745,7 +2745,7 @@
     "name": "GPT-5 Pro",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-08-01",
+    "date": "2025-08",
     "repo": "",
     "tags": [],
     "description": {
@@ -2757,7 +2757,7 @@
     "name": "Grok Code Fast 1",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2025-08-01",
+    "date": "2025-08",
     "repo": "",
     "tags": [],
     "description": {
@@ -2769,7 +2769,7 @@
     "name": "Nano Banana（Gemini 2.5 Flash Image）",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2025-08-01",
+    "date": "2025-08",
     "repo": "",
     "tags": [
       "Featured"
@@ -2783,7 +2783,7 @@
     "name": "Nemotron Nano v2",
     "org": "NVIDIA",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2025-08-01",
+    "date": "2025-08",
     "repo": "",
     "tags": [],
     "description": {
@@ -2795,7 +2795,7 @@
     "name": "Qwen-Image",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2025-08-01",
+    "date": "2025-08",
     "repo": "",
     "tags": [],
     "description": {
@@ -2807,7 +2807,7 @@
     "name": "Qwen-Image-Edit",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2025-08-01",
+    "date": "2025-08",
     "repo": "",
     "tags": [],
     "description": {
@@ -2819,7 +2819,7 @@
     "name": "Gemma 3n",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2025-07-01",
+    "date": "2025-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -2831,7 +2831,7 @@
     "name": "Grok 4 / Grok 4 Heavy",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2025-07-01",
+    "date": "2025-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -2843,7 +2843,7 @@
     "name": "IMO 金牌级推理",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-07-01",
+    "date": "2025-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -2855,19 +2855,19 @@
     "name": "Mistral Medium 3.1",
     "org": "Mistral",
     "logoUrl": "https://github.com/mistralai.png",
-    "date": "2025-07-01",
+    "date": "2025-07",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "通用多模态模型发布。 实际为 8月12日 发布（来源）",
-      "en": "通用多模态模型发布。 实际为 8月12日 发布（来源）"
+      "zh-CN": "通用多模态模型发布。 实际为 8月12日 发布",
+      "en": "通用多模态模型发布。 实际为 8月12日 发布"
     }
   },
   {
     "name": "ERNIE 4.5 系列",
     "org": "百度",
     "logoUrl": "https://github.com/baidu.png",
-    "date": "2025-06-01",
+    "date": "2025-06",
     "repo": "",
     "tags": [
       "Featured"
@@ -2881,7 +2881,7 @@
     "name": "Gemini 2.5 Pro 更新",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2025-06-01",
+    "date": "2025-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -2893,7 +2893,7 @@
     "name": "Magistral",
     "org": "Mistral",
     "logoUrl": "https://github.com/mistralai.png",
-    "date": "2025-06-01",
+    "date": "2025-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -2905,7 +2905,7 @@
     "name": "MiniMax-M1",
     "org": "MiniMax",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2025-06-01",
+    "date": "2025-06",
     "repo": "",
     "tags": [
       "Featured"
@@ -2919,7 +2919,7 @@
     "name": "Qwen-VLo",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2025-06-01",
+    "date": "2025-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -2931,7 +2931,7 @@
     "name": "Qwen3-Embedding",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2025-06-01",
+    "date": "2025-06",
     "repo": "",
     "tags": [],
     "description": {
@@ -2943,7 +2943,7 @@
     "name": "Claude 4 系列",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2025-05-01",
+    "date": "2025-05",
     "repo": "",
     "tags": [
       "Featured"
@@ -2957,7 +2957,7 @@
     "name": "Codex Cloud（后更名为Codex Web）",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-05-01",
+    "date": "2025-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -2969,33 +2969,33 @@
     "name": "Gemini 2.5 系列",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2025-05-01",
+    "date": "2025-05",
     "repo": "",
     "tags": [
       "Featured"
     ],
     "description": {
-      "zh-CN": "Gemini 2.5 Flash 和 Gemini 2.5 Pro。 Gemini 2.5 Pro 实际于 3月25日 首次发布（来源），5月20日 I/O 为功能更新",
-      "en": "Gemini 2.5 Flash 和 Gemini 2.5 Pro。 Gemini 2.5 Pro 实际于 3月25日 首次发布（来源），5月20日 I/O 为功能更新"
+      "zh-CN": "Gemini 2.5 Flash 和 Gemini 2.5 Pro。 Gemini 2.5 Pro 实际于 3月25日 首次发布，5月20日 I/O 为功能更新",
+      "en": "Gemini 2.5 Flash 和 Gemini 2.5 Pro。 Gemini 2.5 Pro 实际于 3月25日 首次发布，5月20日 I/O 为功能更新"
     }
   },
   {
     "name": "Gemini Jules",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2025-05-01",
+    "date": "2025-05",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "异步编程Agent，对标Claude Code和Codex，5月20日进入公测（来源）",
-      "en": "异步编程Agent，对标Claude Code和Codex，5月20日进入公测（来源）"
+      "zh-CN": "异步编程Agent，对标Claude Code和Codex，5月20日进入公测",
+      "en": "异步编程Agent，对标Claude Code和Codex，5月20日进入公测"
     }
   },
   {
     "name": "MCP 协议生态爆发",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-05-01",
+    "date": "2025-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -3007,7 +3007,7 @@
     "name": "GLM-4/Z1-0414",
     "org": "智谱AI",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2025-04-01",
+    "date": "2025-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -3019,7 +3019,7 @@
     "name": "GPT-4.1 系列",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-04-01",
+    "date": "2025-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -3031,7 +3031,7 @@
     "name": "Llama 4 系列",
     "org": "Meta",
     "logoUrl": "https://github.com/facebook.png",
-    "date": "2025-04-01",
+    "date": "2025-04",
     "repo": "",
     "tags": [
       "Featured"
@@ -3045,7 +3045,7 @@
     "name": "OpenAI o3 和 o4-mini",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-04-01",
+    "date": "2025-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -3057,7 +3057,7 @@
     "name": "Qwen3 系列",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2025-04-01",
+    "date": "2025-04",
     "repo": "",
     "tags": [
       "Featured"
@@ -3071,7 +3071,7 @@
     "name": "ChatGPT 图像编辑功能",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2025-03-01",
+    "date": "2025-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -3083,7 +3083,7 @@
     "name": "Gemini 2.0 Flash 原生图像生成",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2025-03-01",
+    "date": "2025-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -3095,7 +3095,7 @@
     "name": "Gemma 3",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2025-03-01",
+    "date": "2025-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -3107,7 +3107,7 @@
     "name": "Jamba 1.6 系列",
     "org": "AI21",
     "logoUrl": "",
-    "date": "2025-03-01",
+    "date": "2025-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -3119,59 +3119,59 @@
     "name": "Claude 3.7 Sonnet（含Claude Code）",
     "org": "Anthropic",
     "logoUrl": "https://github.com/anthropics.png",
-    "date": "2025-02-01",
+    "date": "2025-02",
     "repo": "",
     "tags": [
       "Featured"
     ],
     "description": {
-      "zh-CN": "2025年最具影响力事件之一——Claude Code低调夹在公告中发布，未单独发博客。这是首个主流CLI编程Agent，开启编程Agent元年（来源）",
-      "en": "2025年最具影响力事件之一——Claude Code低调夹在公告中发布，未单独发博客。这是首个主流CLI编程Agent，开启编程Agent元年（来源）"
+      "zh-CN": "2025年最具影响力事件之一——Claude Code低调夹在公告中发布，未单独发博客。这是首个主流CLI编程Agent，开启编程Agent元年",
+      "en": "2025年最具影响力事件之一——Claude Code低调夹在公告中发布，未单独发博客。这是首个主流CLI编程Agent，开启编程Agent元年"
     }
   },
   {
     "name": "Gemini 2.0 系列",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2025-02-01",
+    "date": "2025-02",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "Gemini 2.0 Flash、2.0 Flash-Lite及旗舰模型Gemini 2.0 Pro实验版发布。支持200万Token上下文（来源）",
-      "en": "Gemini 2.0 Flash、2.0 Flash-Lite及旗舰模型Gemini 2.0 Pro实验版发布。支持200万Token上下文（来源）"
+      "zh-CN": "Gemini 2.0 Flash、2.0 Flash-Lite及旗舰模型Gemini 2.0 Pro实验版发布。支持200万Token上下文",
+      "en": "Gemini 2.0 Flash、2.0 Flash-Lite及旗舰模型Gemini 2.0 Pro实验版发布。支持200万Token上下文"
     }
   },
   {
     "name": "Grok 3",
     "org": "xAI",
     "logoUrl": "https://github.com/xai-org.png",
-    "date": "2025-02-01",
+    "date": "2025-02",
     "repo": "",
     "tags": [
       "Featured"
     ],
     "description": {
-      "zh-CN": "2月18日直播预告，2月19日正式发布，包含Grok 3 Mini变体。推理能力大幅提升，1M上下文，估计参数~2.7T（来源）",
-      "en": "2月18日直播预告，2月19日正式发布，包含Grok 3 Mini变体。推理能力大幅提升，1M上下文，估计参数~2.7T（来源）"
+      "zh-CN": "2月18日直播预告，2月19日正式发布，包含Grok 3 Mini变体。推理能力大幅提升，1M上下文，估计参数~2.7T",
+      "en": "2月18日直播预告，2月19日正式发布，包含Grok 3 Mini变体。推理能力大幅提升，1M上下文，估计参数~2.7T"
     }
   },
   {
     "name": "Moonlight-16B-A3B",
     "org": "月之暗面",
     "logoUrl": "https://github.com/moonshotai.png",
-    "date": "2025-02-01",
+    "date": "2025-02",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "16B总参/3B激活MoE，使用Muon优化器训练，5.7T tokens，样本效率比Adam提高约2倍（来源）",
-      "en": "16B总参/3B激活MoE，使用Muon优化器训练，5.7T tokens，样本效率比Adam提高约2倍（来源）"
+      "zh-CN": "16B总参/3B激活MoE，使用Muon优化器训练，5.7T tokens，样本效率比Adam提高约2倍",
+      "en": "16B总参/3B激活MoE，使用Muon优化器训练，5.7T tokens，样本效率比Adam提高约2倍"
     }
   },
   {
     "name": "Phi-4-mini",
     "org": "微软",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2025-02-01",
+    "date": "2025-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -3183,7 +3183,7 @@
     "name": "Phi-4-multimodal",
     "org": "微软",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2025-02-01",
+    "date": "2025-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -3195,7 +3195,7 @@
     "name": "Step-Audio",
     "org": "阶跃星辰",
     "logoUrl": "",
-    "date": "2025-02-01",
+    "date": "2025-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -3207,7 +3207,7 @@
     "name": "Step-Video-T2V",
     "org": "阶跃星辰",
     "logoUrl": "",
-    "date": "2025-02-01",
+    "date": "2025-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -3219,7 +3219,7 @@
     "name": "DeepSeek-R1",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2025-01-01",
+    "date": "2025-01",
     "repo": "",
     "tags": [
       "Featured"
@@ -3233,7 +3233,7 @@
     "name": "MiniMax-01 系列",
     "org": "MiniMax",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2025-01-01",
+    "date": "2025-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -3245,7 +3245,7 @@
     "name": "Mistral Small 3",
     "org": "Mistral",
     "logoUrl": "https://github.com/mistralai.png",
-    "date": "2025-01-01",
+    "date": "2025-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -3257,7 +3257,7 @@
     "name": "Qwen2.5-Max",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2025-01-01",
+    "date": "2025-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -3269,7 +3269,7 @@
     "name": "Tülu 3 405B",
     "org": "AI2",
     "logoUrl": "",
-    "date": "2025-01-01",
+    "date": "2025-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -3383,7 +3383,7 @@
     "name": "PaliGemma 2",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2024-12-01",
+    "date": "2024-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -3395,7 +3395,7 @@
     "name": "Phi-4",
     "org": "微软",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2024-12-01",
+    "date": "2024-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -3407,7 +3407,7 @@
     "name": "Veo 2",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2024-12-01",
+    "date": "2024-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -3467,7 +3467,7 @@
     "name": "MiniMax-M2",
     "org": "MiniMax",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2024-11-01",
+    "date": "2024-11",
     "repo": "",
     "tags": [],
     "description": {
@@ -3479,7 +3479,7 @@
     "name": "gemini-exp-1114",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2024-11-01",
+    "date": "2024-11",
     "repo": "",
     "tags": [],
     "description": {
@@ -3591,7 +3591,7 @@
     "name": "Gemini Pro 1.5 002",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2024-09-01",
+    "date": "2024-09",
     "repo": "",
     "tags": [],
     "description": {
@@ -3603,7 +3603,7 @@
     "name": "Pixtral 12B",
     "org": "Mistral",
     "logoUrl": "https://github.com/mistralai.png",
-    "date": "2024-09-01",
+    "date": "2024-09",
     "repo": "",
     "tags": [],
     "description": {
@@ -3639,7 +3639,7 @@
     "name": "FLUX.1 系列",
     "org": "Black Forest Labs",
     "logoUrl": "https://github.com/black-forest-labs.png",
-    "date": "2024-08-01",
+    "date": "2024-08",
     "repo": "",
     "tags": [
       "Featured"
@@ -3653,7 +3653,7 @@
     "name": "Gemini 1.5 Flash 8B",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2024-08-01",
+    "date": "2024-08",
     "repo": "",
     "tags": [],
     "description": {
@@ -3665,7 +3665,7 @@
     "name": "Phi 3.5",
     "org": "微软",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2024-08-01",
+    "date": "2024-08",
     "repo": "",
     "tags": [],
     "description": {
@@ -3715,7 +3715,7 @@
     "name": "GraphRAG",
     "org": "微软",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2024-07-01",
+    "date": "2024-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -3727,7 +3727,7 @@
     "name": "Stable Diffusion 3",
     "org": "Stability AI",
     "logoUrl": "https://github.com/Stability-AI.png",
-    "date": "2024-07-01",
+    "date": "2024-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -3867,8 +3867,8 @@
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "创新MLA注意力与MoE架构，236B（MoE，激活21B），KV缓存压缩达93.3%，开源（来源）",
-      "en": "创新MLA注意力与MoE架构，236B（MoE，激活21B），KV缓存压缩达93.3%，开源（来源）"
+      "zh-CN": "创新MLA注意力与MoE架构，236B（MoE，激活21B），KV缓存压缩达93.3%，开源",
+      "en": "创新MLA注意力与MoE架构，236B（MoE，激活21B），KV缓存压缩达93.3%，开源"
     }
   },
   {
@@ -3961,7 +3961,7 @@
     "name": "Qwen（通义千问）系列更新",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2024-04-01",
+    "date": "2024-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -4023,7 +4023,7 @@
     "name": "MiniCPM",
     "org": "面壁智能",
     "logoUrl": "",
-    "date": "2024-03-01",
+    "date": "2024-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -4035,7 +4035,7 @@
     "name": "文心一言4.0",
     "org": "百度",
     "logoUrl": "https://github.com/baidu.png",
-    "date": "2024-03-01",
+    "date": "2024-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -4109,7 +4109,7 @@
     "name": "Qwen1.5",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2024-02-01",
+    "date": "2024-02",
     "repo": "",
     "tags": [],
     "description": {
@@ -4121,7 +4121,7 @@
     "name": "GLM-4",
     "org": "智谱AI",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2024-01-01",
+    "date": "2024-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -4133,7 +4133,7 @@
     "name": "GPT Store 上线",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2024-01-01",
+    "date": "2024-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -4145,7 +4145,7 @@
     "name": "Solar-Mini",
     "org": "Upstage",
     "logoUrl": "",
-    "date": "2024-01-01",
+    "date": "2024-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -4195,7 +4195,7 @@
     "name": "DeepSeek Coder（67B）",
     "org": "DeepSeek",
     "logoUrl": "https://github.com/deepseek-ai.png",
-    "date": "2023-12-01",
+    "date": "2023-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -4207,7 +4207,7 @@
     "name": "Mamba 架构",
     "org": "学术界",
     "logoUrl": "",
-    "date": "2023-12-01",
+    "date": "2023-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -4281,7 +4281,7 @@
     "name": "Qwen-72B 开源",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2023-11-01",
+    "date": "2023-11",
     "repo": "",
     "tags": [],
     "description": {
@@ -4293,7 +4293,7 @@
     "name": "天工Skywork-13B",
     "org": "昆仑万维",
     "logoUrl": "",
-    "date": "2023-11-01",
+    "date": "2023-11",
     "repo": "",
     "tags": [],
     "description": {
@@ -4305,7 +4305,7 @@
     "name": "ChatGLM3",
     "org": "智谱AI",
     "logoUrl": "https://github.com/MiniMax-AI.png",
-    "date": "2023-10-01",
+    "date": "2023-10",
     "repo": "",
     "tags": [],
     "description": {
@@ -4317,7 +4317,7 @@
     "name": "讯飞星火3.0",
     "org": "科大讯飞",
     "logoUrl": "",
-    "date": "2023-10-01",
+    "date": "2023-10",
     "repo": "",
     "tags": [],
     "description": {
@@ -4341,7 +4341,7 @@
     "name": "InternLM-20B",
     "org": "上海AI实验室",
     "logoUrl": "",
-    "date": "2023-09-01",
+    "date": "2023-09",
     "repo": "",
     "tags": [],
     "description": {
@@ -4369,29 +4369,29 @@
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "在每项基准测试中优于Llama 2 13B，代码/数学/推理优于LLaMA 1 34B，Apache 2.0开源（来源）",
-      "en": "在每项基准测试中优于Llama 2 13B，代码/数学/推理优于LLaMA 1 34B，Apache 2.0开源（来源）"
+      "zh-CN": "在每项基准测试中优于Llama 2 13B，代码/数学/推理优于LLaMA 1 34B，Apache 2.0开源",
+      "en": "在每项基准测试中优于Llama 2 13B，代码/数学/推理优于LLaMA 1 34B，Apache 2.0开源"
     }
   },
   {
     "name": "DALL·E 3",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2023-08-01",
+    "date": "2023-08",
     "repo": "",
     "tags": [
       "Featured"
     ],
     "description": {
-      "zh-CN": "文生图工具，相比以往更能理解细微差别和细节。 实际于 10月3日 公布系统卡，10月19日 上线ChatGPT Plus（来源）",
-      "en": "文生图工具，相比以往更能理解细微差别和细节。 实际于 10月3日 公布系统卡，10月19日 上线ChatGPT Plus（来源）"
+      "zh-CN": "文生图工具，相比以往更能理解细微差别和细节。 实际于 10月3日 公布系统卡，10月19日 上线ChatGPT Plus",
+      "en": "文生图工具，相比以往更能理解细微差别和细节。 实际于 10月3日 公布系统卡，10月19日 上线ChatGPT Plus"
     }
   },
   {
     "name": "腾讯混元大模型",
     "org": "腾讯",
     "logoUrl": "https://github.com/tencent.png",
-    "date": "2023-08-01",
+    "date": "2023-08",
     "repo": "",
     "tags": [],
     "description": {
@@ -4429,7 +4429,7 @@
     "name": "京东言犀大模型",
     "org": "京东",
     "logoUrl": "",
-    "date": "2023-07-01",
+    "date": "2023-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -4599,7 +4599,7 @@
     "name": "科大讯飞星火大模型",
     "org": "科大讯飞",
     "logoUrl": "",
-    "date": "2023-05-01",
+    "date": "2023-05",
     "repo": "",
     "tags": [],
     "description": {
@@ -4635,7 +4635,7 @@
     "name": "LLaVA",
     "org": "微软",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2023-04-01",
+    "date": "2023-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -4647,7 +4647,7 @@
     "name": "通义千问",
     "org": "阿里",
     "logoUrl": "https://github.com/alibaba.png",
-    "date": "2023-04-01",
+    "date": "2023-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -4781,7 +4781,7 @@
     "name": "PaLM-E（5620亿）",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2023-03-01",
+    "date": "2023-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -4793,7 +4793,7 @@
     "name": "文心一言",
     "org": "百度",
     "logoUrl": "https://github.com/baidu.png",
-    "date": "2023-03-01",
+    "date": "2023-03",
     "repo": "",
     "tags": [],
     "description": {
@@ -4831,7 +4831,7 @@
     "name": "ChatGPT 月活突破1亿",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2023-01-01",
+    "date": "2023-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -4843,7 +4843,7 @@
     "name": "微软追加100亿美元投资",
     "org": "微软",
     "logoUrl": "https://github.com/nvidia.png",
-    "date": "2023-01-01",
+    "date": "2023-01",
     "repo": "",
     "tags": [],
     "description": {
@@ -4855,7 +4855,7 @@
     "name": "ChatGPT 持续爆火",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2022-12-01",
+    "date": "2022-12",
     "repo": "",
     "tags": [],
     "description": {
@@ -4867,12 +4867,12 @@
     "name": "Gen-1",
     "org": "Runway",
     "logoUrl": "",
-    "date": "2022-12-01",
+    "date": "2022-12",
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "首个支持视频到视频生成的AI工具，可通过文本指令修改视频内容/风格。 实际为 2023年2月 发布（来源），非2022年12月",
-      "en": "首个支持视频到视频生成的AI工具，可通过文本指令修改视频内容/风格。 实际为 2023年2月 发布（来源），非2022年12月"
+      "zh-CN": "首个支持视频到视频生成的AI工具，可通过文本指令修改视频内容/风格。 实际为 2023年2月 发布，非2022年12月",
+      "en": "首个支持视频到视频生成的AI工具，可通过文本指令修改视频内容/风格。 实际为 2023年2月 发布，非2022年12月"
     }
   },
   {
@@ -4915,7 +4915,7 @@
     "name": "ChatGPT（GPT-3.5）",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2022-11-01",
+    "date": "2022-11",
     "repo": "",
     "tags": [
       "Featured"
@@ -5043,15 +5043,15 @@
       "Featured"
     ],
     "description": {
-      "zh-CN": "基于Pathways架构，在多个任务上展示当时最先进性能，擅长推理和代码任务，文中提到\"思维链\"技术（来源）",
-      "en": "基于Pathways架构，在多个任务上展示当时最先进性能，擅长推理和代码任务，文中提到\"思维链\"技术（来源）"
+      "zh-CN": "基于Pathways架构，在多个任务上展示当时最先进性能，擅长推理和代码任务，文中提到\"思维链\"技术",
+      "en": "基于Pathways架构，在多个任务上展示当时最先进性能，擅长推理和代码任务，文中提到\"思维链\"技术"
     }
   },
   {
     "name": "DALL·E 2 正式上线",
     "org": "OpenAI",
     "logoUrl": "https://github.com/openai.png",
-    "date": "2022-04-01",
+    "date": "2022-04",
     "repo": "",
     "tags": [],
     "description": {
@@ -5103,8 +5103,8 @@
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "图像生成质量/分辨率/语义对齐质的飞跃，AI绘画进入创作者视野（来源）",
-      "en": "图像生成质量/分辨率/语义对齐质的飞跃，AI绘画进入创作者视野（来源）"
+      "zh-CN": "图像生成质量/分辨率/语义对齐质的飞跃，AI绘画进入创作者视野",
+      "en": "图像生成质量/分辨率/语义对齐质的飞跃，AI绘画进入创作者视野"
     }
   },
   {
@@ -5115,8 +5115,8 @@
     "repo": "",
     "tags": [],
     "description": {
-      "zh-CN": "采用Instruction Finetune+RLHF，比GPT-3更擅长与人类\"沟通\"，ChatGPT的兄弟模型。 公告日期为 1月27日（来源），3/4 为 arXiv 论文上线日期",
-      "en": "采用Instruction Finetune+RLHF，比GPT-3更擅长与人类\"沟通\"，ChatGPT的兄弟模型。 公告日期为 1月27日（来源），3/4 为 arXiv 论文上线日期"
+      "zh-CN": "采用Instruction Finetune+RLHF，比GPT-3更擅长与人类\"沟通\"，ChatGPT的兄弟模型。 公告日期为 1月27日，3/4 为 arXiv 论文上线日期",
+      "en": "采用Instruction Finetune+RLHF，比GPT-3更擅长与人类\"沟通\"，ChatGPT的兄弟模型。 公告日期为 1月27日，3/4 为 arXiv 论文上线日期"
     }
   },
   {
@@ -5183,7 +5183,7 @@
     "name": "Gopher（2800亿）",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2021-10-01",
+    "date": "2021-10",
     "repo": "",
     "tags": [],
     "description": {
@@ -5311,7 +5311,7 @@
     "name": "DistilBERT",
     "org": "Hugging Face",
     "logoUrl": "https://github.com/huggingface.png",
-    "date": "2019-10-01",
+    "date": "2019-10",
     "repo": "",
     "tags": [],
     "description": {
@@ -5323,7 +5323,7 @@
     "name": "T5（论文）",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2019-10-01",
+    "date": "2019-10",
     "repo": "",
     "tags": [],
     "description": {
@@ -5335,7 +5335,7 @@
     "name": "ALBERT",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2019-09-01",
+    "date": "2019-09",
     "repo": "",
     "tags": [],
     "description": {
@@ -5347,7 +5347,7 @@
     "name": "BART",
     "org": "Meta",
     "logoUrl": "https://github.com/facebook.png",
-    "date": "2019-09-01",
+    "date": "2019-09",
     "repo": "",
     "tags": [],
     "description": {
@@ -5359,7 +5359,7 @@
     "name": "RoBERTa",
     "org": "Meta",
     "logoUrl": "https://github.com/facebook.png",
-    "date": "2019-07-01",
+    "date": "2019-07",
     "repo": "",
     "tags": [],
     "description": {
@@ -5437,7 +5437,7 @@
     "name": "Transformer 论文",
     "org": "Google",
     "logoUrl": "https://github.com/google.png",
-    "date": "2017-06-01",
+    "date": "2017-06",
     "repo": "",
     "tags": [
       "Featured"
