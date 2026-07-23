@@ -1,0 +1,366 @@
+/* Custom Styles for Awesome AI Models */
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+    cursor: none; /* Hide default cursor */
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.dark ::-webkit-scrollbar-track {
+    background: #1f2937;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(to bottom, #6366f1, #8b5cf6);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(to bottom, #4f46e5, #7c3aed);
+}
+
+/* Dynamic Gradient Background */
+.gradient-bg {
+    /* Brand aligned colors: Indigo, Purple, Pink, Blue */
+    background: linear-gradient(-45deg, #6366f1, #8b5cf6, #ec4899, #3b82f6);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    opacity: 0.08; /* Slightly reduced for better text contrast in light mode */
+}
+
+/* Dot Matrix Overlay */
+.gradient-bg::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background-image: radial-gradient(#6366f1 2px, transparent 2px);
+    background-size: 30px 30px;
+    opacity: 0.3;
+    pointer-events: none;
+    animation: matrix-flow 60s linear infinite;
+}
+
+.dark .gradient-bg {
+    background: linear-gradient(-45deg, #1a1a2e, #16213e, #312e81, #4c1d95);
+    opacity: 0.3;
+}
+
+.dark .gradient-bg::before {
+    background-image: radial-gradient(#a5b4fc 2px, transparent 2px);
+    opacity: 0.15;
+}
+
+@keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+@keyframes matrix-flow {
+    0% { transform: translate(0, 0); }
+    100% { transform: translate(30px, 30px); }
+}
+
+/* Custom Cursor */
+.custom-cursor-none * {
+    cursor: none !important;
+}
+
+#cursor {
+    pointer-events: none;
+    z-index: 9999;
+}
+
+#cursor-dot {
+    pointer-events: none;
+    z-index: 9999;
+}
+
+/* Hover effect for cursor */
+.hover-active {
+    transform: scale(1.5);
+    background-color: rgba(99, 102, 241, 0.1);
+    border-color: transparent;
+}
+
+/* Glass morphism effect */
+.backdrop-blur-lg {
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+
+/* Timeline Container */
+#timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 0;
+    perspective: 1000px; /* Enable 3D perspective */
+}
+
+/* Central Vertical Line */
+#timeline::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 2px;
+    background: linear-gradient(to bottom, transparent, rgba(99, 102, 241, 0.5), rgba(139, 92, 246, 0.5), transparent);
+    transform: translateX(-50%);
+}
+
+/* Timeline Row */
+.timeline-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 4rem;
+    position: relative;
+}
+
+/* Columns */
+.timeline-col {
+    width: 45%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.timeline-col.left {
+    align-items: flex-end;
+    padding-right: 3rem;
+}
+
+.timeline-col.right {
+    align-items: flex-start;
+    padding-left: 3rem;
+}
+
+/* Center Dot */
+.timeline-dot-wrapper {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    border-radius: 50%;
+}
+
+.dark .timeline-dot-wrapper {
+    background: #111827; /* gray-900 */
+}
+
+.timeline-dot {
+    width: 1.25rem;
+    height: 1.25rem;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    border: 3px solid #fff; 
+    box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.3);
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.dark .timeline-dot {
+    border-color: #1f2937; /* gray-800 */
+}
+
+.timeline-row:hover .timeline-dot {
+    transform: scale(1.5);
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.6);
+}
+
+/* Connector Line */
+.timeline-connector {
+    position: absolute;
+    top: 50%;
+    height: 2px;
+    background: linear-gradient(90deg, rgba(99, 102, 241, 0.5), rgba(139, 92, 246, 0.5));
+    width: 3rem; 
+}
+
+.timeline-col.left .timeline-connector {
+    right: 0;
+}
+
+.timeline-col.right .timeline-connector {
+    left: 0;
+}
+
+/* Timeline Date Label (Opposite Side) */
+.timeline-date-label {
+    font-family: monospace;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: rgba(99, 102, 241, 0.8);
+    opacity: 0.8;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+.timeline-row:hover .timeline-date-label {
+    opacity: 1;
+    transform: scale(1.05);
+    color: #6366f1;
+}
+
+/* Timeline Card */
+.timeline-card {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    max-width: 36rem; /* max-w-xl equivalent */
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    transform-style: preserve-3d; /* Enable 3D transform */
+}
+
+.timeline-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(99, 102, 241, 0.1),
+        transparent
+    );
+    transition: left 0.5s;
+    z-index: 1;
+}
+
+.timeline-card:hover::before {
+    left: 100%;
+}
+
+/* Grid Card Hover Effect */
+.grid-card {
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    transform-style: preserve-3d;
+}
+
+/* Gradient text animation */
+@keyframes gradient-shift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.bg-clip-text {
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-size: 200% 200%;
+}
+
+/* Common Util Classes */
+.line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Typewriter Cursor */
+.typewriter-cursor::after {
+    content: '|';
+    animation: blink 1s step-end infinite;
+    color: #6366f1;
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    #timeline::before {
+        left: 1.5rem;
+    }
+
+    .timeline-row {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 3rem;
+    }
+
+    .timeline-col {
+        width: 100%;
+        padding: 0;
+    }
+    
+    .timeline-col.left, .timeline-col.right {
+        align-items: flex-start;
+        padding-left: 4rem; /* Space for dot */
+        padding-right: 1rem;
+        text-align: left;
+    }
+
+    /* Hide the standalone date label on mobile, we'll show it in the card */
+    .timeline-date-only {
+        display: none;
+    }
+
+    .timeline-dot-wrapper {
+        left: 1.5rem;
+        top: 2rem; 
+        transform: translate(-50%, 0);
+    }
+
+    .timeline-connector {
+        width: 2.5rem;
+        left: 1.5rem !important;
+        right: auto !important;
+        top: 2.6rem; /* Center with dot */
+    }
+    
+    /* Disable 3D tilt on mobile for performance */
+    .timeline-card, .grid-card {
+        transform: none !important;
+    }
+    
+    /* Show default cursor on mobile */
+    html {
+        cursor: auto;
+    }
+    
+    .custom-cursor-none * {
+        cursor: auto !important;
+    }
+}
+
+/* Dark mode transitions */
+.dark {
+    color-scheme: dark;
+}
+
+* {
+    transition-property: background-color, border-color, color, fill, stroke, box-shadow; /* Removed transform to avoid conflict with JS tilt */
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+}
+
+.transition-all {
+    transition-property: all;
+}

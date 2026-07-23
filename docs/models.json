@@ -1,0 +1,5918 @@
+[
+  {
+    "name": "Anthropic",
+    "org": "H轮650亿美元",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "投后估值9650亿美元，已提交S-1上市申请",
+      "en": "投后估值9650亿美元，已提交S-1上市申请"
+    }
+  },
+  {
+    "name": "Anthropic 调整",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "放弃Fable 5收费调整计划，**永久保留**在Max和Team Premium订阅中",
+      "en": "放弃Fable 5收费调整计划，**永久保留**在Max和Team Premium订阅中"
+    }
+  },
+  {
+    "name": "Claude Fable 5",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "旗舰模型，超长文档解析行业天花板。⚠️ 7/1 仅解除出口管制（[商务部公告](https://aihot.virxact.com/items/cmr...)），全量放开延期至 7/19",
+      "en": "旗舰模型，超长文档解析行业天花板。⚠️ 7/1 仅解除出口管制（[商务部公告](https://aihot.virxact.com/items/cmr...)），全量放开延期至 7/19"
+    }
+  },
+  {
+    "name": "Claude Fable 5 全量开放",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "延期后最终确认，永久保留在Max订阅中。⚠️ API 7/19 日报未收录，日期待确认",
+      "en": "延期后最终确认，永久保留在Max订阅中。⚠️ API 7/19 日报未收录，日期待确认"
+    }
+  },
+  {
+    "name": "Claude Sonnet 5",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "中端推理模型（[API 来源](https://aihot.virxact.com/daily/2026-07-01)）",
+      "en": "中端推理模型（[API 来源](https://aihot.virxact.com/daily/2026-07-01)）"
+    }
+  },
+  {
+    "name": "DeepSeek",
+    "org": "**超500亿**融资",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "IPO提上日程，估值约3700亿",
+      "en": "IPO提上日程，估值约3700亿"
+    }
+  },
+  {
+    "name": "DeepSeek-V4 正式版",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "国产代码/数学顶尖水准，**推理速度提升60%-80%**。国内首个推出**峰谷分时计费**（白天高峰价格翻倍，夜间优惠）。昇腾910B/950深度适配。7/24停用旧版本。⚠️ API 未找到对应条目，发布日期待确认",
+      "en": "国产代码/数学顶尖水准，**推理速度提升60%-80%**。国内首个推出**峰谷分时计费**（白天高峰价格翻倍，夜间优惠）。昇腾910B/950深度适配。7/24停用旧版本。⚠️ API 未找到对应条目，发布日期待确认"
+    }
+  },
+  {
+    "name": "GLM-5.2",
+    "org": "智谱AI",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**1M上下文**，工具调用达生产级标准，代码/逻辑推理国产第一梯队。已开源",
+      "en": "**1M上下文**，工具调用达生产级标准，代码/逻辑推理国产第一梯队。已开源"
+    }
+  },
+  {
+    "name": "GPT-5.6 Luna（轻量版）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "低延迟，适合对话/实时问答。免费版可轻度使用",
+      "en": "低延迟，适合对话/实时问答。免费版可轻度使用"
+    }
+  },
+  {
+    "name": "GPT-5.6 Sol（旗舰版）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "⚠️ 7/9 获商务部批准，**Sol 实际亮相 7/10**。新增Ultra多智能体模式，可同时调度多个AI协同完成复杂任务。1M上下文。代码/科研/Agent能力超过Claude Fable 5（[API 来源](https://aihot.virxact.com/daily/2026-07-09)）",
+      "en": "⚠️ 7/9 获商务部批准，**Sol 实际亮相 7/10**。新增Ultra多智能体模式，可同时调度多个AI协同完成复杂任务。1M上下文。代码/科研/Agent能力超过Claude Fable 5（[API 来源](https://aihot.virxact.com/daily/2026-07-09)）"
+    }
+  },
+  {
+    "name": "GPT-5.6 Terra（中端版）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "企业日常业务首选，综合实力强，性价比高",
+      "en": "企业日常业务首选，综合实力强，性价比高"
+    }
+  },
+  {
+    "name": "GPT-6 早期预览版",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "小范围测试，仅限顶级合作企业",
+      "en": "小范围测试，仅限顶级合作企业"
+    }
+  },
+  {
+    "name": "GPT-Live",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "配套**全双工实时语音模型**同步上线（[API 来源](https://aihot.virxact.com/daily/2026-07-09)）",
+      "en": "配套**全双工实时语音模型**同步上线（[API 来源](https://aihot.virxact.com/daily/2026-07-09)）"
+    }
+  },
+  {
+    "name": "Gemini 3.5 Flash Cyber",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "网络安全专用模型，配合CodeMender代码安全Agent（[API 来源](https://aihot.virxact.com/daily/2026-07-22)）",
+      "en": "网络安全专用模型，配合CodeMender代码安全Agent（[API 来源](https://aihot.virxact.com/daily/2026-07-22)）"
+    }
+  },
+  {
+    "name": "Gemini 3.5 Flash-Lite",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "最快最便宜的3.5系列，**350 tokens/s**，$0.3/$2.5 per MTok，适合Agent工作流（[API 来源](https://aihot.virxact.com/daily/2026-07-22)）",
+      "en": "最快最便宜的3.5系列，**350 tokens/s**，$0.3/$2.5 per MTok，适合Agent工作流（[API 来源](https://aihot.virxact.com/daily/2026-07-22)）"
+    }
+  },
+  {
+    "name": "Gemini 3.5 Pro",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "全新训练基座，强化视频理解/3D解析/数学科研。⚠️ 截至7/23**尚未实际发布**，API 无记录",
+      "en": "全新训练基座，强化视频理解/3D解析/数学科研。⚠️ 截至7/23**尚未实际发布**，API 无记录"
+    }
+  },
+  {
+    "name": "Gemini 3.6 Flash",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "工作流模型，编码/知识/多模态加强，输出Token减少**17%**，DeepSWE任务提升高达65%（[API 来源](https://aihot.virxact.com/daily/2026-07-22)）",
+      "en": "工作流模型，编码/知识/多模态加强，输出Token减少**17%**，DeepSWE任务提升高达65%（[API 来源](https://aihot.virxact.com/daily/2026-07-22)）"
+    }
+  },
+  {
+    "name": "Grok 4.5",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "500K上下文，推理成本极低（Token消耗仅为Claude Opus 4.8的1/4）。代码能力对标Claude Opus。**马斯克宣布计划每月发布一个大模型**（[API 来源](https://aihot.virxact.com/daily/2026-07-09)）",
+      "en": "500K上下文，推理成本极低（Token消耗仅为Claude Opus 4.8的1/4）。代码能力对标Claude Opus。**马斯克宣布计划每月发布一个大模型**（[API 来源](https://aihot.virxact.com/daily/2026-07-09)）"
+    }
+  },
+  {
+    "name": "Grok 4.6",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**2万亿参数**，预计月内完成初始训练。马斯克认为可能超过K3",
+      "en": "**2万亿参数**，预计月内完成初始训练。马斯克认为可能超过K3"
+    }
+  },
+  {
+    "name": "Grok 4.6（即将）",
+    "org": "**2T**",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "闭源",
+      "en": "闭源"
+    }
+  },
+  {
+    "name": "Inkling",
+    "org": "Thinking Machines",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**~1T参数多模态开源模型**，原生支持图像/音频/文本输入，1M上下文。训练数据45T tokens。支持SGLang/vLLM/llama.cpp（[API 来源](https://aihot.virxact.com/daily/2026-07-16)）",
+      "en": "**~1T参数多模态开源模型**，原生支持图像/音频/文本输入，1M上下文。训练数据45T tokens。支持SGLang/vLLM/llama.cpp（[API 来源](https://aihot.virxact.com/daily/2026-07-16)）"
+    }
+  },
+  {
+    "name": "Inkling",
+    "org": "**~1T**",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源",
+      "en": "开源"
+    }
+  },
+  {
+    "name": "Kimi K3",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**2.8T参数**，全球首个迈入3T级别的开源模型。896专家MoE（激活16个），**#1 前端代码榜**。完整权重7/27前开源（[API 来源](https://aihot.virxact.com/daily/2026-07-17)）",
+      "en": "**2.8T参数**，全球首个迈入3T级别的开源模型。896专家MoE（激活16个），**#1 前端代码榜**。完整权重7/27前开源（[API 来源](https://aihot.virxact.com/daily/2026-07-17)）"
+    }
+  },
+  {
+    "name": "Kimi K3",
+    "org": "**2.8T**",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源（最大）",
+      "en": "开源（最大）"
+    }
+  },
+  {
+    "name": "Kimi K3 发布次日",
+    "org": "市场反应",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "智谱收跌**28%**，MiniMax收跌**16%**，港股模型公司估值被重估",
+      "en": "智谱收跌**28%**，MiniMax收跌**16%**，港股模型公司估值被重估"
+    }
+  },
+  {
+    "name": "Kimi K3 开源权重",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "完整2.8T权重发布，Modified MIT许可，同步发布技术报告",
+      "en": "完整2.8T权重发布，Modified MIT许可，同步发布技术报告"
+    }
+  },
+  {
+    "name": "LongCat-2.0",
+    "org": "美团",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**1.6T参数**（万亿级），业界首个在**五万卡国产算力集群**上完成全流程训练与推理。1M上下文，聚焦Agentic Coding。7/12正式开源，同步开放国产卡推理代码（[API 来源](https://aihot.virxact.com/daily/2026-07-02)）",
+      "en": "**1.6T参数**（万亿级），业界首个在**五万卡国产算力集群**上完成全流程训练与推理。1M上下文，聚焦Agentic Coding。7/12正式开源，同步开放国产卡推理代码（[API 来源](https://aihot.virxact.com/daily/2026-07-02)）"
+    }
+  },
+  {
+    "name": "LongCat-2.0",
+    "org": "**1.6T**",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源",
+      "en": "开源"
+    }
+  },
+  {
+    "name": "LongCat-2.0 正式开源",
+    "org": "美团",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "万亿参数模型全面开源，提供BF16/FP8/INT8等多精度版本，同步开源国产卡推理代码。⚠️ API 7/12 日报未收录，日期待确认",
+      "en": "万亿参数模型全面开源，提供BF16/FP8/INT8等多精度版本，同步开源国产卡推理代码。⚠️ API 7/12 日报未收录，日期待确认"
+    }
+  },
+  {
+    "name": "M3 Pro",
+    "org": "MiniMax",
+    "logoUrl": "https://github.com/MiniMax-AI.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**2.7万亿参数**，计划发布",
+      "en": "**2.7万亿参数**，计划发布"
+    }
+  },
+  {
+    "name": "M3 Pro（即将）",
+    "org": "**2.7T**",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "闭源",
+      "en": "闭源"
+    }
+  },
+  {
+    "name": "Macaron-V1",
+    "org": "Mind Lab",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**Venti（748B旗舰）**/ **Tall（50B轻量）** 两档。Venti基于GLM-5.2后训练，Tall基于Qwen 3.6。开源权重。⚠️ API 未找到对应条目，来源待确认",
+      "en": "**Venti（748B旗舰）**/ **Tall（50B轻量）** 两档。Venti基于GLM-5.2后训练，Tall基于Qwen 3.6。开源权重。⚠️ API 未找到对应条目，来源待确认"
+    }
+  },
+  {
+    "name": "MiniMax",
+    "org": "**160亿港元**组合融资",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "80%投向AI基础设施和模型研发",
+      "en": "80%投向AI基础设施和模型研发"
+    }
+  },
+  {
+    "name": "Muse Image / Muse Video",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "图像与视频生成模型，Meta Superintelligence Labs首批媒体生成模型（[API 来源](https://aihot.virxact.com/daily/2026-07-08)）",
+      "en": "图像与视频生成模型，Meta Superintelligence Labs首批媒体生成模型（[API 来源](https://aihot.virxact.com/daily/2026-07-08)）"
+    }
+  },
+  {
+    "name": "OmniFlash",
+    "org": "Google DeepMind",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "多模态轻量模型，原名 Gemini Omni Flash（[API 来源](https://aihot.virxact.com/daily/2026-07-01)）",
+      "en": "多模态轻量模型，原名 Gemini Omni Flash（[API 来源](https://aihot.virxact.com/daily/2026-07-01)）"
+    }
+  },
+  {
+    "name": "OpenAI",
+    "org": "已提交S-1申请",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "确认递交上市申请",
+      "en": "确认递交上市申请"
+    }
+  },
+  {
+    "name": "Qwen-Audio-3.0-Realtime",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "实时语音模型，**支持工具调用**和处理打断。分两档：**Plus**（推理强）、**Flash**（速度快）。通过阿里云百炼WebSocket API提供服务（[API 来源](https://aihot.virxact.com/daily/2026-07-16)）",
+      "en": "实时语音模型，**支持工具调用**和处理打断。分两档：**Plus**（推理强）、**Flash**（速度快）。通过阿里云百炼WebSocket API提供服务（[API 来源](https://aihot.virxact.com/daily/2026-07-16)）"
+    }
+  },
+  {
+    "name": "Qwen3.8",
+    "org": "**2.4T**",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "即将开源",
+      "en": "即将开源"
+    }
+  },
+  {
+    "name": "Qwen3.8 预览版",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "参数规模达 **2.4万亿**，即将开源（[API 来源](https://aihot.virxact.com/items...)）",
+      "en": "参数规模达 **2.4万亿**，即将开源（[API 来源](https://aihot.virxact.com/items...)）"
+    }
+  },
+  {
+    "name": "SWE-1.7",
+    "org": "Cognition",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "AI编程工具新版本。⚠️ API 未找到对应条目，发布日期待确认",
+      "en": "AI编程工具新版本。⚠️ API 未找到对应条目，发布日期待确认"
+    }
+  },
+  {
+    "name": "—",
+    "org": "—",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "本日无主要模型发布",
+      "en": "本日无主要模型发布"
+    }
+  },
+  {
+    "name": "公司",
+    "org": "金额",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "用途",
+      "en": "用途"
+    }
+  },
+  {
+    "name": "智谱",
+    "org": "**314亿港元**配股",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "2年不追求变现",
+      "en": "2年不追求变现"
+    }
+  },
+  {
+    "name": "模型",
+    "org": "公司",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "关键信息",
+      "en": "关键信息"
+    }
+  },
+  {
+    "name": "模型",
+    "org": "参数规模",
+    "logoUrl": "",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "性质",
+      "en": "性质"
+    }
+  },
+  {
+    "name": "混元 Hy3",
+    "org": "腾讯",
+    "logoUrl": "https://github.com/tencent.png",
+    "date": "2026-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "295B MoE架构，**每次推理仅激活21B**参数（+3.8B MTP层），256K上下文。**Apache-2.0开源**，幻觉率降至5.4%。⚠️ API 最早 7/13 出现记录，7/6 发布日期待确认（[API 来源](https://aihot.virxact.com/daily/2026-07-13)）",
+      "en": "295B MoE架构，**每次推理仅激活21B**参数（+3.8B MTP层），256K上下文。**Apache-2.0开源**，幻觉率降至5.4%。⚠️ API 最早 7/13 出现记录，7/6 发布日期待确认（[API 来源](https://aihot.virxact.com/daily/2026-07-13)）"
+    }
+  },
+  {
+    "name": "Apodex 1.0 系列",
+    "org": "Apodex",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "四款规模：36B / 5B / 2B / 0.9B，262K上下文（[来源](https://www.apodex.com/blog/apodex-1.0)）",
+      "en": "四款规模：36B / 5B / 2B / 0.9B，262K上下文（[来源](https://www.apodex.com/blog/apodex-1.0)）"
+    }
+  },
+  {
+    "name": "Claude Fable 5（预览版）",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "全新创意线旗舰，**1M上下文**。闭门合作伙伴预览，Anthropic尚未公布GA时间。7月全量放开（[API 来源](https://aihot.virxact.com/daily/2026-06-10)）",
+      "en": "全新创意线旗舰，**1M上下文**。闭门合作伙伴预览，Anthropic尚未公布GA时间。7月全量放开（[API 来源](https://aihot.virxact.com/daily/2026-06-10)）"
+    }
+  },
+  {
+    "name": "Claude Mythos 5",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "未披露 | 1M | ❌",
+      "en": "未披露 | 1M | ❌"
+    }
+  },
+  {
+    "name": "Claude Mythos 5（GA）",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "网络安全对齐前沿模型，**企业级正式版**。具备漏洞感知推理能力，可直接接入采购工作流。1M上下文（[API 来源](https://aihot.virxact.com/daily/2026-06-10)）",
+      "en": "网络安全对齐前沿模型，**企业级正式版**。具备漏洞感知推理能力，可直接接入采购工作流。1M上下文（[API 来源](https://aihot.virxact.com/daily/2026-06-10)）"
+    }
+  },
+  {
+    "name": "Claude Sonnet 5",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "中端推理模型，GA正式版。⚠️ API 显示为 **7/1** 发布（[API 来源](https://aihot.virxact.com/daily/2026-07-01)）",
+      "en": "中端推理模型，GA正式版。⚠️ API 显示为 **7/1** 发布（[API 来源](https://aihot.virxact.com/daily/2026-07-01)）"
+    }
+  },
+  {
+    "name": "DeepSeek-V4-Flash-DSpark",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "V4-Flash昇腾适配版。⚠️ API 6/28 论文区提及 DSpark 框架，模型日期待确认",
+      "en": "V4-Flash昇腾适配版。⚠️ API 6/28 论文区提及 DSpark 框架，模型日期待确认"
+    }
+  },
+  {
+    "name": "DeepSeek-V4-Pro-DSpark",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "V4系列昇腾适配版。⚠️ API 6/28 论文区提及 DSpark 框架，模型日期待确认",
+      "en": "V4系列昇腾适配版。⚠️ API 6/28 论文区提及 DSpark 框架，模型日期待确认"
+    }
+  },
+  {
+    "name": "DiffusionGemma",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源",
+      "en": "开源"
+    }
+  },
+  {
+    "name": "DiffusionGemma 26B A4B IT",
+    "org": "Google DeepMind",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "26B参数（4B激活），256K上下文，开源扩散模型，文本生成速度提升4倍（[API 来源](https://aihot.virxact.com/daily/2026-06-11)）",
+      "en": "26B参数（4B激活），256K上下文，开源扩散模型，文本生成速度提升4倍（[API 来源](https://aihot.virxact.com/daily/2026-06-11)）"
+    }
+  },
+  {
+    "name": "Fugu Ultra",
+    "org": "Sakana AI（日本）",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "1M上下文，多智能体编排系统，通过单一API协调多个专家模型。⚠️ API 显示为 **6/21** 发布，文档日期 6/22 有1天偏差（[来源](https://sakana.ai/fugu/) · [arXiv](https://arxiv.org/abs/2606.21228)）",
+      "en": "1M上下文，多智能体编排系统，通过单一API协调多个专家模型。⚠️ API 显示为 **6/21** 发布，文档日期 6/22 有1天偏差（[来源](https://sakana.ai/fugu/) · [arXiv](https://arxiv.org/abs/2606.21228)）"
+    }
+  },
+  {
+    "name": "GLM-5.2",
+    "org": "智谱AI",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**1M上下文**，工具调用达生产级标准，代码/逻辑推理国产第一梯队，昇腾芯片适配成熟。**开源**（MIT协议）",
+      "en": "**1M上下文**，工具调用达生产级标准，代码/逻辑推理国产第一梯队，昇腾芯片适配成熟。**开源**（MIT协议）"
+    }
+  },
+  {
+    "name": "GPT-5.6 Luna（预览版）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量经济版，最低成本提供强大能力",
+      "en": "轻量经济版，最低成本提供强大能力"
+    }
+  },
+  {
+    "name": "GPT-5.6 Sol",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "未披露 | 1M | ❌",
+      "en": "未披露 | 1M | ❌"
+    }
+  },
+  {
+    "name": "GPT-5.6 Sol（预览版）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "旗舰版，**1M上下文**。有限合作伙伴预览，美国政府要求先经过审查流程。7/9正式全量发布（[API 来源](https://aihot.virxact.com/daily/2026-06-27)）",
+      "en": "旗舰版，**1M上下文**。有限合作伙伴预览，美国政府要求先经过审查流程。7/9正式全量发布（[API 来源](https://aihot.virxact.com/daily/2026-06-27)）"
+    }
+  },
+  {
+    "name": "GPT-5.6 Terra（预览版）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "中端均衡版，性能对标GPT-5.5但成本减半",
+      "en": "中端均衡版，性能对标GPT-5.5但成本减半"
+    }
+  },
+  {
+    "name": "Gemini 3.1 Flash Lite Image",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量多模态。⚠️ API 未找到对应条目，日期待确认",
+      "en": "轻量多模态。⚠️ API 未找到对应条目，日期待确认"
+    }
+  },
+  {
+    "name": "Gemma 4",
+    "org": "Google DeepMind",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "12B参数，256K上下文，开源。统一的无编码器多模态模型（[API 来源](https://aihot.virxact.com/daily/2026-06-10)）",
+      "en": "12B参数，256K上下文，开源。统一的无编码器多模态模型（[API 来源](https://aihot.virxact.com/daily/2026-06-10)）"
+    }
+  },
+  {
+    "name": "Gemma 4",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Gemma License",
+      "en": "Gemma License"
+    }
+  },
+  {
+    "name": "Grok Imagine 1.5",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "视频生成预览版（[API 来源](https://aihot.virxact.com/daily/2026-06-04)）",
+      "en": "视频生成预览版（[API 来源](https://aihot.virxact.com/daily/2026-06-04)）"
+    }
+  },
+  {
+    "name": "Higgs Audio v3 TTS",
+    "org": "Boson AI",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "4B参数，语音合成。⚠️ API 6/5 技巧区提及，日期待确认",
+      "en": "4B参数，语音合成。⚠️ API 6/5 技巧区提及，日期待确认"
+    }
+  },
+  {
+    "name": "Holo 3.1",
+    "org": "H Company",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "快速本地计算机使用智能体（[API 来源](https://aihot.virxact.com/daily/2026-06-03)）",
+      "en": "快速本地计算机使用智能体（[API 来源](https://aihot.virxact.com/daily/2026-06-03)）"
+    }
+  },
+  {
+    "name": "Holo 3.1 系列",
+    "org": "H Company",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "四款规模：0.8B / 4B / 9B / 35B-A3B，262K上下文。⚠️ API 显示为 **6/3** 发布（[API 来源](https://aihot.virxact.com/daily/2026-06-03)）",
+      "en": "四款规模：0.8B / 4B / 9B / 35B-A3B，262K上下文。⚠️ API 显示为 **6/3** 发布（[API 来源](https://aihot.virxact.com/daily/2026-06-03)）"
+    }
+  },
+  {
+    "name": "Ideogram 4.0",
+    "org": "Ideogram",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "9.3B参数，图像生成模型（[API 来源](https://aihot.virxact.com/daily/2026-06-04)）",
+      "en": "9.3B参数，图像生成模型（[API 来源](https://aihot.virxact.com/daily/2026-06-04)）"
+    }
+  },
+  {
+    "name": "Kimi K2.7-Code",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "1T | 262K | ❌",
+      "en": "1T | 262K | ❌"
+    }
+  },
+  {
+    "name": "Kimi K2.7-Code 系列",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "K2.7-Code（1T参数，262K上下文）及HighSpeed版，面向编程场景优化",
+      "en": "K2.7-Code（1T参数，262K上下文）及HighSpeed版，面向编程场景优化"
+    }
+  },
+  {
+    "name": "LFM-2.5",
+    "org": "Liquid AI",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "230M超轻量模型",
+      "en": "230M超轻量模型"
+    }
+  },
+  {
+    "name": "Ling-2.6-1T / Ring-2.6-1T",
+    "org": "蚂蚁",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "1T | - | ✅",
+      "en": "1T | - | ✅"
+    }
+  },
+  {
+    "name": "Ling/Ring 2.6",
+    "org": "蚂蚁",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源",
+      "en": "开源"
+    }
+  },
+  {
+    "name": "LongCat-2.0",
+    "org": "美团",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**1.6T参数**（万亿级），MoE架构，平均激活~48B（动态33B-56B），**1M上下文**。**MIT协议开源**。业界首个在**五万卡国产算力集群**（国产ASIC，零NVIDIA GPU）上完成全流程训练与推理的万亿参数模型。SWE-bench Pro 59.5，Terminal-Bench 2.1 70.8。此前以\"Owl Alpha\"匿名在OpenRouter运行两个月，月调用",
+      "en": "**1.6T参数**（万亿级），MoE架构，平均激活~48B（动态33B-56B），**1M上下文**。**MIT协议开源**。业界首个在**五万卡国产算力集群**（国产ASIC，零NVIDIA GPU）上完成全流程训练与推理的万亿参数模型。SWE-bench Pro 59.5，Terminal-Bench 2.1 70.8。此前以\"Owl Alpha\"匿名在OpenRouter运行两个月，月调用"
+    }
+  },
+  {
+    "name": "MAI-Thinking-1",
+    "org": "Microsoft AI",
+    "logoUrl": "https://github.com/microsoft.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "微软首款高级推理AI模型，1T总参数/35B激活，256K上下文，推理增强（[API 来源](https://aihot.virxact.com/daily/2026-06-03)）",
+      "en": "微软首款高级推理AI模型，1T总参数/35B激活，256K上下文，推理增强（[API 来源](https://aihot.virxact.com/daily/2026-06-03)）"
+    }
+  },
+  {
+    "name": "MAI-Thinking-1",
+    "org": "微软",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "1T（激活35B） | 256K | ❌",
+      "en": "1T（激活35B） | 256K | ❌"
+    }
+  },
+  {
+    "name": "Mellum 2",
+    "org": "JetBrains",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "12B参数（2.5B激活），131K上下文，面向IDE场景。⚠️ API 未找到，但 JetBrains 官方博客 6/1 确认发布（[来源](https://blog.jetbrains.com/ai/2026/06/mellum2-goes-open-source-a-fast-model-for-ai-workflows/)）",
+      "en": "12B参数（2.5B激活），131K上下文，面向IDE场景。⚠️ API 未找到，但 JetBrains 官方博客 6/1 确认发布（[来源](https://blog.jetbrains.com/ai/2026/06/mellum2-goes-open-source-a-fast-model-for-ai-workflows/)）"
+    }
+  },
+  {
+    "name": "MiniMax M3",
+    "org": "MiniMax",
+    "logoUrl": "https://github.com/MiniMax-AI.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "旗舰模型，MoE稀疏架构+MSA稀疏注意力，激活仅23B参数，支持**百万级超长上下文**。编程评测已超越GPT-5.5，实现国产大模型从追赶到领跑的跨越（[API 来源](https://aihot.virxact.com/daily/2026-06-02)）",
+      "en": "旗舰模型，MoE稀疏架构+MSA稀疏注意力，激活仅23B参数，支持**百万级超长上下文**。编程评测已超越GPT-5.5，实现国产大模型从追赶到领跑的跨越（[API 来源](https://aihot.virxact.com/daily/2026-06-02)）"
+    }
+  },
+  {
+    "name": "Nemotron 3 Ultra",
+    "org": "NVIDIA",
+    "logoUrl": "https://github.com/nvidia.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "550B参数，**1M上下文**，企业级模型。为长时间运行的智能体带来更快、更高效的推理能力（[API 来源](https://aihot.virxact.com/daily/2026-06-05)）",
+      "en": "550B参数，**1M上下文**，企业级模型。为长时间运行的智能体带来更快、更高效的推理能力（[API 来源](https://aihot.virxact.com/daily/2026-06-05)）"
+    }
+  },
+  {
+    "name": "Nex-N2 系列",
+    "org": "Nex AGI",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "N2-Pro（397B总参/17B激活，262K上下文）、N2-mini（35B总参/3B激活）。⚠️ API 显示为 **6/5** 发布（[API 来源](https://aihot.virxact.com/daily/2026-06-05)）",
+      "en": "N2-Pro（397B总参/17B激活，262K上下文）、N2-mini（35B总参/3B激活）。⚠️ API 显示为 **6/5** 发布（[API 来源](https://aihot.virxact.com/daily/2026-06-05)）"
+    }
+  },
+  {
+    "name": "Nex-N2-Pro",
+    "org": "Nex AGI",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于 Qwen3.5 的 397B MoE 推理模型，性能达 GPT-5.5 水平（[API 来源](https://aihot.virxact.com/daily/2026-06-05)）",
+      "en": "基于 Qwen3.5 的 397B MoE 推理模型，性能达 GPT-5.5 水平（[API 来源](https://aihot.virxact.com/daily/2026-06-05)）"
+    }
+  },
+  {
+    "name": "North Mini Code 1.0",
+    "org": "Cohere",
+    "logoUrl": "https://github.com/cohere-ai.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "30B MoE（3B激活），256K上下文，编程专用，Apache 2.0开源（[来源](https://cohere.com/blog/north-mini-code)）",
+      "en": "30B MoE（3B激活），256K上下文，编程专用，Apache 2.0开源（[来源](https://cohere.com/blog/north-mini-code)）"
+    }
+  },
+  {
+    "name": "Ornith 1.0",
+    "org": "DeepReinforce",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源",
+      "en": "开源"
+    }
+  },
+  {
+    "name": "Ornith 1.0 系列",
+    "org": "DeepReinforce",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "三款规模：9B / 35B / 397B，262K上下文",
+      "en": "三款规模：9B / 35B / 397B，262K上下文"
+    }
+  },
+  {
+    "name": "Qwen 3.7",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "多版本 | 1M | ✅",
+      "en": "多版本 | 1M | ✅"
+    }
+  },
+  {
+    "name": "Qwen 3.7 系列",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**1M上下文**，旗舰与MoE多版本覆盖，开源+闭源双轨。Arena全球盲测国产模型第一。API定价低于DeepSeek V4 Flash。支持长达35小时超长程复杂任务。⚠️ API 6/2 出现 \"Qwen3.7-Plus\"（[API 来源](https://aihot.virxact.com/daily/2026-06-02)），文档日期 6/3 可能为北京时间差",
+      "en": "**1M上下文**，旗舰与MoE多版本覆盖，开源+闭源双轨。Arena全球盲测国产模型第一。API定价低于DeepSeek V4 Flash。支持长达35小时超长程复杂任务。⚠️ API 6/2 出现 \"Qwen3.7-Plus\"（[API 来源](https://aihot.virxact.com/daily/2026-06-02)），文档日期 6/3 可能为北京时间差"
+    }
+  },
+  {
+    "name": "Qwen-AgentWorld-35B-A3B",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "35B总参/3B激活，262K上下文，Agent专用",
+      "en": "35B总参/3B激活，262K上下文，Agent专用"
+    }
+  },
+  {
+    "name": "Seedream 5.0 Pro",
+    "org": "字节跳动",
+    "logoUrl": "https://github.com/bytedance.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "图像生成模型，支持2K/4K输出、多语言渲染、交互式编辑。⚠️ 实际为 **7/8** 发布（[来源](https://hk.finance.yahoo.com/news/字节跳动发布多模态图像创作模型seedream-5-0-pro-023521131.html)），文档日期 6/28 有误",
+      "en": "图像生成模型，支持2K/4K输出、多语言渲染、交互式编辑。⚠️ 实际为 **7/8** 发布（[来源](https://hk.finance.yahoo.com/news/字节跳动发布多模态图像创作模型seedream-5-0-pro-023521131.html)），文档日期 6/28 有误"
+    }
+  },
+  {
+    "name": "—",
+    "org": "—",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "注：Claude Fable 5 / Mythos 5 实际为 **6/10** 发布（[API 来源](https://aihot.virxact.com/daily/2026-06-10)）",
+      "en": "注：Claude Fable 5 / Mythos 5 实际为 **6/10** 发布（[API 来源](https://aihot.virxact.com/daily/2026-06-10)）"
+    }
+  },
+  {
+    "name": "云知声 U2",
+    "org": "云知声",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "266B参数，**原生智能体大模型（Agent-Native）**，定位\"高智能密度+高价值Token\"，被业界称为云知声的\"DeepSeek时刻\"（[来源](https://news.qq.com/rain/a/20260608A029TD00) · [36氪](https://www.36kr.com/p/3844393508047108)）",
+      "en": "266B参数，**原生智能体大模型（Agent-Native）**，定位\"高智能密度+高价值Token\"，被业界称为云知声的\"DeepSeek时刻\"（[来源](https://news.qq.com/rain/a/20260608A029TD00) · [36氪](https://www.36kr.com/p/3844393508047108)）"
+    }
+  },
+  {
+    "name": "定价",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Sol：$5/$30 per MTok；Terra：$2.50/$15；Luna：$1/$6。引入显式缓存断点和30分钟缓存生命周期",
+      "en": "Sol：$5/$30 per MTok；Terra：$2.50/$15；Luna：$1/$6。引入显式缓存断点和30分钟缓存生命周期"
+    }
+  },
+  {
+    "name": "模型",
+    "org": "公司",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "参数规模 | 上下文 | 开源",
+      "en": "参数规模 | 上下文 | 开源"
+    }
+  },
+  {
+    "name": "蚂蚁百灵 Ling & Ring 2.6",
+    "org": "蚂蚁",
+    "logoUrl": "",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "三款模型，发布技术报告：**Ling-2.6-flash**（低延迟高吞吐）、**Ling-2.6-1T**（高能力密度）、**Ring-2.6-1T**（复杂推理/Agent任务）。已开源（[来源](https://arxiv.org/abs/2606.15079) · [智东西](https://zhidx.com/p/566648.html)）",
+      "en": "三款模型，发布技术报告：**Ling-2.6-flash**（低延迟高吞吐）、**Ling-2.6-1T**（高能力密度）、**Ring-2.6-1T**（复杂推理/Agent任务）。已开源（[来源](https://arxiv.org/abs/2606.15079) · [智东西](https://zhidx.com/p/566648.html)）"
+    }
+  },
+  {
+    "name": "豆包 Seed 2.1 Pro",
+    "org": "字节跳动",
+    "logoUrl": "https://github.com/bytedance.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Coding/Agent/VLM三大方向能力跃升，**正式跨越生产级质变点**。多项评测优于Claude Opus 4.6。在芯片设计RTL测试中连续运行近18小时完成完整工程流程（[来源](https://seed.bytedance.com/zh/blog/seed2-1-officially-released-advancing-ai-productivity)）",
+      "en": "Coding/Agent/VLM三大方向能力跃升，**正式跨越生产级质变点**。多项评测优于Claude Opus 4.6。在芯片设计RTL测试中连续运行近18小时完成完整工程流程（[来源](https://seed.bytedance.com/zh/blog/seed2-1-officially-released-advancing-ai-productivity)）"
+    }
+  },
+  {
+    "name": "豆包 Seed 2.1 Turbo",
+    "org": "字节跳动",
+    "logoUrl": "https://github.com/bytedance.png",
+    "date": "2026-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量快速版本（[来源](https://seed.bytedance.com/zh/blog/seed2-1-officially-released-advancing-ai-productivity)）",
+      "en": "轻量快速版本（[来源](https://seed.bytedance.com/zh/blog/seed2-1-officially-released-advancing-ai-productivity)）"
+    }
+  },
+  {
+    "name": "ChatGPT for Excel / Google Sheets",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "通用可用（GA），内置GPT-5.5模型，可在Excel/Google Sheets侧边栏中构建、更新和分析电子表格",
+      "en": "通用可用（GA），内置GPT-5.5模型，可在Excel/Google Sheets侧边栏中构建、更新和分析电子表格"
+    }
+  },
+  {
+    "name": "Codex CLI v0.129.0",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "模态Vim编辑",
+      "en": "模态Vim编辑"
+    }
+  },
+  {
+    "name": "Codex CLI v0.131.0",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "混合Token使用，通用\"@\"选择器，响应式Markdown表格",
+      "en": "混合Token使用，通用\"@\"选择器，响应式Markdown表格"
+    }
+  },
+  {
+    "name": "Codex CLI v0.133.0",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**Goal Mode默认启用**——定义目标+成功标准，Codex可自主驱动**数小时甚至数天**执行。持久化存储，跨对话/跨机器状态追踪",
+      "en": "**Goal Mode默认启用**——定义目标+成功标准，Codex可自主驱动**数小时甚至数天**执行。持久化存储，跨对话/跨机器状态追踪"
+    }
+  },
+  {
+    "name": "Codex CLI v0.134.0",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "对话历史搜索，`--profile`选择器，MCP支持OAuth+流式HTTP",
+      "en": "对话历史搜索，`--profile`选择器，MCP支持OAuth+流式HTTP"
+    }
+  },
+  {
+    "name": "Cohere",
+    "org": "**Apache 2.0**",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "218B MoE，企业级主权AI，2张H100可部署",
+      "en": "218B MoE，企业级主权AI，2张H100可部署"
+    }
+  },
+  {
+    "name": "Command A+",
+    "org": "Cohere",
+    "logoUrl": "https://github.com/cohere-ai.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**218B MoE（25B激活）**，128K上下文，**Apache 2.0开源**。支持48种语言，**W4A4无损量化**，仅需2张H100或1张B200即可部署。原生Citation生成。定位主权AI+企业级Agent",
+      "en": "**218B MoE（25B激活）**，128K上下文，**Apache 2.0开源**。支持48种语言，**W4A4无损量化**，仅需2张H100或1张B200即可部署。原生Citation生成。定位主权AI+企业级Agent"
+    }
+  },
+  {
+    "name": "Composer 2.5",
+    "org": "Cursor",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Cursor自研编程模型，首次与Opus 4.7和GPT-5.5正面竞争。**SWE-Bench Multilingual 79.8%**，CursorBench v3.1 63.2%。标准版$0.50/$2.50 per MTok",
+      "en": "Cursor自研编程模型，首次与Opus 4.7和GPT-5.5正面竞争。**SWE-Bench Multilingual 79.8%**，CursorBench v3.1 63.2%。标准版$0.50/$2.50 per MTok"
+    }
+  },
+  {
+    "name": "Cursor 3.4",
+    "org": "Cursor",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "团队可配置Agent环境，应用内PR Review",
+      "en": "团队可配置Agent环境，应用内PR Review"
+    }
+  },
+  {
+    "name": "DeepSeek V4-Pro 永久降价",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "4月起75%折扣促销，5月22日宣布**永久化**。输入$0.435/MTok，输出$0.87/MTok，缓存输入仅$0.003625/MTok。成为高并发编程工作负载的**性价比之王**",
+      "en": "4月起75%折扣促销，5月22日宣布**永久化**。输入$0.435/MTok，输出$0.87/MTok，缓存输入仅$0.003625/MTok。成为高并发编程工作负载的**性价比之王**"
+    }
+  },
+  {
+    "name": "GPT-5.5 Instant",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量低延迟版GPT-5.5，**成为ChatGPT全平台默认模型**（免费/付费版均替换GPT-5.3 Instant）。高风险领域（医疗/法律/金融）**幻觉减少52.5%**，回答简洁度提升30.2%。API中通过`chat-latest`别名访问",
+      "en": "轻量低延迟版GPT-5.5，**成为ChatGPT全平台默认模型**（免费/付费版均替换GPT-5.3 Instant）。高风险领域（医疗/法律/金融）**幻觉减少52.5%**，回答简洁度提升30.2%。API中通过`chat-latest`别名访问"
+    }
+  },
+  {
+    "name": "GPT-5.5-Cyber",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "网络安全专用变体，**有限预览**，通过Trusted Access for Cyber计划提供",
+      "en": "网络安全专用变体，**有限预览**，通过Trusted Access for Cyber计划提供"
+    }
+  },
+  {
+    "name": "Gemini 3.1 Flash Lite",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量效率版Gemini 3.1，GA正式版，定位速度与成本优化，对标GPT-5.5 Instant",
+      "en": "轻量效率版Gemini 3.1，GA正式版，定位速度与成本优化，对标GPT-5.5 Instant"
+    }
+  },
+  {
+    "name": "Gemini 3.5 Flash",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**Agent优先**定位，非聊天优先。在编码和Agent基准测试上**超越Gemini 3.1 Pro**，运行速度比同类前沿模型快约4倍，成本通常不到一半。Google I/O 2026正式发布，即刻可用",
+      "en": "**Agent优先**定位，非聊天优先。在编码和Agent基准测试上**超越Gemini 3.1 Pro**，运行速度比同类前沿模型快约4倍，成本通常不到一半。Google I/O 2026正式发布，即刻可用"
+    }
+  },
+  {
+    "name": "Gemini 3.5 Pro（公告）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "在I/O上发布公告，但处于有限Vertex预览阶段，**2M Token上下文窗口**+Deep Think推理，预计6月GA",
+      "en": "在I/O上发布公告，但处于有限Vertex预览阶段，**2M Token上下文窗口**+Deep Think推理，预计6月GA"
+    }
+  },
+  {
+    "name": "Grok 4.3",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "迭代更新（4月17日已发布Beta，5月6日广泛推送+API可用）。推理和编码能力继续优化",
+      "en": "迭代更新（4月17日已发布Beta，5月6日广泛推送+API可用）。推理和编码能力继续优化"
+    }
+  },
+  {
+    "name": "Grok Build CLI",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "首个编程Agent CLI，8个并行子Agent，2M上下文",
+      "en": "首个编程Agent CLI，8个并行子Agent，2M上下文"
+    }
+  },
+  {
+    "name": "Grok Build CLI（Beta）",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "xAI首个编程Agent CLI，对标Claude Code和Codex CLI。基于Grok 4.3 Beta，**2M Token上下文**，支持最多**8个并行子Agent**。$299/月（SuperGrok Heavy）",
+      "en": "xAI首个编程Agent CLI，对标Claude Code和Codex CLI。基于Grok 4.3 Beta，**2M Token上下文**，支持最多**8个并行子Agent**。$299/月（SuperGrok Heavy）"
+    }
+  },
+  {
+    "name": "Ollama 0.24",
+    "org": "Ollama",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Codex App集成，MLX采样器重写，Claude Desktop支持",
+      "en": "Codex App集成，MLX采样器重写，Claude Desktop支持"
+    }
+  },
+  {
+    "name": "Qwen 3.7-Max-Preview",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "阿里云峰会发布。**1M上下文**，Arena盲测总榜**国产第一**（#13全球，#7数学，#10编程）。35小时自主运行、1000+工具调用无衰减。$2.50/$7.50 per MTok",
+      "en": "阿里云峰会发布。**1M上下文**，Arena盲测总榜**国产第一**（#13全球，#7数学，#10编程）。35小时自主运行、1000+工具调用无衰减。$2.50/$7.50 per MTok"
+    }
+  },
+  {
+    "name": "Qwen3.5-Omni",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**全模态大模型**（文本/图像/音频/音视频），**215项SOTA霸榜**，全面超越Gemini-3.1 Pro。Thinker-Talker分工架构+Hybrid-MoE技术。256K上下文（10小时音频/1小时视频）。原生涌现**Vibe Coding**能力",
+      "en": "**全模态大模型**（文本/图像/音频/音视频），**215项SOTA霸榜**，全面超越Gemini-3.1 Pro。Thinker-Talker分工架构+Hybrid-MoE技术。256K上下文（10小时音频/1小时视频）。原生涌现**Vibe Coding**能力"
+    }
+  },
+  {
+    "name": "Ring-2.6-1T",
+    "org": "蚂蚁",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**1T** | - | ✅",
+      "en": "**1T** | - | ✅"
+    }
+  },
+  {
+    "name": "SkyClaw-v1.0",
+    "org": "昆仑万维",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "百万上下文Agent模型",
+      "en": "百万上下文Agent模型"
+    }
+  },
+  {
+    "name": "Step 3.7 Flash",
+    "org": "StepFun（阶跃星辰）",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**198B MoE（11B激活）**，256K上下文，**Apache 2.0开源**。原生视觉理解（ViT编码器）。Advisor Mode模式下SWE-Bench Verified 76.3%，成本仅$0.19/任务 vs Claude Opus 4.6的$1.76",
+      "en": "**198B MoE（11B激活）**，256K上下文，**Apache 2.0开源**。原生视觉理解（ViT编码器）。Advisor Mode模式下SWE-Bench Verified 76.3%，成本仅$0.19/任务 vs Claude Opus 4.6的$1.76"
+    }
+  },
+  {
+    "name": "Step 3.7 Flash",
+    "org": "StepFun",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "198B（激活11B） | 256K | ✅ Apache 2.0",
+      "en": "198B（激活11B） | 256K | ✅ Apache 2.0"
+    }
+  },
+  {
+    "name": "StepFun",
+    "org": "**Apache 2.0**",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "198B MoE，视觉+编程，极致性价比",
+      "en": "198B MoE，视觉+编程，极致性价比"
+    }
+  },
+  {
+    "name": "SubQ 1M-Preview",
+    "org": "Subquadratic",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**首个商用次二次Attention（Subquadratic）LLM**，非Transformer架构。原生支持**1200万Token上下文窗口**（12M），长上下文任务成本仅为前沿模型的1/5，注意力速度提升高达52倍",
+      "en": "**首个商用次二次Attention（Subquadratic）LLM**，非Transformer架构。原生支持**1200万Token上下文窗口**（12M），长上下文任务成本仅为前沿模型的1/5，注意力速度提升高达52倍"
+    }
+  },
+  {
+    "name": "ZAYA1-8B",
+    "org": "Zyphra",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "8B总参数/760M激活（MoE）**，Apache 2.0开源**。**业界首个端到端在AMD Instinct硬件上训练的推理模型**。以极小激活参数在推理/数学/编码上对标更大规模开源模型",
+      "en": "8B总参数/760M激活（MoE）**，Apache 2.0开源**。**业界首个端到端在AMD Instinct硬件上训练的推理模型**。以极小激活参数在推理/数学/编码上对标更大规模开源模型"
+    }
+  },
+  {
+    "name": "Zyphra",
+    "org": "**Apache 2.0**",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "首个AMD端到端训练，760M激活",
+      "en": "首个AMD端到端训练，760M激活"
+    }
+  },
+  {
+    "name": "天工AI SkyClaw-v1.0",
+    "org": "昆仑万维",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "百万上下文Agent模型，同步发布Lite版。面向真实工作流，支持长上下文理解/多轮执行/代码生成/工具调用。开放2-4周免费试用",
+      "en": "百万上下文Agent模型，同步发布Lite版。面向真实工作流，支持长上下文理解/多轮执行/代码生成/工具调用。开放2-4周免费试用"
+    }
+  },
+  {
+    "name": "工具",
+    "org": "公司",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "亮点",
+      "en": "亮点"
+    }
+  },
+  {
+    "name": "文心 5.1",
+    "org": "百度",
+    "logoUrl": "https://github.com/baidu.png",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "优化压缩版 | 未披露 | ❌",
+      "en": "优化压缩版 | 未披露 | ❌"
+    }
+  },
+  {
+    "name": "模型",
+    "org": "公司",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "参数规模 | 上下文 | 开源",
+      "en": "参数规模 | 上下文 | 开源"
+    }
+  },
+  {
+    "name": "蚂蚁",
+    "org": "开源",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "万亿参数推理模型，可调Reasoning Effort",
+      "en": "万亿参数推理模型，可调Reasoning Effort"
+    }
+  },
+  {
+    "name": "蚂蚁百灵 Ring-2.6-1T 开源",
+    "org": "蚂蚁",
+    "logoUrl": "",
+    "date": "2026-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "万亿参数旗舰推理模型，正式开源，权重上线Hugging Face/ModelScope。引入**可调节Reasoning Effort机制**（high/xhigh），支持按需分配推理资源。采用异步强化学习训练范式",
+      "en": "万亿参数旗舰推理模型，正式开源，权重上线Hugging Face/ModelScope。引入**可调节Reasoning Effort机制**（high/xhigh），支持按需分配推理资源。采用异步强化学习训练范式"
+    }
+  },
+  {
+    "name": "$5/$30",
+    "org": "~$1/$3（估算）",
+    "logoUrl": "",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "$7.5/$45 | $3.5/$21",
+      "en": "$7.5/$45 | $3.5/$21"
+    }
+  },
+  {
+    "name": "128K-400K",
+    "org": "**1M**",
+    "logoUrl": "",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "200K | 无限（测试）",
+      "en": "200K | 无限（测试）"
+    }
+  },
+  {
+    "name": "4/23",
+    "org": "4/24",
+    "logoUrl": "",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "4/15 | 4/18",
+      "en": "4/15 | 4/18"
+    }
+  },
+  {
+    "name": "82.7%",
+    "org": "-",
+    "logoUrl": "",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "69.4% | -",
+      "en": "69.4% | -"
+    }
+  },
+  {
+    "name": "88.7%",
+    "org": "81.2%",
+    "logoUrl": "",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "87.6% | 76.8%",
+      "en": "87.6% | 76.8%"
+    }
+  },
+  {
+    "name": "Agent编码最强",
+    "org": "百万上下文+极致性价比",
+    "logoUrl": "",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "SWE-bench领先+安全 | 无限上下文+多模态",
+      "en": "SWE-bench领先+安全 | 无限上下文+多模态"
+    }
+  },
+  {
+    "name": "Claude Opus 4.7",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "SWE-bench领先，安全增强。200K上下文。**$7.5/$45 per MTok**",
+      "en": "SWE-bench领先，安全增强。200K上下文。**$7.5/$45 per MTok**"
+    }
+  },
+  {
+    "name": "DeepSeek V3.2 系列",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Thinking和Speciale版本，稳坐开源推理模型头把交椅",
+      "en": "Thinking和Speciale版本，稳坐开源推理模型头把交椅"
+    }
+  },
+  {
+    "name": "DeepSeek V4 系列",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**V4-Pro：1.6T参数/激活49B；V4-Flash：284B参数/激活13B**。全部**百万Token上下文**，**MIT协议开源**。从CUDA全面转向华为CANN框架，昇腾950PR推理速度达H20的2.87倍。API五折优惠",
+      "en": "**V4-Pro：1.6T参数/激活49B；V4-Flash：284B参数/激活13B**。全部**百万Token上下文**，**MIT协议开源**。从CUDA全面转向华为CANN框架，昇腾950PR推理速度达H20的2.87倍。API五折优惠"
+    }
+  },
+  {
+    "name": "GLM-5.1",
+    "org": "智谱AI",
+    "logoUrl": "",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "正式发布并**开源**（MIT协议），同时**提价10%**。Coding场景缓存命中Token价格接近Claude Sonnet 4.6水平。发布后港股大涨近18%（[来源](https://cloud.tencent.com/developer/news/3799115) · [百度百科](https://baike.baidu.com/item/%E6%99%BA%E8%B0%B1GLM-5",
+      "en": "正式发布并**开源**（MIT协议），同时**提价10%**。Coding场景缓存命中Token价格接近Claude Sonnet 4.6水平。发布后港股大涨近18%（[来源](https://cloud.tencent.com/developer/news/3799115) · [百度百科](https://baike.baidu.com/item/%E6%99%BA%E8%B0%B1GLM-5"
+    }
+  },
+  {
+    "name": "GPT-5.5",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "128K（API）/400K（Codex）上下文。**Agent编码能力最强**，Terminal-Bench 2.0达82.7%，SWE-bench Verified 88.7%。$5/$30 per MTok。率先登陆Codex，后逐步推送ChatGPT",
+      "en": "128K（API）/400K（Codex）上下文。**Agent编码能力最强**，Terminal-Bench 2.0达82.7%，SWE-bench Verified 88.7%。$5/$30 per MTok。率先登陆Codex，后逐步推送ChatGPT"
+    }
+  },
+  {
+    "name": "GPT-5.5",
+    "org": "**DeepSeek V4 Pro**",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**Claude Opus 4.7** | **Gemini 3.1 Pro**",
+      "en": "**Claude Opus 4.7** | **Gemini 3.1 Pro**"
+    }
+  },
+  {
+    "name": "GPT-5.5-Cyber",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "网络安全专用模型，限量发布",
+      "en": "网络安全专用模型，限量发布"
+    }
+  },
+  {
+    "name": "Gemini 3.1 Pro（无限上下文测试版）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "引入**压缩记忆机制**，理论上的无限上下文。$3.5/$21 per MTok",
+      "en": "引入**压缩记忆机制**，理论上的无限上下文。$3.5/$21 per MTok"
+    }
+  },
+  {
+    "name": "Gemma 4 系列",
+    "org": "Google DeepMind",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**Apache 2.0开源**，谷歌在开源许可证上的重大转变。涵盖E2B/E4B（2B/4B移动端）和26B/31B（桌面GPU），支持140种语言、函数调用和多模态推理",
+      "en": "**Apache 2.0开源**，谷歌在开源许可证上的重大转变。涵盖E2B/E4B（2B/4B移动端）和26B/31B（桌面GPU），支持140种语言、函数调用和多模态推理"
+    }
+  },
+  {
+    "name": "Grok 4.3 Beta",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "约0.5万亿参数，引入PDF/幻灯片/电子表格原生生成，约200万Token长上下文",
+      "en": "约0.5万亿参数，引入PDF/幻灯片/电子表格原生生成，约200万Token长上下文"
+    }
+  },
+  {
+    "name": "Kimi K2.6 正式版",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**1T总参/32B激活**，384专家MoE，256K上下文。**发布并开源权重**。首个具备完整多Agent协作编程能力的开源模型",
+      "en": "**1T总参/32B激活**，384专家MoE，256K上下文。**发布并开源权重**。首个具备完整多Agent协作编程能力的开源模型"
+    }
+  },
+  {
+    "name": "Kimi K2.6-code-preview（Beta）",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "低调向Beta测试者推送，Kimi Code会员用户可抢先体验",
+      "en": "低调向Beta测试者推送，Kimi Code会员用户可抢先体验"
+    }
+  },
+  {
+    "name": "LongCat-2.0-Preview",
+    "org": "美团",
+    "logoUrl": "",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "万亿参数，1M上下文，全程国产算力集群训练推理。每日提供1000万免费Token额度",
+      "en": "万亿参数，1M上下文，全程国产算力集群训练推理。每日提供1000万免费Token额度"
+    }
+  },
+  {
+    "name": "MiMo-V2-Flash",
+    "org": "小米",
+    "logoUrl": "",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "持续迭代",
+      "en": "持续迭代"
+    }
+  },
+  {
+    "name": "MiniMax 2.7",
+    "org": "MiniMax",
+    "logoUrl": "https://github.com/MiniMax-AI.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "发布并开源",
+      "en": "发布并开源"
+    }
+  },
+  {
+    "name": "Muse Spark",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "多模态模型发布，定位Agent推理与工具使用",
+      "en": "多模态模型发布，定位Agent推理与工具使用"
+    }
+  },
+  {
+    "name": "OpenAI",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Anthropic | Google",
+      "en": "Anthropic | Google"
+    }
+  },
+  {
+    "name": "Qwen 3.6 系列",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "Max Preview/Plus/Flash/27B/35B五款，**线性注意力+稀疏MoE架构**，引入\"**思维保持**\"技术——在对话中保持推理轨迹，减少重复计算",
+      "en": "Max Preview/Plus/Flash/27B/35B五款，**线性注意力+稀疏MoE架构**，引入\"**思维保持**\"技术——在对话中保持推理轨迹，减少重复计算"
+    }
+  },
+  {
+    "name": "❌",
+    "org": "**✅ MIT**",
+    "logoUrl": "",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "❌ | ❌",
+      "en": "❌ | ❌"
+    }
+  },
+  {
+    "name": "文心5.1 Preview",
+    "org": "百度",
+    "logoUrl": "https://github.com/baidu.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "上线LMArena，以1476分登顶文本榜国内第一",
+      "en": "上线LMArena，以1476分登顶文本榜国内第一"
+    }
+  },
+  {
+    "name": "未披露",
+    "org": "**1.6T（激活49B）**",
+    "logoUrl": "",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "未披露 | 未披露",
+      "en": "未披露 | 未披露"
+    }
+  },
+  {
+    "name": "腾讯混元 Hy3 preview",
+    "org": "腾讯",
+    "logoUrl": "https://github.com/tencent.png",
+    "date": "2026-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "295B总参/21B激活MoE，256K上下文，**开源**。快慢思考融合，混元重建后首个模型。复杂推理/代码/Agent能力大幅提升。已在腾讯云/元宝/QQ/微信读书等全线产品上线",
+      "en": "295B总参/21B激活MoE，256K上下文，**开源**。快慢思考融合，混元重建后首个模型。复杂推理/代码/Agent能力大幅提升。已在腾讯云/元宝/QQ/微信读书等全线产品上线"
+    }
+  },
+  {
+    "name": "Claude 4.6 更新",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**百万上下文免费开放**，取消长文本溢价。单次支持600张图像/PDF同时解析，多模态处理能力提升6倍",
+      "en": "**百万上下文免费开放**，取消长文本溢价。单次支持600张图像/PDF同时解析，多模态处理能力提升6倍"
+    }
+  },
+  {
+    "name": "DeepSeek V4",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "全面采用国产芯片（海光/寒武纪）训练推理，**彻底脱离CUDA生态**，百万Token上下文，推理成本降低60%",
+      "en": "全面采用国产芯片（海光/寒武纪）训练推理，**彻底脱离CUDA生态**，百万Token上下文，推理成本降低60%"
+    }
+  },
+  {
+    "name": "GPT-5.1 预览版",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**千万级Token上下文（1000万Token，约750万字）**，原生文/图/音/视频统一处理，推理速度较GPT-5.4提升3倍。预计4月正式开放API",
+      "en": "**千万级Token上下文（1000万Token，约750万字）**，原生文/图/音/视频统一处理，推理速度较GPT-5.4提升3倍。预计4月正式开放API"
+    }
+  },
+  {
+    "name": "GPT-5.4",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**百万Token上下文窗口**（API默认开启），新增**\"中途响应可控\"（Mid-response Steerability）**——可在对话中实时调整AI输出方向。原生支持电脑控制，推理与编码较GPT-5提升30%，成本优化40%",
+      "en": "**百万Token上下文窗口**（API默认开启），新增**\"中途响应可控\"（Mid-response Steerability）**——可在对话中实时调整AI输出方向。原生支持电脑控制，推理与编码较GPT-5提升30%，成本优化40%"
+    }
+  },
+  {
+    "name": "Gemini 3.1 Pro",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "未披露 | **1M** | ❌",
+      "en": "未披露 | **1M** | ❌"
+    }
+  },
+  {
+    "name": "Gemini 3.1 Pro（GA）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**百万Token上下文**，复杂长程推理无信息衰减。配套**Veo 3视频生成模型**——原生音频生成、首尾帧可控、多机位一致，1080P视频上限延至10分钟",
+      "en": "**百万Token上下文**，复杂长程推理无信息衰减。配套**Veo 3视频生成模型**——原生音频生成、首尾帧可控、多机位一致，1080P视频上限延至10分钟"
+    }
+  },
+  {
+    "name": "Llama 4.0 400B",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "400B | 未披露 | ✅",
+      "en": "400B | 未披露 | ✅"
+    }
+  },
+  {
+    "name": "Llama 4.0 系列",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "⚠️ 实际为 **2025年4月5日** 发布，非 2026年3月（[来源](https://news.qq.com/rain/a/20250406A02CVQ00)）。Llama 4 Scout/Maverick/Behemoth三款，MoE架构，Scout 109B/17B激活，Maverick 400B/17B激活，原生多模态",
+      "en": "⚠️ 实际为 **2025年4月5日** 发布，非 2026年3月（[来源](https://news.qq.com/rain/a/20250406A02CVQ00)）。Llama 4 Scout/Maverick/Behemoth三款，MoE架构，Scout 109B/17B激活，Maverick 400B/17B激活，原生多模态"
+    }
+  },
+  {
+    "name": "LongCat-Next",
+    "org": "美团",
+    "logoUrl": "",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**全球首个原生多模态大模型**，打破语言中心架构。将图像/语音/文本统一映射为同源离散Token，通过Next Token Prediction范式统一建模。**全面开源**（含离散分词器dNaViT）",
+      "en": "**全球首个原生多模态大模型**，打破语言中心架构。将图像/语音/文本统一映射为同源离散Token，通过Next Token Prediction范式统一建模。**全面开源**（含离散分词器dNaViT）"
+    }
+  },
+  {
+    "name": "MiMo-V2 Pro",
+    "org": "小米",
+    "logoUrl": "",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**1.2T** | **1M** | ❌",
+      "en": "**1.2T** | **1M** | ❌"
+    }
+  },
+  {
+    "name": "MiMo-V2 系列",
+    "org": "小米",
+    "logoUrl": "",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Pro/Omni/TTS三款。**MiMo-V2 Pro：1.2T参数、100万上下文**，全球综合排名第八。已在小米15系列手机、SU7汽车端侧落地，接入金山Office生态",
+      "en": "Pro/Omni/TTS三款。**MiMo-V2 Pro：1.2T参数、100万上下文**，全球综合排名第八。已在小米15系列手机、SU7汽车端侧落地，接入金山Office生态"
+    }
+  },
+  {
+    "name": "Nemotron 3 Super",
+    "org": "NVIDIA",
+    "logoUrl": "https://github.com/nvidia.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**120B总参/12B激活**，混合Mamba-Transformer MoE架构，**1M上下文**，**完全开放**（权重/数据集/方法）。吞吐量是上一代Nemotron Super的5倍以上",
+      "en": "**120B总参/12B激活**，混合Mamba-Transformer MoE架构，**1M上下文**，**完全开放**（权重/数据集/方法）。吞吐量是上一代Nemotron Super的5倍以上"
+    }
+  },
+  {
+    "name": "Qwen3 235B",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "235B（激活22B） | 未披露 | ✅ Apache 2.0",
+      "en": "235B（激活22B） | 未披露 | ✅ Apache 2.0"
+    }
+  },
+  {
+    "name": "Qwen3 系列",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "235B-A22B MoE + 30B-A3B + 4B全覆盖，**Apache 2.0开源**。首次区分Instruct（非思考）和Thinking（思考）两种模式",
+      "en": "235B-A22B MoE + 30B-A3B + 4B全覆盖，**Apache 2.0开源**。首次区分Instruct（非思考）和Thinking（思考）两种模式"
+    }
+  },
+  {
+    "name": "Qwen3.5-Max-Preview 登顶",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "LM Arena评分**1464分**，全球第五、**中国第一**。397B总参/17B激活，数学推理全球第五",
+      "en": "LM Arena评分**1464分**，全球第五、**中国第一**。397B总参/17B激活，数学推理全球第五"
+    }
+  },
+  {
+    "name": "Qwen3.5-Omni（上线）",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "全模态大模型，支持文本/图片/音频/音视频理解。Plus/Flash/Light三尺寸，同步开放实时对话API",
+      "en": "全模态大模型，支持文本/图片/音频/音视频理解。Plus/Flash/Light三尺寸，同步开放实时对话API"
+    }
+  },
+  {
+    "name": "Rakuten AI 3.0",
+    "org": "乐天（日本）",
+    "logoUrl": "",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**约700B MoE**，日本最大高性能AI模型，经济产业省GENIAC项目支持。日语优化，Apache 2.0开源",
+      "en": "**约700B MoE**，日本最大高性能AI模型，经济产业省GENIAC项目支持。日语优化，Apache 2.0开源"
+    }
+  },
+  {
+    "name": "Rakuten AI 3.0",
+    "org": "乐天",
+    "logoUrl": "",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "~700B MoE | 未披露 | ✅ Apache 2.0",
+      "en": "~700B MoE | 未披露 | ✅ Apache 2.0"
+    }
+  },
+  {
+    "name": "华为盘古2.0",
+    "org": "华为",
+    "logoUrl": "",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "聚焦具身智能，驱动工业机械臂精密装配（误差<0.01mm），车路云一体化决策",
+      "en": "聚焦具身智能，驱动工业机械臂精密装配（误差<0.01mm），车路云一体化决策"
+    }
+  },
+  {
+    "name": "星火4.0",
+    "org": "科大讯飞",
+    "logoUrl": "",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "语音交互延迟降至**200ms**（近实时），新增12种方言（含藏语/维吾尔语），教育场景可自动生成个性化习题与讲解视频",
+      "en": "语音交互延迟降至**200ms**（近实时），新增12种方言（含藏语/维吾尔语），教育场景可自动生成个性化习题与讲解视频"
+    }
+  },
+  {
+    "name": "模型",
+    "org": "公司",
+    "logoUrl": "",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "参数规模 | 上下文 | 开源",
+      "en": "参数规模 | 上下文 | 开源"
+    }
+  },
+  {
+    "name": "百度文心5.0 具身智能",
+    "org": "百度",
+    "logoUrl": "https://github.com/baidu.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "无人机自主规划航线、多机协同作业，开源端侧推理框架",
+      "en": "无人机自主规划航线、多机协同作业，开源端侧推理框架"
+    }
+  },
+  {
+    "name": "腾讯混元3.0（内测）",
+    "org": "腾讯",
+    "logoUrl": "https://github.com/tencent.png",
+    "date": "2026-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "强化AI智能体与企业服务能力，深度接入微信/企业微信/腾讯云生态",
+      "en": "强化AI智能体与企业服务能力，深度接入微信/企业微信/腾讯云生态"
+    }
+  },
+  {
+    "name": "Claude Opus 4.6",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "支持**百万Token上下文窗口**，Agent规划与代码审计能力大幅提升，与GPT-5.3-Codex同日发布争夺\"编程之王\"",
+      "en": "支持**百万Token上下文窗口**，Agent规划与代码审计能力大幅提升，与GPT-5.3-Codex同日发布争夺\"编程之王\""
+    }
+  },
+  {
+    "name": "Claude Sonnet 4.6",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "接近Opus性能，仅需1/5价格，实验性上下文窗口接近百万Token",
+      "en": "接近Opus性能，仅需1/5价格，实验性上下文窗口接近百万Token"
+    }
+  },
+  {
+    "name": "DeepSeek V3.2 更新",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "上下文窗口扩展10倍至**超百万Token**，可处理三体小说全集",
+      "en": "上下文窗口扩展10倍至**超百万Token**，可处理三体小说全集"
+    }
+  },
+  {
+    "name": "DeepSeek V4（预计）",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "1T参数模型，剑指编程领域霸主（实际4月发布）",
+      "en": "1T参数模型，剑指编程领域霸主（实际4月发布）"
+    }
+  },
+  {
+    "name": "GLM-5",
+    "org": "智谱AI",
+    "logoUrl": "",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**744B参数（激活40B）**，MIT协议**开源**。编码/Agent能力开源SOTA，真实编程体感逼近Claude Opus 4.5。定价仅为Claude七分之一，发布后市值五天翻倍",
+      "en": "**744B参数（激活40B）**，MIT协议**开源**。编码/Agent能力开源SOTA，真实编程体感逼近Claude Opus 4.5。定价仅为Claude七分之一，发布后市值五天翻倍"
+    }
+  },
+  {
+    "name": "GPT-5.3 Codex",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "首个 **\"自我改进\"的智能体编程模型**，可根据模糊指令生成功能完备的网站和应用",
+      "en": "首个 **\"自我改进\"的智能体编程模型**，可根据模糊指令生成功能完备的网站和应用"
+    }
+  },
+  {
+    "name": "Gemini 3.1 Pro",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "推理能力提升2倍，ARC-AGI-2得分77.1%。支持百万Token上下文，多模态能力扩展至文本/图像/结构化数据统一分析",
+      "en": "推理能力提升2倍，ARC-AGI-2得分77.1%。支持百万Token上下文，多模态能力扩展至文本/图像/结构化数据统一分析"
+    }
+  },
+  {
+    "name": "Grok 4.2 RC",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "\"快速学习\"模型，每周持续改进",
+      "en": "\"快速学习\"模型，每周持续改进"
+    }
+  },
+  {
+    "name": "Kimi Claw",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于K2.5的浏览器智能体平台Beta，支持ClawHub 5000+社区插件，远程操控电脑执行任务",
+      "en": "基于K2.5的浏览器智能体平台Beta，支持ClawHub 5000+社区插件，远程操控电脑执行任务"
+    }
+  },
+  {
+    "name": "Ling-2.5-1T",
+    "org": "蚂蚁",
+    "logoUrl": "",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "即时响应模型，与Ring-2.5-1T共享混合线性注意力架构，**开源**",
+      "en": "即时响应模型，与Ring-2.5-1T共享混合线性注意力架构，**开源**"
+    }
+  },
+  {
+    "name": "Ming-Flash-Omni 2.0",
+    "org": "蚂蚁",
+    "logoUrl": "",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "全模态大模型**开源**，实现\"一轨三音\"——同一音轨合成语音/环境音效/背景音乐，支持20余项参数调控",
+      "en": "全模态大模型**开源**，实现\"一轨三音\"——同一音轨合成语音/环境音效/背景音乐，支持20余项参数调控"
+    }
+  },
+  {
+    "name": "MiniMax M2.5",
+    "org": "MiniMax",
+    "logoUrl": "https://github.com/MiniMax-AI.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "10B激活参数，Agent场景高效推理。发布后12小时登顶OpenRouter热度榜，**一周内周调用量3.07T Tokens**，超过Kimi K2.5+GLM-5+DeepSeek V3.2三家总和",
+      "en": "10B激活参数，Agent场景高效推理。发布后12小时登顶OpenRouter热度榜，**一周内周调用量3.07T Tokens**，超过Kimi K2.5+GLM-5+DeepSeek V3.2三家总和"
+    }
+  },
+  {
+    "name": "OpenClaw 生态扩张",
+    "org": "百度",
+    "logoUrl": "https://github.com/baidu.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "移动版\"红手指Operator\"上线，百度App接入OpenClaw智能体",
+      "en": "移动版\"红手指Operator\"上线，百度App接入OpenClaw智能体"
+    }
+  },
+  {
+    "name": "Qwen-Image-2.0",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "新一代视觉大模型，支持生成2K分辨率图像、专业PPT及信息图",
+      "en": "新一代视觉大模型，支持生成2K分辨率图像、专业PPT及信息图"
+    }
+  },
+  {
+    "name": "Qwen3-Coder-Next",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "80B总参/3B激活MoE，专为编程Agent和本地开发打造。SWE-Bench Verified解决率超70%，性能媲美激活参数大10-20倍的稠密模型，**开源**",
+      "en": "80B总参/3B激活MoE，专为编程Agent和本地开发打造。SWE-Bench Verified解决率超70%，性能媲美激活参数大10-20倍的稠密模型，**开源**"
+    }
+  },
+  {
+    "name": "Qwen3.5-Plus",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "397B（激活170B） | ✅",
+      "en": "397B（激活170B） | ✅"
+    }
+  },
+  {
+    "name": "Qwen3.5-Plus 开源",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**397B MoE（激活170亿）**，部署显存降低60%，最大推理吞吐量提升19倍，API调用价低至0.8元/百万Token",
+      "en": "**397B MoE（激活170亿）**，部署显存降低60%，最大推理吞吐量提升19倍，API调用价低至0.8元/百万Token"
+    }
+  },
+  {
+    "name": "Ring-2.5-1T",
+    "org": "蚂蚁",
+    "logoUrl": "",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "全球首个**混合线性注意力架构的万亿参数思考模型**，**开源**。推理速度快+深度思考强+长程任务执行能力突出，打破大模型\"不可能三角\"",
+      "en": "全球首个**混合线性注意力架构的万亿参数思考模型**，**开源**。推理速度快+深度思考强+长程任务执行能力突出，打破大模型\"不可能三角\""
+    }
+  },
+  {
+    "name": "RynnBrain",
+    "org": "阿里/达摩院",
+    "logoUrl": "",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "物理AI模型，聚焦机器人时空记忆与推理，超越Google Gemini Robotics-ER 1.5和Nvidia Cosmos-Reason2，**开源**",
+      "en": "物理AI模型，聚焦机器人时空记忆与推理，超越Google Gemini Robotics-ER 1.5和Nvidia Cosmos-Reason2，**开源**"
+    }
+  },
+  {
+    "name": "Seed 2.0 系列",
+    "org": "字节跳动",
+    "logoUrl": "https://github.com/bytedance.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "与豆包2.0同步发布，完成AI全栈能力升级",
+      "en": "与豆包2.0同步发布，完成AI全栈能力升级"
+    }
+  },
+  {
+    "name": "Seedance 2.0",
+    "org": "字节跳动",
+    "logoUrl": "https://github.com/bytedance.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**电影级视频生成引擎**，原生音画同步、多镜头叙事能力达全球顶尖，国产AI视频生成实现弯道超车",
+      "en": "**电影级视频生成引擎**，原生音画同步、多镜头叙事能力达全球顶尖，国产AI视频生成实现弯道超车"
+    }
+  },
+  {
+    "name": "Seedream 5.0-Preview",
+    "org": "字节跳动",
+    "logoUrl": "https://github.com/bytedance.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "图像生成领域\"范式革命\"",
+      "en": "图像生成领域\"范式革命\""
+    }
+  },
+  {
+    "name": "SkyReels V4",
+    "org": "Skywork AI",
+    "logoUrl": "",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "全球首个同时支持多模态输入、联合音视频生成、统一生成/修复/编辑任务的视频基础模型",
+      "en": "全球首个同时支持多模态输入、联合音视频生成、统一生成/修复/编辑任务的视频基础模型"
+    }
+  },
+  {
+    "name": "Step 3.5 Flash",
+    "org": "阶跃星辰",
+    "logoUrl": "",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**196B稀疏MoE（激活11B）**，256K上下文，**开源**。单请求代码推理速度最高350 TPS，数学推理/编码/Agent性能逼近主流闭源模型",
+      "en": "**196B稀疏MoE（激活11B）**，256K上下文，**开源**。单请求代码推理速度最高350 TPS，数学推理/编码/Agent性能逼近主流闭源模型"
+    }
+  },
+  {
+    "name": "可灵AI 3.0 系列",
+    "org": "快手",
+    "logoUrl": "",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "可灵视频3.0/3.0 Omni + 可灵图片3.0/3.0 Omni，覆盖影视级全流程（生成/编辑/后期）",
+      "en": "可灵视频3.0/3.0 Omni + 可灵图片3.0/3.0 Omni，覆盖影视级全流程（生成/编辑/后期）"
+    }
+  },
+  {
+    "name": "星火X2",
+    "org": "科大讯飞",
+    "logoUrl": "",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于全国产算力训练，通用能力媲美GPT-5.2、Gemini-3-Pro",
+      "en": "基于全国产算力训练，通用能力媲美GPT-5.2、Gemini-3-Pro"
+    }
+  },
+  {
+    "name": "模型",
+    "org": "公司",
+    "logoUrl": "",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "参数规模 | 开源",
+      "en": "参数规模 | 开源"
+    }
+  },
+  {
+    "name": "混元 HY-1.8B-2Bit",
+    "org": "腾讯",
+    "logoUrl": "https://github.com/tencent.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "业内首个面向产业场景的**2Bit量化端侧大模型**，等效参数量降低6倍，生成速度提升2-3倍",
+      "en": "业内首个面向产业场景的**2Bit量化端侧大模型**，等效参数量降低6倍，生成速度提升2-3倍"
+    }
+  },
+  {
+    "name": "豆包2.0 API 上线",
+    "org": "字节跳动",
+    "logoUrl": "https://github.com/bytedance.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "面向企业和开发者开放API服务，个人用户可在火山方舟体验中心或豆包App\"专家\"模式体验",
+      "en": "面向企业和开发者开放API服务，个人用户可在火山方舟体验中心或豆包App\"专家\"模式体验"
+    }
+  },
+  {
+    "name": "豆包2.0 Pro",
+    "org": "字节跳动",
+    "logoUrl": "https://github.com/bytedance.png",
+    "date": "2026-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "未披露 | ❌",
+      "en": "未披露 | ❌"
+    }
+  },
+  {
+    "name": "DeepSeek-OCR 2",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2026-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "全新DeepEncoder V2架构，从\"固定扫描\"转向\"语义推理\"，引入因果注意力机制的\"因果流查询\"",
+      "en": "全新DeepEncoder V2架构，从\"固定扫描\"转向\"语义推理\"，引入因果注意力机制的\"因果流查询\""
+    }
+  },
+  {
+    "name": "Kimi Agent SDK 开源",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2026-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "帮助开发者自定义Agent体验",
+      "en": "帮助开发者自定义Agent体验"
+    }
+  },
+  {
+    "name": "Kimi Code 正式发布",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2026-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Kimi编程工具，支持终端运行及VSCode/Cursor/JetBrains/Zed等主流编辑器集成。充分发挥K2.5多模态优势，支持图片和视频输入编程辅助",
+      "en": "Kimi编程工具，支持终端运行及VSCode/Cursor/JetBrains/Zed等主流编辑器集成。充分发挥K2.5多模态优势，支持图片和视频输入编程辅助"
+    }
+  },
+  {
+    "name": "Kimi K2.5",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2026-01",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "Kimi迄今最智能、最全能的模型，**发布并开源**。原生多模态架构（视觉+文本），支持思考/非思考模式、对话/Agent任务。**首次引入\"Agent集群\"能力**——可自主创建多达100个分身，并行处理1500个步骤，效率提升10-100倍",
+      "en": "Kimi迄今最智能、最全能的模型，**发布并开源**。原生多模态架构（视觉+文本），支持思考/非思考模式、对话/Agent任务。**首次引入\"Agent集群\"能力**——可自主创建多达100个分身，并行处理1500个步骤，效率提升10-100倍"
+    }
+  },
+  {
+    "name": "LongCat-Flash-Thinking-2601",
+    "org": "美团",
+    "logoUrl": "",
+    "date": "2026-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "工具调用能力登顶开源SOTA。**首个完整开源并支持在线免费体验\"重思考模式\"** 的模型，可同时启动8个大脑并行思考。在Agentic Search、Agentic Tool Use、TIR等核心评测中均达开源SOTA",
+      "en": "工具调用能力登顶开源SOTA。**首个完整开源并支持在线免费体验\"重思考模式\"** 的模型，可同时启动8个大脑并行思考。在Agentic Search、Agentic Tool Use、TIR等核心评测中均达开源SOTA"
+    }
+  },
+  {
+    "name": "MiniMax Music 2.5",
+    "org": "MiniMax",
+    "logoUrl": "https://github.com/MiniMax-AI.png",
+    "date": "2026-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "在\"段落级强控制\"与\"物理级高保真\"上实现突破，辅以华语优化及专业混音",
+      "en": "在\"段落级强控制\"与\"物理级高保真\"上实现突破，辅以华语优化及专业混音"
+    }
+  },
+  {
+    "name": "Qwen3-Max-Thinking",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2026-01",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**总参数超1T**，预训练数据量36T Tokens，阿里规模最大、能力最强的千问推理模型。在19项基准测试中整体性能媲美GPT-5.2-Thinking、Claude Opus 4.5和Gemini 3 Pro",
+      "en": "**总参数超1T**，预训练数据量36T Tokens，阿里规模最大、能力最强的千问推理模型。在19项基准测试中整体性能媲美GPT-5.2-Thinking、Claude Opus 4.5和Gemini 3 Pro"
+    }
+  },
+  {
+    "name": "文心5.0",
+    "org": "百度",
+    "logoUrl": "https://github.com/baidu.png",
+    "date": "2026-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**2.4T** | 原生全模态，业界参数最大",
+      "en": "**2.4T** | 原生全模态，业界参数最大"
+    }
+  },
+  {
+    "name": "文心5.0 正式版上线",
+    "org": "百度",
+    "logoUrl": "https://github.com/baidu.png",
+    "date": "2026-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "个人用户可通过文心APP/文心一言官网体验，企业及开发者可通过百度千帆平台调用",
+      "en": "个人用户可通过文心APP/文心一言官网体验，企业及开发者可通过百度千帆平台调用"
+    }
+  },
+  {
+    "name": "智谱AI 港交所上市",
+    "org": "智谱AI",
+    "logoUrl": "",
+    "date": "2026-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "成为 **\"全球大模型第一股\"**，标志着大模型行业进入商业化盈利新阶段",
+      "en": "成为 **\"全球大模型第一股\"**，标志着大模型行业进入商业化盈利新阶段"
+    }
+  },
+  {
+    "name": "模型",
+    "org": "公司",
+    "logoUrl": "",
+    "date": "2026-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "参数规模 | 亮点",
+      "en": "参数规模 | 亮点"
+    }
+  },
+  {
+    "name": "Claude Code 年化收入10亿美元",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "一个CLI编程工具达到10亿美元年化收入，远超预期",
+      "en": "一个CLI编程工具达到10亿美元年化收入，远超预期"
+    }
+  },
+  {
+    "name": "GLM-4.7",
+    "org": "智谱AI",
+    "logoUrl": "",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "年末发布，登顶开源模型排行榜**第一**",
+      "en": "年末发布，登顶开源模型排行榜**第一**"
+    }
+  },
+  {
+    "name": "GPT-5.2",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "迄今为止最强大的模型系列，参数未公开，专为专业知识型工作打造。包含Instant/Thinking/Pro三档，逐步上线付费套餐用户",
+      "en": "迄今为止最强大的模型系列，参数未公开，专为专业知识型工作打造。包含Instant/Thinking/Pro三档，逐步上线付费套餐用户"
+    }
+  },
+  {
+    "name": "Gemini Deep Research Agent 更新",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于Gemini 3 Pro，在HLE测试达46.4%（超越GPT-5 Pro的38.9%），**价格仅为其1/10**。开源DeepSearchQA基准",
+      "en": "基于Gemini 3 Pro，在HLE测试达46.4%（超越GPT-5 Pro的38.9%），**价格仅为其1/10**。开源DeepSearchQA基准"
+    }
+  },
+  {
+    "name": "LLaDA2.0 系列",
+    "org": "蚂蚁",
+    "logoUrl": "",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "离散扩散大语言模型，包含16B（mini）和**100B（flash）** 两个版本，首次将扩散模型参数规模扩展至百亿量级。推理加速高达6.1倍",
+      "en": "离散扩散大语言模型，包含16B（mini）和**100B（flash）** 两个版本，首次将扩散模型参数规模扩展至百亿量级。推理加速高达6.1倍"
+    }
+  },
+  {
+    "name": "MCP 捐赠给Agentic AI基金会",
+    "org": "社区",
+    "logoUrl": "",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "MCP协议成为开放标准，Skills被提升为\"开放格式\"",
+      "en": "MCP协议成为开放标准，Skills被提升为\"开放格式\""
+    }
+  },
+  {
+    "name": "Mistral Large 3",
+    "org": "Mistral",
+    "logoUrl": "https://github.com/mistralai.png",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "采用DeepSeek-V3启发的MoE架构，**675B总参/41B激活**，多语言多模态（[来源](https://mistral.ai/news/mistral-3/)）",
+      "en": "采用DeepSeek-V3启发的MoE架构，**675B总参/41B激活**，多语言多模态（[来源](https://mistral.ai/news/mistral-3/)）"
+    }
+  },
+  {
+    "name": "Nemotron 3 系列",
+    "org": "NVIDIA",
+    "logoUrl": "https://github.com/nvidia.png",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Nano（30B/激活3B）、Super（~100B/激活10B，1M上下文）、Ultra（~500B/激活50B）。开放模型、数据和库。同时发布NeMo Gym/RL开源库",
+      "en": "Nano（30B/激活3B）、Super（~100B/激活10B，1M上下文）、Ultra（~500B/激活50B）。开放模型、数据和库。同时发布NeMo Gym/RL开源库"
+    }
+  },
+  {
+    "name": "Olmo 3",
+    "org": "AI2",
+    "logoUrl": "",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "7B/32B稠密Transformer，基础版/指令版/思考版变体",
+      "en": "7B/32B稠密Transformer，基础版/指令版/思考版变体"
+    }
+  },
+  {
+    "name": "Qwen-Image-2512",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "图像生成模型年末更新",
+      "en": "图像生成模型年末更新"
+    }
+  },
+  {
+    "name": "gpt-image-1.5",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "大幅改进的图像生成模型",
+      "en": "大幅改进的图像生成模型"
+    }
+  },
+  {
+    "name": "智谱 & MiniMax 递表港交所",
+    "org": "智谱AI / MiniMax",
+    "logoUrl": "https://github.com/MiniMax-AI.png",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "同步冲击\"全球大模型第一股\"",
+      "en": "同步冲击\"全球大模型第一股\""
+    }
+  },
+  {
+    "name": "月之暗面C轮融资5亿美元",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2025-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "大幅超募，现金持有超100亿元，投后估值43亿美元。9-11月海内外付费用户月均增长超170%",
+      "en": "大幅超募，现金持有超100亿元，投后估值43亿美元。9-11月海内外付费用户月均增长超170%"
+    }
+  },
+  {
+    "name": "Anthropic《通过MCP执行代码》",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2025-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "描述让编程Agent生成代码调用MCP，避免原始规范中大量上下文开销",
+      "en": "描述让编程Agent生成代码调用MCP，避免原始规范中大量上下文开销"
+    }
+  },
+  {
+    "name": "GPT-5.1",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "提升ChatGPT智能水平与对话趣味性，逐步推送替代旧版GPT-5（[来源](https://openai.com/index/gpt-5-1/)）",
+      "en": "提升ChatGPT智能水平与对话趣味性，逐步推送替代旧版GPT-5（[来源](https://openai.com/index/gpt-5-1/)）"
+    }
+  },
+  {
+    "name": "Gemini 3 系列",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-11",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "Google DeepMind迄今**最通用、最高效的AI模型**。参数未公开，支持超过100万Token多模态输入，音频/视频/图片/文本跨模态。Pro版$2/$12 per MTok",
+      "en": "Google DeepMind迄今**最通用、最高效的AI模型**。参数未公开，支持超过100万Token多模态输入，音频/视频/图片/文本跨模态。Pro版$2/$12 per MTok"
+    }
+  },
+  {
+    "name": "Grok 4.1",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2025-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "对话智能/情感理解/创意写作/事实准确性大幅提升，提供思考和非思考两种配置",
+      "en": "对话智能/情感理解/创意写作/事实准确性大幅提升，提供思考和非思考两种配置"
+    }
+  },
+  {
+    "name": "Kimi K2 Thinking",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2025-11",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**1T**（MoE/384专家，激活32B，256K上下文），中国首个万亿参数开源Agent模型。原生掌握\"边思考，边使用工具\"能力，可在无人类干预下**自主实现300轮工具调用**。256K上下文",
+      "en": "**1T**（MoE/384专家，激活32B，256K上下文），中国首个万亿参数开源Agent模型。原生掌握\"边思考，边使用工具\"能力，可在无人类干预下**自主实现300轮工具调用**。256K上下文"
+    }
+  },
+  {
+    "name": "MiniMax-M2.1",
+    "org": "MiniMax",
+    "logoUrl": "https://github.com/MiniMax-AI.png",
+    "date": "2025-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "M2更新版本，后续登顶开源模型排行榜",
+      "en": "M2更新版本，后续登顶开源模型排行榜"
+    }
+  },
+  {
+    "name": "Nano Banana Pro",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "专业级工具，不仅能生成文本，还能输出实用详细信息图等高质量图像内容",
+      "en": "专业级工具，不仅能生成文本，还能输出实用详细信息图等高质量图像内容"
+    }
+  },
+  {
+    "name": "Qwen-Image-Edit-2511",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2025-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "图像编辑模型更新",
+      "en": "图像编辑模型更新"
+    }
+  },
+  {
+    "name": "ChatGPT Atlas",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "由前Google Chrome资深工程师Ben Goodger和Darin Fisher领衔开发",
+      "en": "由前Google Chrome资深工程师Ben Goodger和Darin Fisher领衔开发"
+    }
+  },
+  {
+    "name": "MiniMax-M2",
+    "org": "MiniMax",
+    "logoUrl": "https://github.com/MiniMax-AI.png",
+    "date": "2025-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**230B**，细粒度MoE架构，每Token仅激活100亿参数。性能和效率均优于M1",
+      "en": "**230B**，细粒度MoE架构，每Token仅激活100亿参数。性能和效率均优于M1"
+    }
+  },
+  {
+    "name": "gpt-image-1-mini",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "更便宜的图像生成API版本",
+      "en": "更便宜的图像生成API版本"
+    }
+  },
+  {
+    "name": "悟界Emu3.5",
+    "org": "智源研究院",
+    "logoUrl": "",
+    "date": "2025-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "多模态**世界大模型**，34B稠密Transformer。基于**10万亿Token**（约790年视频）端到端预训练，采用\"下一状态预测\"（Next-State Prediction）范式。**将开源**",
+      "en": "多模态**世界大模型**，34B稠密Transformer。基于**10万亿Token**（约790年视频）端到端预训练，采用\"下一状态预测\"（Next-State Prediction）范式。**将开源**"
+    }
+  },
+  {
+    "name": "网页版 Claude Code",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2025-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于容器沙箱基础设施推出，**异步编程Agent**——提交任务后去做别的事，完成后自动提PR",
+      "en": "基于容器沙箱基础设施推出，**异步编程Agent**——提交任务后去做别的事，完成后自动提PR"
+    }
+  },
+  {
+    "name": "\"Create and edit files with Claude\"",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2025-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "对标产品发布，后演变为网页版Claude Code",
+      "en": "对标产品发布，后演变为网页版Claude Code"
+    }
+  },
+  {
+    "name": "Claude Sonnet 4.5",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2025-09",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "被称为\"**世界最强编程模型**\"，SWE-bench Verified达最先进水平",
+      "en": "被称为\"**世界最强编程模型**\"，SWE-bench Verified达最先进水平"
+    }
+  },
+  {
+    "name": "DeepSeek V3.2",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2025-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "采用MoE架构+动态稀疏注意力机制（DSA），多项基准媲美国际顶尖模型",
+      "en": "采用MoE架构+动态稀疏注意力机制（DSA），多项基准媲美国际顶尖模型"
+    }
+  },
+  {
+    "name": "ERNIE-4.5-21B-A3B-Thinking 开源",
+    "org": "百度",
+    "logoUrl": "https://github.com/baidu.png",
+    "date": "2025-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "在ERNIE-4.5-21B基础上训练的深度思考模型，开源",
+      "en": "在ERNIE-4.5-21B基础上训练的深度思考模型，开源"
+    }
+  },
+  {
+    "name": "GLM-4.6",
+    "org": "智谱AI",
+    "logoUrl": "",
+    "date": "2025-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "发布并开源，代码生成/长上下文处理/Agent应用显著提升",
+      "en": "发布并开源，代码生成/长上下文处理/Agent应用显著提升"
+    }
+  },
+  {
+    "name": "ICPC 金牌级编程",
+    "org": "OpenAI / Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "OpenAI和Gemini在**国际大学生程序设计竞赛（ICPC）** 中达金牌水平，使用全新未公开题目",
+      "en": "OpenAI和Gemini在**国际大学生程序设计竞赛（ICPC）** 中达金牌水平，使用全新未公开题目"
+    }
+  },
+  {
+    "name": "文心X1.1",
+    "org": "百度",
+    "logoUrl": "https://github.com/baidu.png",
+    "date": "2025-09",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "深度思考模型，采用**迭代式混合强化学习**训练框架。相比文心X1：**事实性提升34.8%**，指令遵循提升12.5%，智能体提升9.6%。整体表现超越DeepSeek R1-0528，与GPT-5和Gemini 2.5 Pro持平",
+      "en": "深度思考模型，采用**迭代式混合强化学习**训练框架。相比文心X1：**事实性提升34.8%**，指令遵循提升12.5%，智能体提升9.6%。整体表现超越DeepSeek R1-0528，与GPT-5和Gemini 2.5 Pro持平"
+    }
+  },
+  {
+    "name": "Claude Opus 4.1",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2025-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Opus 4的小更新，小幅改进（[来源](https://www.anthropic.com/news/claude-opus-4-1)）",
+      "en": "Opus 4的小更新，小幅改进（[来源](https://www.anthropic.com/news/claude-opus-4-1)）"
+    }
+  },
+  {
+    "name": "GPT-5",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-08",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "距GPT-4发布两年半后终于面世。**集成模型架构**，参数未公开，根据任务自动选择推理深度，无需切换模式。被称为\"博士级专家\"。**面向所有用户免费开放**（有使用次数限制）",
+      "en": "距GPT-4发布两年半后终于面世。**集成模型架构**，参数未公开，根据任务自动选择推理深度，无需切换模式。被称为\"博士级专家\"。**面向所有用户免费开放**（有使用次数限制）"
+    }
+  },
+  {
+    "name": "GPT-5 Mini / GPT-5 Nano",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量版本，价格/速度/推理能力形成梯度",
+      "en": "轻量版本，价格/速度/推理能力形成梯度"
+    }
+  },
+  {
+    "name": "GPT-5 Pro",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "扩展推理能力，仅供Pro会员使用",
+      "en": "扩展推理能力，仅供Pro会员使用"
+    }
+  },
+  {
+    "name": "Grok Code Fast 1",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2025-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "针对Agent编程优化的效率模型",
+      "en": "针对Agent编程优化的效率模型"
+    }
+  },
+  {
+    "name": "Nano Banana（Gemini 2.5 Flash Image）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-08",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "惊艳业界的图像生成模型，不仅能生成文字，还能理解图像编辑指令，真正实用的信息图输出",
+      "en": "惊艳业界的图像生成模型，不仅能生成文字，还能理解图像编辑指令，真正实用的信息图输出"
+    }
+  },
+  {
+    "name": "Nemotron Nano v2",
+    "org": "NVIDIA",
+    "logoUrl": "https://github.com/nvidia.png",
+    "date": "2025-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "120亿参数，Mamba-2-LLM架构，开放模型许可协议",
+      "en": "120亿参数，Mamba-2-LLM架构，开放模型许可协议"
+    }
+  },
+  {
+    "name": "Qwen-Image",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2025-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "图像生成模型，可在消费级硬件上运行，开源",
+      "en": "图像生成模型，可在消费级硬件上运行，开源"
+    }
+  },
+  {
+    "name": "Qwen-Image-Edit",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2025-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "图像编辑模型，可在消费级硬件上运行，开源",
+      "en": "图像编辑模型，可在消费级硬件上运行，开源"
+    }
+  },
+  {
+    "name": "Gemma 3n",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "实验性**MatFormer架构**（俄罗斯套娃嵌套），2B/4B参数，支持文本/图像输入",
+      "en": "实验性**MatFormer架构**（俄罗斯套娃嵌套），2B/4B参数，支持文本/图像输入"
+    }
+  },
+  {
+    "name": "Grok 4 / Grok 4 Heavy",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2025-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "第四代Grok模型发布，Grok 4 Heavy为增强版",
+      "en": "第四代Grok模型发布，Grok 4 Heavy为增强版"
+    }
+  },
+  {
+    "name": "IMO 金牌级推理",
+    "org": "OpenAI / Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "OpenAI和Google Gemini推理模型在**国际数学奥林匹克竞赛（IMO）** 中达到**金牌水平**，自1959年以来首次",
+      "en": "OpenAI和Google Gemini推理模型在**国际数学奥林匹克竞赛（IMO）** 中达到**金牌水平**，自1959年以来首次"
+    }
+  },
+  {
+    "name": "Mistral Medium 3.1",
+    "org": "Mistral",
+    "logoUrl": "https://github.com/mistralai.png",
+    "date": "2025-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "通用多模态模型发布。⚠️ 实际为 **8月12日** 发布（[来源](https://docs.mistral.ai/models/model-cards/mistral-medium-3-1-25-08)）",
+      "en": "通用多模态模型发布。⚠️ 实际为 **8月12日** 发布（[来源](https://docs.mistral.ai/models/model-cards/mistral-medium-3-1-25-08)）"
+    }
+  },
+  {
+    "name": "ERNIE 4.5 系列",
+    "org": "百度",
+    "logoUrl": "https://github.com/baidu.png",
+    "date": "2025-06",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "10款模型**开源**（Apache 2.0），最大424B总参/47B激活MoE，最小0.3B稠密。创新**多模态异构模型结构**，跨模态参数共享。28个基准测试中22个超越DeepSeek-V3",
+      "en": "10款模型**开源**（Apache 2.0），最大424B总参/47B激活MoE，最小0.3B稠密。创新**多模态异构模型结构**，跨模态参数共享。28个基准测试中22个超越DeepSeek-V3"
+    }
+  },
+  {
+    "name": "Gemini 2.5 Pro 更新",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "预览版更新至06-05版本，多项AI性能基准提升",
+      "en": "预览版更新至06-05版本，多项AI性能基准提升"
+    }
+  },
+  {
+    "name": "Magistral",
+    "org": "Mistral",
+    "logoUrl": "https://github.com/mistralai.png",
+    "date": "2025-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "首个思考模型，Small版本开源，Medium版本闭源",
+      "en": "首个思考模型，Small版本开源，Medium版本闭源"
+    }
+  },
+  {
+    "name": "MiniMax-M1",
+    "org": "MiniMax",
+    "logoUrl": "https://github.com/MiniMax-AI.png",
+    "date": "2025-06",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**456B参数**，**世界上首个开源的大规模混合架构推理模型**。开源，开源模型最好一档，性价比最高。输入0.8元/百万Token起",
+      "en": "**456B参数**，**世界上首个开源的大规模混合架构推理模型**。开源，开源模型最好一档，性价比最高。输入0.8元/百万Token起"
+    }
+  },
+  {
+    "name": "Qwen-VLo",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2025-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "统一视觉输入和输出的模型，未开源",
+      "en": "统一视觉输入和输出的模型，未开源"
+    }
+  },
+  {
+    "name": "Qwen3-Embedding",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2025-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于Qwen3的新一代嵌入模型",
+      "en": "基于Qwen3的新一代嵌入模型"
+    }
+  },
+  {
+    "name": "Claude 4 系列",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2025-05",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "Claude Opus 4（推测~300-500B）和Claude Sonnet 4（推测~50-100B），主打**编程能力**，号称\"世界上最好的编码模型\"。能够**连续工作7小时**。200K上下文，Opus 4: $15/$75 per MTok",
+      "en": "Claude Opus 4（推测~300-500B）和Claude Sonnet 4（推测~50-100B），主打**编程能力**，号称\"世界上最好的编码模型\"。能够**连续工作7小时**。200K上下文，Opus 4: $15/$75 per MTok"
+    }
+  },
+  {
+    "name": "Codex Cloud（后更名为Codex Web）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "异步编程Agent，给出提示后可撒手不管，自动完成后提交PR",
+      "en": "异步编程Agent，给出提示后可撒手不管，自动完成后提交PR"
+    }
+  },
+  {
+    "name": "Gemini 2.5 系列",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-05",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "Gemini 2.5 Flash 和 Gemini 2.5 Pro。⚠️ Gemini 2.5 Pro 实际于 **3月25日** 首次发布（[来源](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-model-thinking-updates-march-2025/)），5月20日 ",
+      "en": "Gemini 2.5 Flash 和 Gemini 2.5 Pro。⚠️ Gemini 2.5 Pro 实际于 **3月25日** 首次发布（[来源](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-model-thinking-updates-march-2025/)），5月20日 "
+    }
+  },
+  {
+    "name": "Gemini Jules",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "异步编程Agent，对标Claude Code和Codex，5月20日进入公测（[来源](https://blog.google/innovation-and-ai/models-and-research/google-labs/jules/)）",
+      "en": "异步编程Agent，对标Claude Code和Codex，5月20日进入公测（[来源](https://blog.google/innovation-and-ai/models-and-research/google-labs/jules/)）"
+    }
+  },
+  {
+    "name": "MCP 协议生态爆发",
+    "org": "OpenAI/Anthropic/Mistral",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**八天内相继推出MCP API级支持**，MCP协议成为工具调用标准",
+      "en": "**八天内相继推出MCP API级支持**，MCP协议成为工具调用标准"
+    }
+  },
+  {
+    "name": "Cogito V1 Preview",
+    "org": "不确定",
+    "logoUrl": "",
+    "date": "2025-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "推理模型预览版",
+      "en": "推理模型预览版"
+    }
+  },
+  {
+    "name": "GLM-4/Z1-0414",
+    "org": "智谱AI",
+    "logoUrl": "",
+    "date": "2025-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "新一代模型更新",
+      "en": "新一代模型更新"
+    }
+  },
+  {
+    "name": "GPT-4.1 系列",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "包含GPT-4.1/mini/nano，**最高100万Token上下文**，用于取代GPT-4.5。价格实惠，首周免费开放",
+      "en": "包含GPT-4.1/mini/nano，**最高100万Token上下文**，用于取代GPT-4.5。价格实惠，首周免费开放"
+    }
+  },
+  {
+    "name": "Llama 4 系列",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2025-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "首次采用**MoE架构**。三款：**Scout**（109B/16专家/激活170B，**1000万Token上下文**）、**Maverick**（400B/128专家/激活170B，LMArena评分1417）、**Behemoth**（2T参数/288专家/预览，训练中）。**开源**。但模型过大被社区诟病",
+      "en": "首次采用**MoE架构**。三款：**Scout**（109B/16专家/激活170B，**1000万Token上下文**）、**Maverick**（400B/128专家/激活170B，LMArena评分1417）、**Behemoth**（2T参数/288专家/预览，训练中）。**开源**。但模型过大被社区诟病"
+    }
+  },
+  {
+    "name": "OpenAI o3 和 o4-mini",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "推理模型系列，强化推理能力",
+      "en": "推理模型系列，强化推理能力"
+    }
+  },
+  {
+    "name": "Qwen3 系列",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2025-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**Apache 2.0开源**。包含2个MoE模型和6个Dense模型，从0.6B到**235B-A22B**全覆盖。首次区分**Instruct（非思考）** 和**Thinking（思考）** 两种模式，GitHub 26.6k Stars",
+      "en": "**Apache 2.0开源**。包含2个MoE模型和6个Dense模型，从0.6B到**235B-A22B**全覆盖。首次区分**Instruct（非思考）** 和**Thinking（思考）** 两种模式，GitHub 26.6k Stars"
+    }
+  },
+  {
+    "name": "—",
+    "org": "—",
+    "logoUrl": "",
+    "date": "2025-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "注：Grok 3 实际为 **2月19日** 发布，已移至 2 月（[来源](https://x.ai/news/grok-3)）",
+      "en": "注：Grok 3 实际为 **2月19日** 发布，已移至 2 月（[来源](https://x.ai/news/grok-3)）"
+    }
+  },
+  {
+    "name": "ChatGPT 图像编辑功能",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2025-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "在ChatGPT中推出图像生成/编辑功能：上传图片，用提示词修改。**一周新增1亿用户**，峰值每小时100万注册",
+      "en": "在ChatGPT中推出图像生成/编辑功能：上传图片，用提示词修改。**一周新增1亿用户**，峰值每小时100万注册"
+    }
+  },
+  {
+    "name": "Gemini 2.0 Flash 原生图像生成",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "预告Nano Banana技术的早期版本",
+      "en": "预告Nano Banana技术的早期版本"
+    }
+  },
+  {
+    "name": "Gemma 3",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "最新一代Gemma开源模型，支持文本/图像输入，140+种语言多语言支持",
+      "en": "最新一代Gemma开源模型，支持文本/图像输入，140+种语言多语言支持"
+    }
+  },
+  {
+    "name": "Jamba 1.6 系列",
+    "org": "AI21",
+    "logoUrl": "",
+    "date": "2025-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Mini 52B（激活12B）/ Large 398B（激活94B），长上下文性能出色，支持企业本地/VPC部署",
+      "en": "Mini 52B（激活12B）/ Large 398B（激活94B），长上下文性能出色，支持企业本地/VPC部署"
+    }
+  },
+  {
+    "name": "Claude 3.7 Sonnet（含Claude Code）",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2025-02",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**2025年最具影响力事件之一**——Claude Code低调夹在公告中发布，未单独发博客。这是首个主流CLI编程Agent，开启编程Agent元年（[来源](https://www.anthropic.com/news/claude-3-7-sonnet)）",
+      "en": "**2025年最具影响力事件之一**——Claude Code低调夹在公告中发布，未单独发博客。这是首个主流CLI编程Agent，开启编程Agent元年（[来源](https://www.anthropic.com/news/claude-3-7-sonnet)）"
+    }
+  },
+  {
+    "name": "Gemini 2.0 系列",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2025-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Gemini 2.0 Flash、2.0 Flash-Lite及旗舰模型**Gemini 2.0 Pro实验版**发布。支持200万Token上下文（[来源](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-model-updates-february-2025/)）",
+      "en": "Gemini 2.0 Flash、2.0 Flash-Lite及旗舰模型**Gemini 2.0 Pro实验版**发布。支持200万Token上下文（[来源](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-model-updates-february-2025/)）"
+    }
+  },
+  {
+    "name": "Grok 3",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2025-02",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "2月18日直播预告，**2月19日正式发布**，包含Grok 3 Mini变体。推理能力大幅提升，**1M上下文**，估计参数~2.7T（[来源](https://x.ai/news/grok-3)）",
+      "en": "2月18日直播预告，**2月19日正式发布**，包含Grok 3 Mini变体。推理能力大幅提升，**1M上下文**，估计参数~2.7T（[来源](https://x.ai/news/grok-3)）"
+    }
+  },
+  {
+    "name": "Moonlight-16B-A3B",
+    "org": "月之暗面（Moonshot AI）",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2025-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "16B总参/3B激活MoE，使用**Muon优化器**训练，5.7T tokens，样本效率比Adam提高约2倍（[来源](https://huggingface.co/moonshotai/Moonlight-16B-A3B)）",
+      "en": "16B总参/3B激活MoE，使用**Muon优化器**训练，5.7T tokens，样本效率比Adam提高约2倍（[来源](https://huggingface.co/moonshotai/Moonlight-16B-A3B)）"
+    }
+  },
+  {
+    "name": "Phi-4-mini",
+    "org": "微软",
+    "logoUrl": "",
+    "date": "2025-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**3.8B** 小模型",
+      "en": "**3.8B** 小模型"
+    }
+  },
+  {
+    "name": "Phi-4-multimodal",
+    "org": "微软",
+    "logoUrl": "",
+    "date": "2025-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "支持文本/图像/语音输入的多模态模型",
+      "en": "支持文本/图像/语音输入的多模态模型"
+    }
+  },
+  {
+    "name": "Step-Audio",
+    "org": "阶跃星辰",
+    "logoUrl": "",
+    "date": "2025-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "行业内**首款产品级开源语音交互大模型**",
+      "en": "行业内**首款产品级开源语音交互大模型**"
+    }
+  },
+  {
+    "name": "Step-Video-T2V",
+    "org": "阶跃星辰",
+    "logoUrl": "",
+    "date": "2025-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "全球范围内**参数量最大、性能最好的开源视频生成模型**",
+      "en": "全球范围内**参数量最大、性能最好的开源视频生成模型**"
+    }
+  },
+  {
+    "name": "DeepSeek-R1",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2025-01",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "基于DeepSeek V3（**671B MoE**），推理模型，在数学/代码/自然语言推理上**比肩OpenAI o1**。**开源**。发布后引发AI和半导体板块大规模抛售，NVIDIA市值蒸发约**5930亿美元**",
+      "en": "基于DeepSeek V3（**671B MoE**），推理模型，在数学/代码/自然语言推理上**比肩OpenAI o1**。**开源**。发布后引发AI和半导体板块大规模抛售，NVIDIA市值蒸发约**5930亿美元**"
+    }
+  },
+  {
+    "name": "MiniMax-01 系列",
+    "org": "MiniMax",
+    "logoUrl": "https://github.com/MiniMax-AI.png",
+    "date": "2025-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**456B**（MoE，激活45.9B，400万Token上下文），首次大规模实现**Lightning Attention**（线性注意力机制），突破传统Transformer架构。支持**400万Token上下文**（其他模型的20-32倍）。**开源**。包含基础语言模型MiniMax-Text-01和视觉多模态模型MiniMax-VL-01",
+      "en": "**456B**（MoE，激活45.9B，400万Token上下文），首次大规模实现**Lightning Attention**（线性注意力机制），突破传统Transformer架构。支持**400万Token上下文**（其他模型的20-32倍）。**开源**。包含基础语言模型MiniMax-Text-01和视觉多模态模型MiniMax-VL-01"
+    }
+  },
+  {
+    "name": "Mistral Small 3",
+    "org": "Mistral",
+    "logoUrl": "https://github.com/mistralai.png",
+    "date": "2025-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**24B**，**Apache 2.0开源**。性能比肩Llama 3.3 70B，但内存占用仅约1/3，速度提升3倍以上。编程/数学/通用知识表现与GPT4o-mini不相上下",
+      "en": "**24B**，**Apache 2.0开源**。性能比肩Llama 3.3 70B，但内存占用仅约1/3，速度提升3倍以上。编程/数学/通用知识表现与GPT4o-mini不相上下"
+    }
+  },
+  {
+    "name": "Qwen2.5-Max",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2025-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "超大规模MoE模型，使用**超过20万亿Token**预训练数据训练。通过API方式开放访问",
+      "en": "超大规模MoE模型，使用**超过20万亿Token**预训练数据训练。通过API方式开放访问"
+    }
+  },
+  {
+    "name": "Tülu 3 405B",
+    "org": "AI2（艾伦研究所）",
+    "logoUrl": "",
+    "date": "2025-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于Llama 3.1 405B的定制版，开源，多项基准超越原始Llama模型",
+      "en": "基于Llama 3.1 405B的定制版，开源，多项基准超越原始Llama模型"
+    }
+  },
+  {
+    "name": "DeepSeek V3",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2024-12-26",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**671B MoE**，FP8训练，训练成本仅**557万美元**（约Llama 3.1的1/11），部分基准与Claude 3.5 Sonnet并列，**开源**",
+      "en": "**671B MoE**，FP8训练，训练成本仅**557万美元**（约Llama 3.1的1/11），部分基准与Claude 3.5 Sonnet并列，**开源**"
+    }
+  },
+  {
+    "name": "o3 / o3-mini",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2024-12-20",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "在ARC-AGI基准测试中取得惊人成绩，但计算成本超100万美元",
+      "en": "在ARC-AGI基准测试中取得惊人成绩，但计算成本超100万美元"
+    }
+  },
+  {
+    "name": "gemini-2.0-flash-thinking-exp",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-12-19",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "推理模型实验版",
+      "en": "推理模型实验版"
+    }
+  },
+  {
+    "name": "Grok 2（1212）",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2024-12-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**269B**（MoE/8专家，激活115B），更新版本",
+      "en": "**269B**（MoE/8专家，激活115B），更新版本"
+    }
+  },
+  {
+    "name": "Gemini 2.0（含2.0 Flash）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-12-11",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "面向\"**代理时代**\"的新一代模型，多模态/工具调用大幅提升",
+      "en": "面向\"**代理时代**\"的新一代模型，多模态/工具调用大幅提升"
+    }
+  },
+  {
+    "name": "Sora Turbo",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2024-12-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "正式向ChatGPT Plus/Pro用户开放，文生视频模型首次C端落地",
+      "en": "正式向ChatGPT Plus/Pro用户开放，文生视频模型首次C端落地"
+    }
+  },
+  {
+    "name": "Llama 3.3 70B",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2024-12-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**70B**（稠密），可在64GB MacBook Pro上运行，真正GPT-4级别本地模型",
+      "en": "**70B**（稠密），可在64GB MacBook Pro上运行，真正GPT-4级别本地模型"
+    }
+  },
+  {
+    "name": "o1 正式版 / o1 Pro",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2024-12-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "推理模型广泛可用，参数未公开，ChatGPT Pro订阅（$200/月）",
+      "en": "推理模型广泛可用，参数未公开，ChatGPT Pro订阅（$200/月）"
+    }
+  },
+  {
+    "name": "PaliGemma 2",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "视觉语言模型",
+      "en": "视觉语言模型"
+    }
+  },
+  {
+    "name": "Phi-4",
+    "org": "微软",
+    "logoUrl": "",
+    "date": "2024-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**14B** 纯文本模型",
+      "en": "**14B** 纯文本模型"
+    }
+  },
+  {
+    "name": "Veo 2",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "视频生成模型",
+      "en": "视频生成模型"
+    }
+  },
+  {
+    "name": "QwQ-32B-Preview",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2024-11-28",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源推理模型，对标o1",
+      "en": "开源推理模型，对标o1"
+    }
+  },
+  {
+    "name": "DeepSeek-R1-Lite-Preview",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2024-11-20",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "推理模型预览版，通过聊天界面开放试用",
+      "en": "推理模型预览版，通过聊天界面开放试用"
+    }
+  },
+  {
+    "name": "Pixtral Large",
+    "org": "Mistral",
+    "logoUrl": "https://github.com/mistralai.png",
+    "date": "2024-11-18",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "大型多模态模型",
+      "en": "大型多模态模型"
+    }
+  },
+  {
+    "name": "Text Embedding 005",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-11-18",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "文本嵌入模型",
+      "en": "文本嵌入模型"
+    }
+  },
+  {
+    "name": "MiniMax-M2",
+    "org": "MiniMax",
+    "logoUrl": "https://github.com/MiniMax-AI.png",
+    "date": "2024-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**230B**（MoE，激活10B），细粒度MoE",
+      "en": "**230B**（MoE，激活10B），细粒度MoE"
+    }
+  },
+  {
+    "name": "gemini-exp-1114",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "实验性模型",
+      "en": "实验性模型"
+    }
+  },
+  {
+    "name": "ChatGPT Search",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2024-10-31",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "原生搜索能力，提供带引用的最新答案",
+      "en": "原生搜索能力，提供带引用的最新答案"
+    }
+  },
+  {
+    "name": "Claude 3.5 Haiku",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2024-10-22",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量高速版本，推测~20B参数",
+      "en": "轻量高速版本，推测~20B参数"
+    }
+  },
+  {
+    "name": "Claude 3.5 Sonnet（New）",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2024-10-22",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "重大升级（保留版本号，业内称\"Claude 3.6\"），推测~175B，新增**Computer Use**能力，可模拟计算机操作",
+      "en": "重大升级（保留版本号，业内称\"Claude 3.6\"），推测~175B，新增**Computer Use**能力，可模拟计算机操作"
+    }
+  },
+  {
+    "name": "Gemini 1.5 Flash 8B（正式版）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-10-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量模型正式发布",
+      "en": "轻量模型正式发布"
+    }
+  },
+  {
+    "name": "GPT-4o Search Preview",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2024-10-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "搜索能力预览",
+      "en": "搜索能力预览"
+    }
+  },
+  {
+    "name": "Llama 3.2（1B/3B/11B/90B）",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2024-09-25",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "聚焦小尺寸与多模态，1B/3B可在手机端侧运行",
+      "en": "聚焦小尺寸与多模态，1B/3B可在手机端侧运行"
+    }
+  },
+  {
+    "name": "Qwen 2.5 系列",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2024-09-19",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "新增3B/14B/32B尺寸，超百个开源模型，Apache 2.0",
+      "en": "新增3B/14B/32B尺寸，超百个开源模型，Apache 2.0"
+    }
+  },
+  {
+    "name": "o1-preview / o1-mini",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2024-09-12",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "首次引入**\"深度思考\"推理模型**，参数未公开。通过强化学习优化推理链，在数学/编程/科学竞赛中性能飞跃，让大模型具备\"慢思考、深推理\"能力",
+      "en": "首次引入**\"深度思考\"推理模型**，参数未公开。通过强化学习优化推理链，在数学/编程/科学竞赛中性能飞跃，让大模型具备\"慢思考、深推理\"能力"
+    }
+  },
+  {
+    "name": "Gemini Pro 1.5 002",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "更新版本",
+      "en": "更新版本"
+    }
+  },
+  {
+    "name": "Pixtral 12B",
+    "org": "Mistral",
+    "logoUrl": "https://github.com/mistralai.png",
+    "date": "2024-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "首个多模态模型",
+      "en": "首个多模态模型"
+    }
+  },
+  {
+    "name": "Hermes 3（405B）",
+    "org": "Nous Research",
+    "logoUrl": "",
+    "date": "2024-08-16",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**405B**，基于Llama 3.1 405B的高性能开源模型",
+      "en": "**405B**，基于Llama 3.1 405B的高性能开源模型"
+    }
+  },
+  {
+    "name": "Grok 2 / Grok 2 Mini",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2024-08-14",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**269B**（MoE/8专家，激活115B），性能提升，图像生成能力",
+      "en": "**269B**（MoE/8专家，激活115B），性能提升，图像生成能力"
+    }
+  },
+  {
+    "name": "FLUX.1 系列",
+    "org": "Black Forest Labs",
+    "logoUrl": "https://github.com/black-forest-labs.png",
+    "date": "2024-08",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "开源Dev版+闭源Pro版，图像生成质量/光影真实度/语义对齐**全面超越SDXL**，成为AI绘画新标杆",
+      "en": "开源Dev版+闭源Pro版，图像生成质量/光影真实度/语义对齐**全面超越SDXL**，成为AI绘画新标杆"
+    }
+  },
+  {
+    "name": "Gemini 1.5 Flash 8B",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量版，$0.0375/百万Token，比GPT-3.5便宜27倍",
+      "en": "轻量版，$0.0375/百万Token，比GPT-3.5便宜27倍"
+    }
+  },
+  {
+    "name": "Phi 3.5",
+    "org": "微软",
+    "logoUrl": "",
+    "date": "2024-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "小模型更新",
+      "en": "小模型更新"
+    }
+  },
+  {
+    "name": "Mistral Large 2",
+    "org": "Mistral",
+    "logoUrl": "https://github.com/mistralai.png",
+    "date": "2024-07-24",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "旗舰升级，128K上下文，研究许可",
+      "en": "旗舰升级，128K上下文，研究许可"
+    }
+  },
+  {
+    "name": "Llama 3.1（405B）",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2024-07-23",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**405B**旗舰，**128K上下文**，**开源**。首次在综合性能上对标GPT-4，彻底打破闭源模型性能垄断",
+      "en": "**405B**旗舰，**128K上下文**，**开源**。首次在综合性能上对标GPT-4，彻底打破闭源模型性能垄断"
+    }
+  },
+  {
+    "name": "GPT-4o Mini",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2024-07-18",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量经济版，参数未公开（推测1.5B-10B），$0.15/百万Token，比GPT-3.5便宜近7倍且更强大，Sam Altman称其\"不是传统小模型\"",
+      "en": "轻量经济版，参数未公开（推测1.5B-10B），$0.15/百万Token，比GPT-3.5便宜近7倍且更强大，Sam Altman称其\"不是传统小模型\""
+    }
+  },
+  {
+    "name": "GraphRAG",
+    "org": "微软",
+    "logoUrl": "",
+    "date": "2024-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于知识图谱优化RAG技术，开源，成为RAG行业新标准",
+      "en": "基于知识图谱优化RAG技术，开源，成为RAG行业新标准"
+    }
+  },
+  {
+    "name": "Stable Diffusion 3",
+    "org": "Stability AI",
+    "logoUrl": "https://github.com/Stability-AI.png",
+    "date": "2024-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "整合扩散Transformer架构，文本语义理解提升300%，支持百万像素级超清图像生成",
+      "en": "整合扩散Transformer架构，文本语义理解提升300%，支持百万像素级超清图像生成"
+    }
+  },
+  {
+    "name": "Gemma 2（9B/27B）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-06-27",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "新一代开源模型，性能出色",
+      "en": "新一代开源模型，性能出色"
+    }
+  },
+  {
+    "name": "Claude 3.5 Sonnet",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2024-06-20",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "推测~175B，编码/推理能力大幅提升，性价比远超同期，成为开发者首选。**Artifacts**功能上线，200K上下文",
+      "en": "推测~175B，编码/推理能力大幅提升，性价比远超同期，成为开发者首选。**Artifacts**功能上线，200K上下文"
+    }
+  },
+  {
+    "name": "DeepSeek-Coder-V2",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2024-06-17",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "支持**338种编程语言**，开源",
+      "en": "支持**338种编程语言**，开源"
+    }
+  },
+  {
+    "name": "Qwen 2",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2024-06-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "5种尺寸（含MoE），多语言扩展，GQA，128K上下文，多数Apache 2.0开源",
+      "en": "5种尺寸（含MoE），多语言扩展，GQA，128K上下文，多数Apache 2.0开源"
+    }
+  },
+  {
+    "name": "Hermes 2 Pro",
+    "org": "Nous Research",
+    "logoUrl": "",
+    "date": "2024-05-27",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于Llama 3的开源模型",
+      "en": "基于Llama 3的开源模型"
+    }
+  },
+  {
+    "name": "Gemini 1.5 Pro（进阶版）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-05-23",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "200万Tokens上下文，代码/逻辑推理/多模态全面提升",
+      "en": "200万Tokens上下文，代码/逻辑推理/多模态全面提升"
+    }
+  },
+  {
+    "name": "Solar-Mini-ja",
+    "org": "Upstage",
+    "logoUrl": "",
+    "date": "2024-05-22",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "日语优化模型",
+      "en": "日语优化模型"
+    }
+  },
+  {
+    "name": "Text Embedding 004",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-05-14",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "新一代文本嵌入模型",
+      "en": "新一代文本嵌入模型"
+    }
+  },
+  {
+    "name": "GPT-4o（Omni）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2024-05-13",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "全模态模型，参数未公开（推测为MoE架构，活跃参数动态调整约10B-1T）。原生支持**文本/图像/音频/视频全模态实时交互**，响应速度提升2倍，推理成本降低50%，**向所有用户免费开放**",
+      "en": "全模态模型，参数未公开（推测为MoE架构，活跃参数动态调整约10B-1T）。原生支持**文本/图像/音频/视频全模态实时交互**，响应速度提升2倍，推理成本降低50%，**向所有用户免费开放**"
+    }
+  },
+  {
+    "name": "Gemini 1.5 Flash",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-05-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量快速版本，$0.075/百万Token",
+      "en": "轻量快速版本，$0.075/百万Token"
+    }
+  },
+  {
+    "name": "DeepSeek V2",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2024-05-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "创新**MLA注意力**与MoE架构，**236B**（MoE，激活21B），KV缓存压缩达93.3%，**开源**（[来源](https://arxiv.org/abs/2405.04434)）",
+      "en": "创新**MLA注意力**与MoE架构，**236B**（MoE，激活21B），KV缓存压缩达93.3%，**开源**（[来源](https://arxiv.org/abs/2405.04434)）"
+    }
+  },
+  {
+    "name": "Snowflake Arctic",
+    "org": "Snowflake",
+    "logoUrl": "",
+    "date": "2024-04-24",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "企业级模型",
+      "en": "企业级模型"
+    }
+  },
+  {
+    "name": "Phi-3-mini",
+    "org": "微软",
+    "logoUrl": "",
+    "date": "2024-04-22",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**3.8B** 小模型，性能出色",
+      "en": "**3.8B** 小模型，性能出色"
+    }
+  },
+  {
+    "name": "Llama 3（8B/70B）",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2024-04-18",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**8B/70B**（稠密），性能全面超越前代，逼近GPT-4，**开源**。8K上下文",
+      "en": "**8B/70B**（稠密），性能全面超越前代，逼近GPT-4，**开源**。8K上下文"
+    }
+  },
+  {
+    "name": "Mixtral 8x22B",
+    "org": "Mistral",
+    "logoUrl": "https://github.com/mistralai.png",
+    "date": "2024-04-17",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**141B**（MoE/8专家，激活39B），Apache 2.0许可",
+      "en": "**141B**（MoE/8专家，激活39B），Apache 2.0许可"
+    }
+  },
+  {
+    "name": "Reka Core",
+    "org": "Reka AI",
+    "logoUrl": "",
+    "date": "2024-04-15",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "多模态模型",
+      "en": "多模态模型"
+    }
+  },
+  {
+    "name": "Gemini 1.5 Pro（增强版）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-04-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "上下文窗口翻倍至**200万Token**，推理/理解能力大幅提升",
+      "en": "上下文窗口翻倍至**200万Token**，推理/理解能力大幅提升"
+    }
+  },
+  {
+    "name": "Command R+",
+    "org": "Cohere",
+    "logoUrl": "https://github.com/cohere-ai.png",
+    "date": "2024-04-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "企业级RAG优化模型",
+      "en": "企业级RAG优化模型"
+    }
+  },
+  {
+    "name": "Qwen（通义千问）系列更新",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2024-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Qwen 系列迭代，⚠️ 此处为 Qwen 后续更新，首次发布已在 **2023年4月** 记录",
+      "en": "Qwen 系列迭代，⚠️ 此处为 Qwen 后续更新，首次发布已在 **2023年4月** 记录"
+    }
+  },
+  {
+    "name": "DBRX",
+    "org": "Databricks",
+    "logoUrl": "https://github.com/databricks.png",
+    "date": "2024-03-27",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源SOTA模型，MoE架构",
+      "en": "开源SOTA模型，MoE架构"
+    }
+  },
+  {
+    "name": "KimiChat",
+    "org": "月之暗面",
+    "logoUrl": "https://github.com/moonshotai.png",
+    "date": "2024-03-15",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "主打**200万字超长上下文**，可一次性上传整本书籍，免费开放，成为国内现象级AI产品",
+      "en": "主打**200万字超长上下文**，可一次性上传整本书籍，免费开放，成为国内现象级AI产品"
+    }
+  },
+  {
+    "name": "Gemini 1.5 Pro（正式版）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-03-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "长上下文模型，百万Token",
+      "en": "长上下文模型，百万Token"
+    }
+  },
+  {
+    "name": "Claude 3 系列",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2024-03-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "Opus（推测~2T（MoE））/ Sonnet（推测~70B）/ Haiku（推测~20B）三档，**首次实现多模态**，旗舰版Claude 3 Opus在多项基准测试中**超越GPT-4**，Haiku为轻量高速版",
+      "en": "Opus（推测~2T（MoE））/ Sonnet（推测~70B）/ Haiku（推测~20B）三档，**首次实现多模态**，旗舰版Claude 3 Opus在多项基准测试中**超越GPT-4**，Haiku为轻量高速版"
+    }
+  },
+  {
+    "name": "MiniCPM",
+    "org": "面壁智能",
+    "logoUrl": "",
+    "date": "2024-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "端侧开源大模型，开启国产端侧AI时代",
+      "en": "端侧开源大模型，开启国产端侧AI时代"
+    }
+  },
+  {
+    "name": "文心一言4.0",
+    "org": "百度",
+    "logoUrl": "https://github.com/baidu.png",
+    "date": "2024-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "综合能力对标GPT-4，中文理解/多模态生成/行业落地大幅升级",
+      "en": "综合能力对标GPT-4，中文理解/多模态生成/行业落地大幅升级"
+    }
+  },
+  {
+    "name": "Mistral Large",
+    "org": "Mistral",
+    "logoUrl": "https://github.com/mistralai.png",
+    "date": "2024-02-26",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "欧洲领先的旗舰模型",
+      "en": "欧洲领先的旗舰模型"
+    }
+  },
+  {
+    "name": "Gemma",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-02-21",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源模型系列，基于Gemini研究技术。**2B/7B**两种尺寸",
+      "en": "开源模型系列，基于Gemini研究技术。**2B/7B**两种尺寸"
+    }
+  },
+  {
+    "name": "Gemini 1.5 Pro",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-02-15",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "首次实现**100万Token上下文窗口**（实验性），支持视频输入处理。MoE架构，具体参数未公开",
+      "en": "首次实现**100万Token上下文窗口**（实验性），支持视频输入处理。MoE架构，具体参数未公开"
+    }
+  },
+  {
+    "name": "Sora",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2024-02-15",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "文生视频模型，可生成最长**1分钟**高保真、高连贯性视频，物理模拟/镜头叙事能力远超同期产品，被称为\"视频生成领域的ChatGPT时刻\"",
+      "en": "文生视频模型，可生成最长**1分钟**高保真、高连贯性视频，物理模拟/镜头叙事能力远超同期产品，被称为\"视频生成领域的ChatGPT时刻\""
+    }
+  },
+  {
+    "name": "Bard 更名为 Gemini",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2024-02-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "Bard更名为Gemini，推出**Gemini Advanced**（基于Ultra 1.0）与移动App",
+      "en": "Bard更名为Gemini，推出**Gemini Advanced**（基于Ultra 1.0）与移动App"
+    }
+  },
+  {
+    "name": "Qwen1.5",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2024-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "多语言模型系列发布",
+      "en": "多语言模型系列发布"
+    }
+  },
+  {
+    "name": "GLM-4",
+    "org": "智谱AI",
+    "logoUrl": "",
+    "date": "2024-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "新一代基座大模型，整体性能比肩国际先进水平，128K上下文",
+      "en": "新一代基座大模型，整体性能比肩国际先进水平，128K上下文"
+    }
+  },
+  {
+    "name": "GPT Store 上线",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2024-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "发现与分发社区 GPTs",
+      "en": "发现与分发社区 GPTs"
+    }
+  },
+  {
+    "name": "Solar-Mini",
+    "org": "Upstage（韩国）",
+    "logoUrl": "",
+    "date": "2024-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "高效轻量模型",
+      "en": "高效轻量模型"
+    }
+  },
+  {
+    "name": "Gemini Pro API",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2023-12-13",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "通过AI Studio与Vertex AI提供",
+      "en": "通过AI Studio与Vertex AI提供"
+    }
+  },
+  {
+    "name": "Mixtral 8x7B",
+    "org": "Mistral",
+    "logoUrl": "https://github.com/mistralai.png",
+    "date": "2023-12-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**46.9B**（MoE/8专家，激活12.9B），Apache 2.0开源。首个主流开源MoE模型，性能超越Llama 2 70B",
+      "en": "**46.9B**（MoE/8专家，激活12.9B），Apache 2.0开源。首个主流开源MoE模型，性能超越Llama 2 70B"
+    }
+  },
+  {
+    "name": "Gemini 1.0（Ultra/Pro/Nano）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2023-12-06",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "原生多模态模型系列。Nano-1: **1.8亿**，Nano-2: **3.25亿**（端侧），Pro/Ultra参数未公开。Gemini Pro集成至Bard",
+      "en": "原生多模态模型系列。Nano-1: **1.8亿**，Nano-2: **3.25亿**（端侧），Pro/Ultra参数未公开。Gemini Pro集成至Bard"
+    }
+  },
+  {
+    "name": "DeepSeek Coder（67B）",
+    "org": "DeepSeek",
+    "logoUrl": "https://github.com/deepseek-ai.png",
+    "date": "2023-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "代码专用模型开源",
+      "en": "代码专用模型开源"
+    }
+  },
+  {
+    "name": "Mamba 架构",
+    "org": "学术界",
+    "logoUrl": "",
+    "date": "2023-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "有望颠覆Transformer的新架构，随上下文线性扩展，5倍推理吞吐量提升",
+      "en": "有望颠覆Transformer的新架构，随上下文线性扩展，5倍推理吞吐量提升"
+    }
+  },
+  {
+    "name": "Claude 2.1",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2023-11-21",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "上下文窗口扩展至**200K**，降低幻觉，工具调用（Beta）",
+      "en": "上下文窗口扩展至**200K**，降低幻觉，工具调用（Beta）"
+    }
+  },
+  {
+    "name": "DALL·E 3 API",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2023-11-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "正式API上线",
+      "en": "正式API上线"
+    }
+  },
+  {
+    "name": "GPT-4 Turbo",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2023-11-06",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**~1.8T**（MoE/16专家，激活~280B），**128K上下文**，更低价格，知识更新至2023年4月。GPTs与Assistants API生态",
+      "en": "**~1.8T**（MoE/16专家，激活~280B），**128K上下文**，更低价格，知识更新至2023年4月。GPTs与Assistants API生态"
+    }
+  },
+  {
+    "name": "Grok-1",
+    "org": "xAI",
+    "logoUrl": "https://github.com/xai-org.png",
+    "date": "2023-11-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**314B**（MoE/8专家，激活86B），Apache 2.0开源，当时最大开源LLM",
+      "en": "**314B**（MoE/8专家，激活86B），Apache 2.0开源，当时最大开源LLM"
+    }
+  },
+  {
+    "name": "Yi-6B / Yi-34B",
+    "org": "01.AI（李开复）",
+    "logoUrl": "",
+    "date": "2023-11-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**6B/34B**，开源高性能基础模型",
+      "en": "**6B/34B**，开源高性能基础模型"
+    }
+  },
+  {
+    "name": "Qwen-72B 开源",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2023-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "至此有1.8B/7B/14B/72B四款基础开源模型",
+      "en": "至此有1.8B/7B/14B/72B四款基础开源模型"
+    }
+  },
+  {
+    "name": "天工Skywork-13B",
+    "org": "昆仑万维",
+    "logoUrl": "",
+    "date": "2023-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源大模型系列",
+      "en": "开源大模型系列"
+    }
+  },
+  {
+    "name": "ChatGLM3",
+    "org": "智谱AI",
+    "logoUrl": "",
+    "date": "2023-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "第三代对话大模型，支持跨模态、Agent等全新能力",
+      "en": "第三代对话大模型，支持跨模态、Agent等全新能力"
+    }
+  },
+  {
+    "name": "讯飞星火3.0",
+    "org": "科大讯飞",
+    "logoUrl": "",
+    "date": "2023-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "全方位超越ChatGPT，中文全面超越，英文对标",
+      "en": "全方位超越ChatGPT，中文全面超越，英文对标"
+    }
+  },
+  {
+    "name": "GPT-4V（Vision）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2023-09-25",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于GPT-4（~1.8T MoE），视觉增强版，加强图像处理与理解能力，可执行复杂视觉分析任务",
+      "en": "基于GPT-4（~1.8T MoE），视觉增强版，加强图像处理与理解能力，可执行复杂视觉分析任务"
+    }
+  },
+  {
+    "name": "InternLM-20B",
+    "org": "上海AI实验室",
+    "logoUrl": "",
+    "date": "2023-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "书生·浦语大模型开源",
+      "en": "书生·浦语大模型开源"
+    }
+  },
+  {
+    "name": "ChatGPT Enterprise",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2023-08-28",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "企业级安全/治理/无限高速GPT-4，32K上下文",
+      "en": "企业级安全/治理/无限高速GPT-4，32K上下文"
+    }
+  },
+  {
+    "name": "Mistral 7B",
+    "org": "Mistral",
+    "logoUrl": "https://github.com/mistralai.png",
+    "date": "2023-08-27",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "在每项基准测试中优于Llama 2 13B，代码/数学/推理优于LLaMA 1 34B，**Apache 2.0开源**（[来源](https://mistral.ai/news/announcing-mistral-7b/)）",
+      "en": "在每项基准测试中优于Llama 2 13B，代码/数学/推理优于LLaMA 1 34B，**Apache 2.0开源**（[来源](https://mistral.ai/news/announcing-mistral-7b/)）"
+    }
+  },
+  {
+    "name": "DALL·E 3",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2023-08",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "文生图工具，相比以往更能理解细微差别和细节。⚠️ 实际于 **10月3日** 公布系统卡，**10月19日** 上线ChatGPT Plus（[来源](https://openai.com/index/dall-e-3-system-card/)）",
+      "en": "文生图工具，相比以往更能理解细微差别和细节。⚠️ 实际于 **10月3日** 公布系统卡，**10月19日** 上线ChatGPT Plus（[来源](https://openai.com/index/dall-e-3-system-card/)）"
+    }
+  },
+  {
+    "name": "腾讯混元大模型",
+    "org": "腾讯",
+    "logoUrl": "https://github.com/tencent.png",
+    "date": "2023-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "超100B，中文创作/逻辑推理/任务执行能力强大",
+      "en": "超100B，中文创作/逻辑推理/任务执行能力强大"
+    }
+  },
+  {
+    "name": "Llama 2（7B/13B/70B）",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2023-07-18",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "免费可商用！在推理/编码/知识测试中优于其他开源模型，成为后续大量模型的基座",
+      "en": "免费可商用！在推理/编码/知识测试中优于其他开源模型，成为后续大量模型的基座"
+    }
+  },
+  {
+    "name": "Claude 2",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2023-07-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "改进推理与编码，100K上下文",
+      "en": "改进推理与编码，100K上下文"
+    }
+  },
+  {
+    "name": "京东言犀大模型",
+    "org": "京东",
+    "logoUrl": "",
+    "date": "2023-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "面向产业的大模型",
+      "en": "面向产业的大模型"
+    }
+  },
+  {
+    "name": "Baichuan-7B",
+    "org": "百川智能",
+    "logoUrl": "",
+    "date": "2023-06-15",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "王小川创立，开源",
+      "en": "王小川创立，开源"
+    }
+  },
+  {
+    "name": "Aquila-7B",
+    "org": "智源研究院（BAAI）",
+    "logoUrl": "",
+    "date": "2023-06-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源语言模型",
+      "en": "开源语言模型"
+    }
+  },
+  {
+    "name": "Falcon（40B）",
+    "org": "TII（阿联酋）",
+    "logoUrl": "https://github.com/tiiuae.png",
+    "date": "2023-05-24",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**40B**，当时最强开源模型之一，Apache 2.0许可",
+      "en": "**40B**，当时最强开源模型之一，Apache 2.0许可"
+    }
+  },
+  {
+    "name": "Guanaco（7B-65B）",
+    "org": "华盛顿大学",
+    "logoUrl": "",
+    "date": "2023-05-23",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于QLoRA微调的高效模型",
+      "en": "基于QLoRA微调的高效模型"
+    }
+  },
+  {
+    "name": "RWKV（7B）",
+    "org": "RWKV Foundation",
+    "logoUrl": "",
+    "date": "2023-05-22",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源RNN架构LLM，可替代Transformer",
+      "en": "开源RNN架构LLM，可替代Transformer"
+    }
+  },
+  {
+    "name": "ChatGPT iOS App",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2023-05-18",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "移动端上线",
+      "en": "移动端上线"
+    }
+  },
+  {
+    "name": "CodeT5+（16B）",
+    "org": "Salesforce",
+    "logoUrl": "",
+    "date": "2023-05-13",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "代码理解与生成模型",
+      "en": "代码理解与生成模型"
+    }
+  },
+  {
+    "name": "Claude 100K上下文",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2023-05-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "上下文窗口从9K扩展到**100K tokens**。Claude参数未公开",
+      "en": "上下文窗口从9K扩展到**100K tokens**。Claude参数未公开"
+    }
+  },
+  {
+    "name": "PaLM 2",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2023-05-10",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "多语言/数学/代码能力更强，支持Bard。参数未公开，据推测为~340B（MoE）",
+      "en": "多语言/数学/代码能力更强，支持Bard。参数未公开，据推测为~340B（MoE）"
+    }
+  },
+  {
+    "name": "MPT-7B",
+    "org": "MosaicML",
+    "logoUrl": "https://github.com/mosaicml.png",
+    "date": "2023-05-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "首个开源可商用LLM",
+      "en": "首个开源可商用LLM"
+    }
+  },
+  {
+    "name": "RedPajama-INCITE（3B）",
+    "org": "Together",
+    "logoUrl": "https://github.com/togethercomputer.png",
+    "date": "2023-05-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源模型",
+      "en": "开源模型"
+    }
+  },
+  {
+    "name": "StarCoder（7B）",
+    "org": "Hugging Face",
+    "logoUrl": "https://github.com/huggingface.png",
+    "date": "2023-05-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "代码生成模型",
+      "en": "代码生成模型"
+    }
+  },
+  {
+    "name": "OpenLLaMA",
+    "org": "BAIR（UC Berkeley）",
+    "logoUrl": "",
+    "date": "2023-05-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源复现LLaMA",
+      "en": "开源复现LLaMA"
+    }
+  },
+  {
+    "name": "科大讯飞星火大模型",
+    "org": "科大讯飞",
+    "logoUrl": "",
+    "date": "2023-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "国内大模型发布",
+      "en": "国内大模型发布"
+    }
+  },
+  {
+    "name": "StableLM（3B/7B）",
+    "org": "Stability AI",
+    "logoUrl": "https://github.com/Stability-AI.png",
+    "date": "2023-04-20",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源语言模型系列",
+      "en": "开源语言模型系列"
+    }
+  },
+  {
+    "name": "Koala",
+    "org": "UC Berkeley",
+    "logoUrl": "",
+    "date": "2023-04-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "对话模型，在消费级GPU上运行",
+      "en": "对话模型，在消费级GPU上运行"
+    }
+  },
+  {
+    "name": "LLaVA",
+    "org": "微软/威斯康星大学",
+    "logoUrl": "",
+    "date": "2023-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "多模态大模型，少量数据即展现与GPT-4相似的推理结果",
+      "en": "多模态大模型，少量数据即展现与GPT-4相似的推理结果"
+    }
+  },
+  {
+    "name": "MiniGPT-4",
+    "org": "开源",
+    "logoUrl": "",
+    "date": "2023-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "在文本方面达到90% ChatGPT能力，具备GPT-4多模态功能",
+      "en": "在文本方面达到90% ChatGPT能力，具备GPT-4多模态功能"
+    }
+  },
+  {
+    "name": "通义千问",
+    "org": "阿里",
+    "logoUrl": "https://github.com/alibaba.png",
+    "date": "2023-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "阿里大模型正式发布",
+      "en": "阿里大模型正式发布"
+    }
+  },
+  {
+    "name": "Vicuna-13B",
+    "org": "LM-SYS",
+    "logoUrl": "",
+    "date": "2023-03-31",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源聊天机器人，达到GPT-4 90%质量的ChatGPT水平",
+      "en": "开源聊天机器人，达到GPT-4 90%质量的ChatGPT水平"
+    }
+  },
+  {
+    "name": "BloombergGPT",
+    "org": "Bloomberg",
+    "logoUrl": "",
+    "date": "2023-03-30",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**50B** 金融专用模型",
+      "en": "**50B** 金融专用模型"
+    }
+  },
+  {
+    "name": "GPT4All",
+    "org": "Nomic AI",
+    "logoUrl": "https://github.com/nomic-ai.png",
+    "date": "2023-03-29",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**7B** 开源助手模型",
+      "en": "**7B** 开源助手模型"
+    }
+  },
+  {
+    "name": "Dolly",
+    "org": "Databricks",
+    "logoUrl": "https://github.com/databricks.png",
+    "date": "2023-03-24",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**6B** 开源模型",
+      "en": "**6B** 开源模型"
+    }
+  },
+  {
+    "name": "ChatGPT Plugins",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2023-03-23",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "引入第三方工具与实时信息，生态变革开端",
+      "en": "引入第三方工具与实时信息，生态变革开端"
+    }
+  },
+  {
+    "name": "Bard（初始版）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2023-03-21",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于LaMDA的对话服务，后升级至PaLM 2",
+      "en": "基于LaMDA的对话服务，后升级至PaLM 2"
+    }
+  },
+  {
+    "name": "ChatGLM-6B",
+    "org": "清华",
+    "logoUrl": "",
+    "date": "2023-03-14",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源双语对话语言模型，国产大模型重要里程碑",
+      "en": "开源双语对话语言模型，国产大模型重要里程碑"
+    }
+  },
+  {
+    "name": "Claude / Claude Instant",
+    "org": "Anthropic",
+    "logoUrl": "https://github.com/anthropics.png",
+    "date": "2023-03-14",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "首次公开产品与API，采用Constitutional AI。Claude参数未公开，推测为~2T（MoE）",
+      "en": "首次公开产品与API，采用Constitutional AI。Claude参数未公开，推测为~2T（MoE）"
+    }
+  },
+  {
+    "name": "GPT-4",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2023-03-14",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**~1.8T**（MoE/16专家，激活~280B），多模态输入（图文），性能大幅提升，推理/编码能力飞跃，集成至ChatGPT Plus",
+      "en": "**~1.8T**（MoE/16专家，激活~280B），多模态输入（图文），性能大幅提升，推理/编码能力飞跃，集成至ChatGPT Plus"
+    }
+  },
+  {
+    "name": "Stanford Alpaca",
+    "org": "斯坦福",
+    "logoUrl": "",
+    "date": "2023-03-13",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于LLaMA 7B微调，52K指令数据，开源",
+      "en": "基于LLaMA 7B微调，52K指令数据，开源"
+    }
+  },
+  {
+    "name": "PaLM-E（5620亿）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2023-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "当时最大的视觉-语言模型",
+      "en": "当时最大的视觉-语言模型"
+    }
+  },
+  {
+    "name": "文心一言",
+    "org": "百度",
+    "logoUrl": "https://github.com/baidu.png",
+    "date": "2023-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "百度大模型正式发布",
+      "en": "百度大模型正式发布"
+    }
+  },
+  {
+    "name": "LLaMA（7B/13B/30B/65B）",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2023-02-24",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "发布后一周在4chan泄露，引发数千次下载。LLaMA-13B可胜GPT-3（1750B），在单块V100 GPU上运行，点燃开源AI热潮",
+      "en": "发布后一周在4chan泄露，引发数千次下载。LLaMA-13B可胜GPT-3（1750B），在单块V100 GPU上运行，点燃开源AI热潮"
+    }
+  },
+  {
+    "name": "ChatGPT Plus 订阅",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2023-02-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "$20/月，提供更快响应、稳定服务和优先体验新功能",
+      "en": "$20/月，提供更快响应、稳定服务和优先体验新功能"
+    }
+  },
+  {
+    "name": "ChatGPT 月活突破1亿",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2023-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "成为史上增长最快的消费级应用",
+      "en": "成为史上增长最快的消费级应用"
+    }
+  },
+  {
+    "name": "微软追加100亿美元投资",
+    "org": "微软",
+    "logoUrl": "",
+    "date": "2023-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "宣布向OpenAI追加100亿美元投资，深度绑定AI技术生态",
+      "en": "宣布向OpenAI追加100亿美元投资，深度绑定AI技术生态"
+    }
+  },
+  {
+    "name": "ChatGPT 持续爆火",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2022-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "全民AI热潮爆发，ChatGPT被称为\"史上增长最快消费级应用\"",
+      "en": "全民AI热潮爆发，ChatGPT被称为\"史上增长最快消费级应用\""
+    }
+  },
+  {
+    "name": "Gen-1",
+    "org": "Runway",
+    "logoUrl": "",
+    "date": "2022-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "首个支持视频到视频生成的AI工具，可通过文本指令修改视频内容/风格。⚠️ 实际为 **2023年2月** 发布（[来源](https://www.runway.ml/research/gen-1)），非2022年12月",
+      "en": "首个支持视频到视频生成的AI工具，可通过文本指令修改视频内容/风格。⚠️ 实际为 **2023年2月** 发布（[来源](https://www.runway.ml/research/gen-1)），非2022年12月"
+    }
+  },
+  {
+    "name": "Midjourney V4",
+    "org": "Midjourney",
+    "logoUrl": "",
+    "date": "2022-11-16",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "图像生成质量/细节/风格控制跨越式升级",
+      "en": "图像生成质量/细节/风格控制跨越式升级"
+    }
+  },
+  {
+    "name": "BLOOM（1760亿）",
+    "org": "BigScience",
+    "logoUrl": "",
+    "date": "2022-11-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源多语言模型，全球协作成果",
+      "en": "开源多语言模型，全球协作成果"
+    }
+  },
+  {
+    "name": "BLOOMZ / mT0（130亿/1760亿）",
+    "org": "BigScience",
+    "logoUrl": "",
+    "date": "2022-11-03",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "跨语言多任务微调模型",
+      "en": "跨语言多任务微调模型"
+    }
+  },
+  {
+    "name": "ChatGPT（GPT-3.5）",
+    "org": "**OpenAI**",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2022-11",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**基于GPT-3.5架构，搭载RLHF技术。5天突破100万用户，2个月达1亿月活，打破互联网产品增长纪录，正式开启全球AI军备竞赛，是AI从技术圈走向全民爆火的核心奇点**",
+      "en": "**基于GPT-3.5架构，搭载RLHF技术。5天突破100万用户，2个月达1亿月活，打破互联网产品增长纪录，正式开启全球AI军备竞赛，是AI从技术圈走向全民爆火的核心奇点**"
+    }
+  },
+  {
+    "name": "Flan-T5（110亿）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2022-10-20",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "指令微调模型系列",
+      "en": "指令微调模型系列"
+    }
+  },
+  {
+    "name": "Flan-U-PaLM（5400亿）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2022-10-20",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "在PaLM基础上指令微调，大幅提升推理能力",
+      "en": "在PaLM基础上指令微调，大幅提升推理能力"
+    }
+  },
+  {
+    "name": "WeLM（100亿）",
+    "org": "微信",
+    "logoUrl": "",
+    "date": "2022-09-21",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "中文预训练语言模型",
+      "en": "中文预训练语言模型"
+    }
+  },
+  {
+    "name": "PLUG（270亿）",
+    "org": "阿里达摩院",
+    "logoUrl": "",
+    "date": "2022-09-01",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "预训练语言理解与生成模型",
+      "en": "预训练语言理解与生成模型"
+    }
+  },
+  {
+    "name": "PanGu-Coder",
+    "org": "华为",
+    "logoUrl": "",
+    "date": "2022-08-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "基于PanGu-Alpha的代码生成模型，同时支持中英文，可求解高等数学问题",
+      "en": "基于PanGu-Alpha的代码生成模型，同时支持中英文，可求解高等数学问题"
+    }
+  },
+  {
+    "name": "BlenderBot 3（175B）",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2022-08-05",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "首个175B参数公开可用的聊天机器人，基于OPT-175B，开源模型权重/代码/数据集",
+      "en": "首个175B参数公开可用的聊天机器人，基于OPT-175B，开源模型权重/代码/数据集"
+    }
+  },
+  {
+    "name": "BLOOM（1760亿）",
+    "org": "BigScience",
+    "logoUrl": "",
+    "date": "2022-07-12",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "全球最大开源多语言模型，46种自然语言+13种编程语言。1000+研究人员、70+国家、250+机构协作，在法国Jean Zay超算训练117天",
+      "en": "全球最大开源多语言模型，46种自然语言+13种编程语言。1000+研究人员、70+国家、250+机构协作，在法国Jean Zay超算训练117天"
+    }
+  },
+  {
+    "name": "YaLM 100B",
+    "org": "Yandex（俄罗斯）",
+    "logoUrl": "",
+    "date": "2022-06-23",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "**100B** GPT-like模型，**Apache 2.0开源**，当时最大的开源GPT类神经网络",
+      "en": "**100B** GPT-like模型，**Apache 2.0开源**，当时最大的开源GPT类神经网络"
+    }
+  },
+  {
+    "name": "OPT-175B（175B）",
+    "org": "Meta",
+    "logoUrl": "https://github.com/facebook.png",
+    "date": "2022-05-02",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "与GPT-3规模相当的开源模型，旨在促进学术界的开放研究",
+      "en": "与GPT-3规模相当的开源模型，旨在促进学术界的开放研究"
+    }
+  },
+  {
+    "name": "PaLM（5400亿）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2022-04-04",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "基于Pathways架构，在多个任务上展示当时最先进性能，擅长推理和代码任务，文中提到\"思维链\"技术（[来源](https://research.google/blog/pathways-language-model-palm-scaling-to-540-billion-parameters-for-breakthrough-performance/)）",
+      "en": "基于Pathways架构，在多个任务上展示当时最先进性能，擅长推理和代码任务，文中提到\"思维链\"技术（[来源](https://research.google/blog/pathways-language-model-palm-scaling-to-540-billion-parameters-for-breakthrough-performance/)）"
+    }
+  },
+  {
+    "name": "DALL·E 2 正式上线",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2022-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "向公众开放使用",
+      "en": "向公众开放使用"
+    }
+  },
+  {
+    "name": "Chinchilla（700亿）",
+    "org": "Google DeepMind",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2022-03-29",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "重要研究转折：同等计算预算下，用更多数据训练较小模型效果更好，改变\"更大就一定更好\"的观念",
+      "en": "重要研究转折：同等计算预算下，用更多数据训练较小模型效果更好，改变\"更大就一定更好\"的观念"
+    }
+  },
+  {
+    "name": "CodeGen（160亿）",
+    "org": "Salesforce",
+    "logoUrl": "",
+    "date": "2022-03-25",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "多轮程序合成的开源代码生成模型",
+      "en": "多轮程序合成的开源代码生成模型"
+    }
+  },
+  {
+    "name": "GLM-130B（1300亿）",
+    "org": "清华",
+    "logoUrl": "",
+    "date": "2022-03-17",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "双语（中英）开源模型，GLM系列前身。⚠️ GitHub 仓库创建于 **8月3日**，arXiv 论文发表于 **10月6日**，3/17 日期来源待确认",
+      "en": "双语（中英）开源模型，GLM系列前身。⚠️ GitHub 仓库创建于 **8月3日**，arXiv 论文发表于 **10月6日**，3/17 日期来源待确认"
+    }
+  },
+  {
+    "name": "DALL·E 2",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2022-03-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "图像生成质量/分辨率/语义对齐质的飞跃，AI绘画进入创作者视野（[来源](https://openai.com/dall-e-2/)）",
+      "en": "图像生成质量/分辨率/语义对齐质的飞跃，AI绘画进入创作者视野（[来源](https://openai.com/dall-e-2/)）"
+    }
+  },
+  {
+    "name": "InstructGPT（175B）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2022-03-04",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "采用Instruction Finetune+RLHF，比GPT-3更擅长与人类\"沟通\"，ChatGPT的兄弟模型。⚠️ 公告日期为 **1月27日**（[来源](https://openai.com/index/instruction-following/)），3/4 为 arXiv 论文上线日期",
+      "en": "采用Instruction Finetune+RLHF，比GPT-3更擅长与人类\"沟通\"，ChatGPT的兄弟模型。⚠️ 公告日期为 **1月27日**（[来源](https://openai.com/index/instruction-following/)），3/4 为 arXiv 论文上线日期"
+    }
+  },
+  {
+    "name": "AlphaCode（410亿）",
+    "org": "Google DeepMind",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2022-02-08",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "竞赛级代码生成，在编程竞赛中达到人类水平",
+      "en": "竞赛级代码生成，在编程竞赛中达到人类水平"
+    }
+  },
+  {
+    "name": "MT-NLG（5300亿）",
+    "org": "微软/NVIDIA",
+    "logoUrl": "https://github.com/nvidia.png",
+    "date": "2022-01-28",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "当时最大的生成式语言模型，使用DeepSpeed+Megatron训练",
+      "en": "当时最大的生成式语言模型，使用DeepSpeed+Megatron训练"
+    }
+  },
+  {
+    "name": "LaMDA（1370亿）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2022-01-20",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "专为对话应用设计，追求对话安全性/质量/趣味性，展示接近人类水平的对话质量",
+      "en": "专为对话应用设计，追求对话安全性/质量/趣味性，展示接近人类水平的对话质量"
+    }
+  },
+  {
+    "name": "GLaM",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2021-12-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "首个大规模MoE（混合专家）模型，在保持高性能的同时大幅提升效率",
+      "en": "首个大规模MoE（混合专家）模型，在保持高性能的同时大幅提升效率"
+    }
+  },
+  {
+    "name": "FLAN（1370亿）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2021-10-06",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "提出**Instruction Tuning**概念，自此重新转向decoder-only架构，为ChatGPT奠定方法论基础",
+      "en": "提出**Instruction Tuning**概念，自此重新转向decoder-only架构，为ChatGPT奠定方法论基础"
+    }
+  },
+  {
+    "name": "Gopher（2800亿）",
+    "org": "Google DeepMind",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2021-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "DeepMind加入LLM竞赛，大规模探索模型规模扩展",
+      "en": "DeepMind加入LLM竞赛，大规模探索模型规模扩展"
+    }
+  },
+  {
+    "name": "OpenAI Codex",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2021-08-10",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "代码生成/理解模型，基于GPT-3衍生。支持自然语言转代码，为GitHub Copilot提供动力，**开启AI编程元年**",
+      "en": "代码生成/理解模型，基于GPT-3衍生。支持自然语言转代码，为GitHub Copilot提供动力，**开启AI编程元年**"
+    }
+  },
+  {
+    "name": "GPT-J-6B",
+    "org": "EleutherAI",
+    "logoUrl": "",
+    "date": "2021-06-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源权重语言模型，社区开发",
+      "en": "开源权重语言模型，社区开发"
+    }
+  },
+  {
+    "name": "GPT-Neo 2.7B",
+    "org": "EleutherAI",
+    "logoUrl": "",
+    "date": "2021-03-22",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "开源社区开发的GPT-3替代品，**MIT许可**开源。在NLP推理基准上优于同尺寸GPT-3模型",
+      "en": "开源社区开发的GPT-3替代品，**MIT许可**开源。在NLP推理基准上优于同尺寸GPT-3模型"
+    }
+  },
+  {
+    "name": "悟道 1.0（1.75T）",
+    "org": "智源研究院（BAAI）",
+    "logoUrl": "",
+    "date": "2021-01-11",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "当时全球最大模型，**1.75T**，是GPT-3的10倍。多模态模型，可写诗/作文/生成图像/预测蛋白质结构。使用FastMoE开源框架",
+      "en": "当时全球最大模型，**1.75T**，是GPT-3的10倍。多模态模型，可写诗/作文/生成图像/预测蛋白质结构。使用FastMoE开源框架"
+    }
+  },
+  {
+    "name": "DALL·E",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2021-01-05",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**12B**，首次实现高质量文本到图像生成，多模态生成技术正式萌芽。将文本和图像数据统一为Token序列，通过自回归方式生成图像",
+      "en": "**12B**，首次实现高质量文本到图像生成，多模态生成技术正式萌芽。将文本和图像数据统一为Token序列，通过自回归方式生成图像"
+    }
+  },
+  {
+    "name": "mT5（130亿）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2020-10-23",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "多语言版本的T5，覆盖101种语言，在多语言基准上达到SOTA，引入\"防止意外翻译\"技术",
+      "en": "多语言版本的T5，覆盖101种语言，在多语言基准上达到SOTA，引入\"防止意外翻译\"技术"
+    }
+  },
+  {
+    "name": "GPT-3（175B）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2020-05-28",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "当时世界上最大的语言模型，是GPT-2的100倍以上。首次展现**上下文学习（In-Context Learning）** 能力——无需微调，仅通过少量示例（Few-shot）即可完成翻译/问答/摘要/代码生成等任务。通过API开放，验证了**缩放定律（Scaling Law）**，引爆AIGC应用生态",
+      "en": "当时世界上最大的语言模型，是GPT-2的100倍以上。首次展现**上下文学习（In-Context Learning）** 能力——无需微调，仅通过少量示例（Few-shot）即可完成翻译/问答/摘要/代码生成等任务。通过API开放，验证了**缩放定律（Scaling Law）**，引爆AIGC应用生态"
+    }
+  },
+  {
+    "name": "T5（11B）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2020-02-24",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**Text-to-Text Transfer Transformer**，将所有NLP任务统一为\"文本到文本\"框架。在GLUE、SuperGLUE、SQuAD等基准上达到SOTA，SuperGLUE接近人类水平。开源C4数据集",
+      "en": "**Text-to-Text Transfer Transformer**，将所有NLP任务统一为\"文本到文本\"框架。在GLUE、SuperGLUE、SQuAD等基准上达到SOTA，SuperGLUE接近人类水平。开源C4数据集"
+    }
+  },
+  {
+    "name": "ProphetNet",
+    "org": "微软",
+    "logoUrl": "",
+    "date": "2020-01-13",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "序列到序列预训练模型，使用未来n-gram预测目标，在摘要和问答任务中达到SOTA",
+      "en": "序列到序列预训练模型，使用未来n-gram预测目标，在摘要和问答任务中达到SOTA"
+    }
+  },
+  {
+    "name": "DistilBERT",
+    "org": "HuggingFace",
+    "logoUrl": "",
+    "date": "2019-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "BERT的蒸馏版本，更小/更快/更便宜，保留95%性能",
+      "en": "BERT的蒸馏版本，更小/更快/更便宜，保留95%性能"
+    }
+  },
+  {
+    "name": "T5（论文）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2019-10",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "发表论文《Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer》，提出Text-to-Text框架（正式模型2020年2月发布）",
+      "en": "发表论文《Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer》，提出Text-to-Text框架（正式模型2020年2月发布）"
+    }
+  },
+  {
+    "name": "ALBERT",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2019-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "轻量版BERT，通过参数共享大幅减少参数量，同时保持性能",
+      "en": "轻量版BERT，通过参数共享大幅减少参数量，同时保持性能"
+    }
+  },
+  {
+    "name": "BART",
+    "org": "Facebook AI",
+    "logoUrl": "",
+    "date": "2019-09",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "去噪序列到序列预训练模型，结合BERT的双向编码器和GPT的自回归解码器",
+      "en": "去噪序列到序列预训练模型，结合BERT的双向编码器和GPT的自回归解码器"
+    }
+  },
+  {
+    "name": "RoBERTa",
+    "org": "Facebook AI",
+    "logoUrl": "",
+    "date": "2019-07",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "对BERT进行鲁棒优化，证明训练过程与架构同样重要。在GLUE、RACE、SQuAD上超越BERT",
+      "en": "对BERT进行鲁棒优化，证明训练过程与架构同样重要。在GLUE、RACE、SQuAD上超越BERT"
+    }
+  },
+  {
+    "name": "XLNet",
+    "org": "Google/CMU",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2019-06-19",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "广义自回归预训练方法，克服BERT的掩码限制，考虑所有排列因子顺序来建模双向上下文。在20个任务上大幅超越BERT",
+      "en": "广义自回归预训练方法，克服BERT的掩码限制，考虑所有排列因子顺序来建模双向上下文。在20个任务上大幅超越BERT"
+    }
+  },
+  {
+    "name": "GROVER",
+    "org": "华盛顿大学/Allen AI",
+    "logoUrl": "",
+    "date": "2019-05-29",
+    "repo": "",
+    "tags": [],
+    "description": {
+      "zh-CN": "类似GPT-2的语言模型，可生成逼真的新闻文章。研究发现检测假新闻的最佳防御就是GROVER本身（92%准确率），未开放大版本",
+      "en": "类似GPT-2的语言模型，可生成逼真的新闻文章。研究发现检测假新闻的最佳防御就是GROVER本身（92%准确率），未开放大版本"
+    }
+  },
+  {
+    "name": "GPT-2（1.5B）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2019-02-14",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "展示大规模模型的**零样本能力**——无需微调即可完成多种任务。OpenAI最初以\"太危险\"为由拒绝发布完整模型，引发AI安全大讨论。完整模型于11月发布",
+      "en": "展示大规模模型的**零样本能力**——无需微调即可完成多种任务。OpenAI最初以\"太危险\"为由拒绝发布完整模型，引发AI安全大讨论。完整模型于11月发布"
+    }
+  },
+  {
+    "name": "BERT（340M）",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2018-10-11",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "**双向编码器表示**，从左右两个方向同时理解上下文。在11项NLP基准测试中打破纪录，被集成到Google搜索中影响约10%的查询。宣告NLP范式改变，**开源**",
+      "en": "**双向编码器表示**，从左右两个方向同时理解上下文。在11项NLP基准测试中打破纪录，被集成到Google搜索中影响约10%的查询。宣告NLP范式改变，**开源**"
+    }
+  },
+  {
+    "name": "GPT-1（117M）",
+    "org": "OpenAI",
+    "logoUrl": "https://github.com/openai.png",
+    "date": "2018-06-11",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "提出\"**生成式预训练+有监督微调**\"范式。基于Transformer解码器，在BooksCorpus上无监督预训练，再针对特定任务微调。为后续所有GPT系列模型奠定基础",
+      "en": "提出\"**生成式预训练+有监督微调**\"范式。基于Transformer解码器，在BooksCorpus上无监督预训练，再针对特定任务微调。为后续所有GPT系列模型奠定基础"
+    }
+  },
+  {
+    "name": "Transformer 论文",
+    "org": "Google",
+    "logoUrl": "https://github.com/google.png",
+    "date": "2017-06",
+    "repo": "",
+    "tags": [
+      "Featured"
+    ],
+    "description": {
+      "zh-CN": "发表论文《**Attention Is All You Need**》，提出**Transformer架构**，用自注意力机制彻底替代传统RNN。成为后续所有大语言模型、生成式AI的核心骨架，**开启大模型时代的序幕**",
+      "en": "发表论文《**Attention Is All You Need**》，提出**Transformer架构**，用自注意力机制彻底替代传统RNN。成为后续所有大语言模型、生成式AI的核心骨架，**开启大模型时代的序幕**"
+    }
+  }
+]
