@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """转换数据并清理来源标记"""
-import json
+import json, re
 
 SRC = "D:/WebDesign/my-obs/my-obs/1.公众号运营/文章/选题资料/大模型发布/models.json"
 DST = "D:/WebDesign/ai-model-history/docs/models.json"
@@ -17,6 +17,7 @@ EXTRA_LOGOS = {
     "microsoft": "https://github.com/microsoft.png",
     "nvidia": "https://github.com/nvidia.png",
     "阿里": "https://github.com/alibaba.png",
+    "阿里/千问": "https://github.com/alibaba.png",
     "百度": "https://github.com/baidu.png",
     "腾讯": "https://github.com/tencent.png",
     "字节跳动": "https://github.com/bytedance.png",
@@ -77,9 +78,14 @@ def main():
 
         desc = clean_desc(m.get("description") or "")
 
+        # 清理名称和公司名中的 markdown
+        name = m["name"].replace("**", "").strip()
+        org = m.get("company", "").replace("**", "").strip()
+        org = org.replace("阿里/千问", "阿里").replace("阿里/达摩院", "阿里")
+
         converted.append({
-            "name": m["name"],
-            "org": m.get("company", ""),
+            "name": name,
+            "org": org,
             "logoUrl": get_logo(m.get("company", "")),
             "date": display_date,
             "repo": "",
