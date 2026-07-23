@@ -132,6 +132,7 @@ async function init() {
         
         // Setup search
         document.getElementById('searchInput').addEventListener('input', handleSearch);
+        document.getElementById('searchInput').addEventListener('keyup', handleSearch);
         
     } catch (error) {
         console.error('Error loading models:', error);
@@ -234,6 +235,11 @@ function applyFilters() {
 
 // Handle Search
 function handleSearch(e) {
+    applyFilters();
+}
+
+// Handle Filter Change
+function handleFilterChange(e) {
     applyFilters();
 }
 
